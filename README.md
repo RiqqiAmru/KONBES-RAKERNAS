@@ -227,8 +227,69 @@ Presidium sidang apabila melanggar tata tertib, maka mendapatkan sanksi:
 
 Hal-hal yang belum diatur dalam tata tertib Konbes dan Rakernas ini akan diatur lebih lanjut oleh presidium sidang dengan persetujuan peserta sidang.
 
-~ditetapkan di Pasuruan, 12 Agustus 2023~
+<sub>ditetapkan di Pasuruan, 12 Agustus 2023</sub>
 
 Ketua - M. Ghulam Dhofar Mansur  
 Sekretaris - Aan Andri Andriansyah  
 Anggota - Sulkifli Aziz
+
+## SYARAT MENJADI PENGURUS
+
+SURAT KEPUTUSAN KONFERENSI BESAR IKATAN PELAJAR NAHDLATUL ULAMA Nomor : 01/Konbes/IPNU/VIII/2023
+PENGESAHAN PERATURAN ORGANISASI IKATAN PELAJAR NAHDLATUL ULAMA TENTANG SYARAT MENJADI PENGURUS
+
+**_Bismillahirrahmanirrahim_**
+
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 - 13 Agustus 2023 di Tamman Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+Menimbang :
+
+1. Bahwa Kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
+2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi, maka diperlukan Peraturan Organisasi tentang Syarat Menjadi Pengurus
+3. Bahwa untuk melaksanakan maksud tersebut maka perlu ditetapkan Peraturan Organisasi tentang Syarat menjadi Pengurus Ikatan Pelajar Nahdlatul Ulama;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+
+1. Hasil Pembahasan sidang komisi dan masukan-masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+2. Sidang Pleno Konferensi Besar Ikatan Pelajar Nahdlatul Ulama.
+
+Dengan senantiasa memohon petunjuk Allah SWT,
+
+**MEMUTUSKAN**
+Menetapkan:
+
+1. Mengesahkan Peraturan Organisasi tentang Syarat Menjadi Pengurus sebagai pedoman penyelenggaraan organisasi IPNU di semua tingkatan, sebagaimana terlampir;
+2. memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Komisariat, Pimpinan Ranting serta anggota IPNU untuk menaati seluruh aturan dalam peraturan organisasi IPNU.
+3. keputusan ini sejak tanggal ditetapkan
+
+**_Wallahul muwafiq ila aqwamith-tharieq_**
+
+<sub>Ditetapkan di Pasuruan, 12 Agustus 2023</sub>
+
+Presidium Sidang Pleno
+Ketua - M. Ghulam Dhofir Mansur
+Sekretaris - Aan Andri Andriansyah
+Anggota - Sulkifli Aziz
+
+### BAB I - KETENTUAN UMUM
+
+#### Pasal 1 - Syarat Menjadi Pengurus
+
+Dalam Peraturan Organisasi tentang Syarat Menjadi Pengurus Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud dengan :
+
+1. Pengurus Ikatan Pelajar Nahdlatul Ulama adalah perangkat yang menjalankan aktivitas Perkumpulan Organisasi IPNU di suatu wilayah pada masa khidmat tertentu, yang terdiri atas pengurus yang memiliki jabatan, bidang kerja, tugas, wewenang, dan tanggung jawab serta memperoleh pengesahan dalam bentuk surat keputusan.
+2. Anggota Ikatan Pelajar Nahdlatul Ulama adalah setiap warga negara Indonesia dalam segmentasi pelajar, santri dan mahasiswa berusia 13-24 tahun yang beragama Islam, berhaluan Ahlus Sunnah wal Jama'ah An-Nahdliyah, dan menyatakan diri setia terhadap Peraturan Dasar dan Peraturan Rumah Tangga IPNU serta terdaftar sebagai anggota.
+3. Pimpinan PUsat, selanjutnya disebut PP, adalah Pimpinan Pusat Ikatan Pelajar Nahdlatul Ulama.
+4. Pimpinan Wilayah, selanjutnya disebut PW, adalah Pimpinan Wilayah Ikatan Pelajar Nahdlatul Ulama di seluruh Indonesia.
+5. Pimpinan Cabang, selanjutnya disebut PC, adalah Pimpinan Cabang Ikatan Pelajar Nahdlatul Ulama di seluruh Indonesia.
+6. Pimpinan Cabang Istimewa, selanjutnya disebut PCI, adalah Pimpinan Cabang Istimewa Ikatan Pelajar Nahdlatul Ulama di semua negara dimana IPNU berada;
+7. Pimpinan Anak Cabang, selanjutnya Disebut PAC, adalah Pimpinan Anak Cabang Ikatan Pelajar Nahdlatul Ulama diseluruh Indonesia
+8. Pimpinan Komisariat, selanjutnya disebut PK, adalah Pimpinan Komisariat Ikatan Pelajar Nahdlatul Ulama di perguruan tinggi, madrasah, sekolah, atau pondok pesantren di seluruh Indonesia.
+9. Pimpinan Ranting, selanjutnya disebut PR, adalah Pimpinan Ranting Ikatan Pelajar Nahdlatul Ulama di seluruh Indonesia.
+10. Koordinator Wilayah, selanjutnya disingkat Korwil, adalah jabatan non-strukturan yang ada di Pimpinan PUsat untuk membantu ketua umum dalam mengkoordinasikan Pimpinan Wilayah.
+11. Koordinator Daerah, selanjutnya disingkat Korda, adalah jabatan non- struktural yang ada di Pimpinan Wilayah untuk membantu ketua dalam mengkoordinasikan Pimpinan Cabang.
+12. 
