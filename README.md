@@ -8,9 +8,9 @@ Pasuruan,Jawa Timur
 
 ## Table of Contents
 
-- (Konbes & Rakernas IPNU 2023)[#konbes--rakernas-ipnu-2023]
+- [Konbes & Rakernas IPNU 2023](#konbes--rakernas-ipnu-2023)
   - [Table of Contents](#table-of-contents)
-  - [Tata Tertib Konferensi Besar dan Rapat Kerja Nasional Ikatan Pelajar Nahdlatul Ulama](#tata-tertib-konferensi-besar-dan-rapat-kerja-nasional-ikatan-pelajar-nahdlatul-ulama)
+  - [TATA TERTIB](#tata-tertib)
     - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum)
       - [Pasal 1](#pasal-1)
       - [Pasal 2](#pasal-2)
@@ -44,8 +44,27 @@ Pasuruan,Jawa Timur
       - [Pasal 22](#pasal-22)
     - [BAB XI - PENUTUP](#bab-xi---penutup)
       - [Pasal 23](#pasal-23)
+  - [SYARAT MENJADI PENGURUS](#syarat-menjadi-pengurus)
+    - [Ketentuan Umum](#ketentuan-umum)
+      - [Pasal 1 - SYARAT MENJADI PENGURUS](#pasal-1---syarat-menjadi-pengurus)
+      - [Pasal 2](#pasal-2)
+      - [Pasal 3](#pasal-3)
+    - [BAB II - PENGURUS HARIAN IKATAN PELAJAR NAHDLATUL ULAMA](#bab-ii---pengurus-harian-ikatan-pelajar-nahdlatul-ulama)
+      - [Pasal 4](#pasal-4)
+      - [Pasal 5](#pasal-5)
+    - [BAB III - SYARAT MENJADI PENGURUS HARIAN IPNU](#bab-iii---syarat-menjadi-pengurus-harian-ipnu)
+      - [Pasal 6](#pasal-6)
+      - [Pasal 7](#pasal-7)
+      - [Pasal 8](#pasal-8)
+      - [Pasal 9](#pasal-9)
+      - [Pasal 10](#pasal-10)
+    - [BAB IV - KETENTUAN PERALIHAN](#bab-iv---ketentuan-peralihan)
+      - [Pasal 11](#pasal-11)
+    - [BAB V - KETENTUAN PENUTUP](#bab-v---ketentuan-penutup)
+      - [Pasal 12](#pasal-12)
+  - [DAFTAR ISTILAH](#daftar-istilah)
 
-## Tata Tertib Konferensi Besar dan Rapat Kerja Nasional Ikatan Pelajar Nahdlatul Ulama
+## TATA TERTIB
 
 Bismillahirrohmaanirrohiim
 
@@ -232,3 +251,167 @@ Hal-hal yang belum diatur dalam tata tertib Konbes dan Rakernas ini akan diatur 
 Ketua - M. Ghulam Dhofar Mansur  
 Sekretaris - Aan Andri Andriansyah  
 Anggota - Sulkifli Aziz
+
+## SYARAT MENJADI PENGURUS
+
+```
+Nomor : 01/Konbes/IPNU/VIII/2023
+
+PENGESAHAN PERATURAN ORGANISASI
+IKATAN PELAJAR NAHDLATUL ULAMA
+TENTANG
+SYARAT MENJADI PENGURUS
+
+```
+
+_Bismillahirrahmanirrahim_
+
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+
+Menimbang :
+
+1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
+2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi, maka diperlukan Peraturan Organisasi tentang Syarat Menjadi Pengurus
+3. Bahwa untuk melaksanakan maksud tersebut, maka perlu ditetapkan Peraturan Organisasi tentang Syarat Menjadi Pengurus Ikatan Pelajar Nahdlatul Ulama;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU;
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+
+1. Hasil pembahasan sidang komisi dan masukan-masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+2. Sidang Pleno Konferensi Besar Ikatan Pelajar Nahdlatul Ulama. Dengan senantiasa memohon petunjuk Allah SWT,
+
+M E M U T U S K A N
+
+Menetapkan :
+
+1. Mengesahkan Peraturan Organisasi tentang Syarat Menjadi Pengurus sebagai pedoman penyelenggaraan organisasi IPNU di semua tingkatan, sebagaimana terlampir;
+2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Komisariat, Pimpinan Ranting serta anggota IPNU untuk mentaati seluruh aturan dalam Peraturan Organisasi IPNU.
+3. Keputusan ini sejak tanggal ditetapkan.
+   _Wallahul muwafiq ila aqwamith-tharieq_
+
+~ditetapkan di Pasuruan, 12 Agustus 2023~
+
+Ketua - M. Ghulam Dhofar Mansur  
+Sekretaris - Aan Andri Andriansyah  
+Anggota - Sulkifli Aziz
+
+### BAB I - KETENTUAN UMUM
+
+#### Pasal 1 - SYARAT MENJADI PENGURUS
+
+Dalam Peraturan Organisasi tentang Syarat Menjadi Pengurus Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud dengan :
+
+1. Pengurus Ikatan Pelajar Nahdlatul Ulama adalah perangkat yang menjalankan aktivitas Perkumpulan Organisasi IPNU di suatu wilayah pada masa khidmat tertentu, yang terdiri atas pengurus yang memiliki jabatan, bidang kerja, tugas, wewenang, dan tanggung jawab, serta memperoleh pengesahan dalam bentuk surat keputusan.
+2. Anggota Ikatan Pelajar Nahdlatul Ulama adalah setiap warga negara Indonesia dalam segmentasi pelajar, santri dan mahasiswa berusia 13 – 24 tahun yang beragama Islam, berhaluan Ahlus Sunnah wal Jama’ah An-Nahdliyah, dan menyatakan diri setia terhadap Peraturan Dasar dan Peraturan Rumah Tangga IPNU serta terdaftar sebagai anggota.
+3. Pimpinan Pusat, selanjutnya disebut <span id='pp'>**PP**</span>, adalah Pimpinan Pusat Ikatan Pelajar Nahdlatul Ulama.
+4. Pimpinan Wilayah, selanjutnya disebut <span id='pw'>**PW**</span>, adalah Pimpinan Wilayah Ikatan Pelajar Nahdlatul Ulama di seluruh Indonesia.
+5. Pimpinan Cabang, selanjutnya disebut <span id='pc'>**PC**</span>, adalah Pimpinan Cabang Ikatan Pelajar Nahdlatul Ulama di seluruh Indonesia.
+6. Pimpinan Cabang Istimewa, selanjutnya disebut <span id='pci'>**PCI**</span>, adalah Pimpinan Cabang Istimewa Ikatan Pelajar Nahdlatul Ulama di semua negara di mana IPNU berada;
+7. Pimpinan Anak Cabang, selanjutnya disebut <span id='pac'>**PAC**</span>, adalah Pimpinan Anak Cabang Ikatan Pelajar Nahdlatul Ulama di seluruh Indonesia.
+8. Pimpinan Komisariat, selanjutnya disebut <span id='pk'>**PK**</span>, adalah Pimpinan Komisariat Ikatan Pelajar Nahdlatul Ulama di Perguruan Tinggi, Madrasah, Sekolah atau Pondok Pesantren di seluruh Indonesia.
+9. Pimpinan Ranting, selanjutnya disebut <span id='pr'>**PR**</span>, adalah Pimpinan Ranting Ikatan Pelajar Nahdlatul Ulama di seluruh Indonesia.
+10. Koordinator Wilayah, selanjutnya disingkat <span id='korwil'>**Korwil**</span>, adalah jabatan non-struktural yang ada di Pimpinan Pusat untuk membantu ketua umum dalam mengkoordinasikan Pimpinan Wilayah.
+11. Koordinator Daerah, selanjutnya disingkat <span id='korda'>**Korda**</span>, adalah jabatan non-struktural yang ada di Pimpinan Wilayah untuk membantu ketua dalam mengkoordinasikan Pimpinan Cabang.
+12. <span id='laknas'>**LAKNAS**</span> adalah singkatan dari Latihan Kader Nasional yang merupakan jenjang pendidikan Tingkat Nasional dalam sistem kaderisasi IPNU.
+13. <span id='lakut'>**LAKUT**</span> adalah singkatan dari Latihan Kader Utama yang merupakan jenjang pendidikan tertinggi Tingkat Wilayah dalam sistem kaderisasi IPNU.
+14. <span id='lakmud'>**LAKMUD**</span> adalah singkatan dari Latihan Kader Muda yang merupakan jenjang pendidikan tertinggi Tingkat Kecamatan dalam sistem kaderisasi IPNU.
+15. <span id='makesta'>**MAKESTA**</span> adalah singkatan dari Masa Kesetiaan Anggota yang merupakan jenjang pendidikan tertinggi Tingkat Ranting dan Komisariat dalam sistem kaderisasi IPNU.
+
+### BAB II - PENGURUS HARIAN IKATAN PELAJAR NAHDLATUL ULAMA
+
+#### Pasal 2
+
+Pengurus harian tingkat nasional terdiri dari:
+
+1. Pengurus Harian IPNU yang terdiri dari Ketua Umum, beberapa Wakil Ketua Umum, beberapa Ketua, Sekretaris Umum, beberapa Wakil Sekretaris Umum, Bendahara Umum dan beberapa Wakil Bendahara Umum.
+
+#### Pasal 3
+
+Pengurus harian tingkat wilayah, cabang, cabang istimewa, pimpinan anak cabang, ranting dan komisariat terdiri dari:
+
+1. Pengurus Harian IPNU yang terdiri dari Ketua, beberapa Wakil Ketua, beberapa Ketua,
+   Sekretaris, beberapa Wakil Sekretaris, Bendahara dan beberapa Wakil Bendahara.
+
+### BAB III - SYARAT MENJADI PENGURUS HARIAN IPNU
+
+#### Pasal 4
+
+1. Seorang anggota dapat dipilih menjadi Pengurus Harian Ketua Umum Pimpinan Pusat Ikatan Pelajar Nahdlatul Ulama dengan persyaratan sebagai berikut:
+   - Pernah menjadi Pengurus Harian PP. IPNU atau Pengurus PP. IPNU, dan/atau pengurus harian tingkat wilayah sekurang-kurangnya satu masa khidmat kepengurusan, dibuktikan dengan surat keputusan; dan
+   - Telah lulus kaderisasi tingkat tinggi Nasional (LAKNAS) dibuktikan dengan sertifikat atau surat keterangan lulus dari Instruktur.
+2. Pengurus yang tidak memenuhi syarat sebagaimana diatur dalam ayat (1) dapat dipilih dengan ketentuan sebanyak-banyaknya 10% (sepuluh persen) dari keseluruhan jumlah Pengurus Harian PP. IPNU.
+3. Bagi pengurus yang tidak memenuhi syarat sebagaimana dimaksud dalam ayat (1 poin b), wajib mengikuti LAKNAS paling lambat 12 (dua belas) bulan sejak ditetapkan dalam surat keputusan.
+4. Kaderisasi sebagaimana dimaksud dalam ayat (1) huruf b mengikuti ketentuan sebagaimana diatur dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama tentang Sistem Kaderisasi.
+
+#### Pasal 5
+
+1. Seorang anggota dapat dipilih menjadi Pengurus Harian Ketua Pimpinan Wilayah Ikatan Pelajar Nahdlatul Ulama dengan persyaratan sebagai berikut:
+   - Pernah menjadi Pengurus Harian PW. IPNU atau Pengurus PW. IPNU, dan/atau pengurus harian tingkat Cabang sekurang-kurangnya satu masa khidmat kepengurusan, dibuktikan dengan surat keputusan; dan
+   - Telah lulus kaderisasi tingkat tinggi Wilayah (LAKUT) dibuktikan dengan sertifikat atau surat keterangan lulus dari Instruktur.
+2. Pengurus yang tidak memenuhi syarat sebagaimana diatur dalam ayat (1) dapat dipilih dengan ketentuan sebanyak-banyaknya 10 % (sepuluh persen), 20% (dua puluh persen), dan 30% (tiga puluh persen) dari keseluruhan jumlah Pengurus Harian PW IPNU yang termasuk dalam hasil klasterisasi dan Akreditasi A, B, dan C, masing-masing secara berturut-turut.
+3. Bagi pengurus yang tidak memenuhi syarat sebagaimana dimaksud dalam ayat (1 poin b), wajib mengikuti LAKUT paling lambat 12 (dua belas) bulan sejak ditetapkan dalam surat keputusan.
+4. Kaderisasi sebagaimana dimaksud dalam ayat (1) huruf b mengikuti ketentuan sebagaimana diatur dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama tentang Sistem Kaderisasi.
+5. Klasifikasi sebagaimana dimaksud dalam ayat (2) mengikuti ketentuan sebagaimana diatur dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama tentang Klasterisasi Organisasi dan Akreditasi Organisasi.
+
+#### Pasal 6
+
+1. Seorang anggota dapat dipilih menjadi Pengurus Harian Ketua Pimpinan Cabang Ikatan Pelajar Nahdlatul Ulama dengan persyaratan sebagai berikut:
+   - Pernah menjadi Pengurus Harian PC IPNU atau Pengurus PAC IPNU, dan/atau pengurus harian tingkat Anak Cabang sekurang-kurangnya satu masa khidmat kepengurusan, dibuktikan dengan surat keputusan; dan
+   - Telah lulus kaderisasi tingkat tinggi Wilayah (LAKMUD) dibuktikan dengan sertifikat atau surat keterangan lulus dari Instruktur.
+2. Pengurus yang tidak memenuhi syarat sebagaimana diatur dalam ayat (1) dapat dipilih dengan ketentuan sebanyak-banyaknya 10 % (sepuluh persen), 20% (dua puluh persen), dan 30% (tiga puluh persen) dari keseluruhan jumlah Pengurus Harian PC. IPNU yang termasuk dalam hasil klasterisasi dan Akreditasi A, B, dan C, masing-masing secara berturut-turut.
+3. Bagi pengurus yang tidak memenuhi syarat sebagaimana dimaksud dalam ayat (1 poin b), wajib mengikuti LAKMUD paling lambat 12 (dua belas) bulan sejak ditetapkan dalam surat keputusan.
+4. Kaderisasi sebagaimana dimaksud dalam ayat (1) huruf b mengikuti ketentuan sebagaimana diatur dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama tentang Sistem Kaderisasi.
+5. Klasifikasi sebagaimana dimaksud dalam ayat (2) mengikuti ketentuan sebagaimana diatur dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama tentang Klasterisasi Organisasi dan Akreditasi Organisasi.
+
+#### Pasal 7
+
+Seorang anggota dapat dipilih menjadi Pengurus Harian Ketua PCI. IPNU dengan persyaratan sebagai berikut:
+
+1. Memiliki latar belakang pendidikan pesantren atau sekolah yang terafiliasi dengan Nahdlatul Ulama;
+2. Memiliki keluarga yang menjadi pengurus Perkumpulan Nahdlatul Ulama; dan
+3. Bagi pengurus yang tidak memenuhi syarat sebagaimana dimaksud dalam huruf a, b, wajib mengikuti kaderisasi di lingkungan Nahdlatul Ulama paling lambat 12 (dua belas) bulan sejak ditetapkan dalam surat keputusan.
+
+#### Pasal 8
+
+1. Seorang anggota dapat dipilih menjadi Pengurus Harian Ketua PAC. IPNU dengan persyaratan pernah menjadi pengurus Pimpinan Anak Cabang IPNU atau Pengurus Harian PR. IPNU dan PK. IPNU sekurang-kurangnya 1 (satu) masa khidmat kepengurusan yang dibuktikan dengan surat keputusan.
+2. Setiap Pengurus Harian PAC. IPNU diwajibkan mengikuti kaderisasi MAKESTA.
+
+#### Pasal 9
+
+Seorang anggota dapat dipilih menjadi Pengurus Harian PR. IPNU dan PK. IPNU dengan persyaratan pernah menjadi Pengurus Harian PR. IPNU dan PK. IPNU atau anggota aktif sekurang-kurangnya 2 (dua) tahun.
+
+#### Pasal 10
+
+Apabila seorang pengurus harian belum dapat mengikuti pendidikan kaderisasi dalam waktu yang ditetapkan sebagaimana dimaksud dalam Pasal 4 ayat (3), Pasal 5 ayat (3), Pasal 6 ayat (3), Pasal 7 huruf c, maka dilakukan pergantian pengurus antar waktu terhadap pengurus harian dimaksud.
+
+### BAB IV - KETENTUAN PERALIHAN
+
+#### Pasal 11
+
+Segala peraturan yang bertentangan dengan Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini dinyatakan tidak berlaku lagi.
+
+### BAB V - KETENTUAN PENUTUP
+
+#### Pasal 12
+
+1. Segala sesuatu yang belum diatur dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini akan diatur kemudian oleh Pengurus Pusat Ikatan Pelajar Nahdlatul Ulama;
+2. Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini berlaku sejak tanggal ditetapkan.
+
+~ditetapkan di Pasuruan, 12 Agustus 2023~
+
+Ketua - Aan Andri Andriansyah  
+Sekretaris - Munawar Cholil
+
+<!-- nanti isikan hal baru diatas sini -->
+
+## DAFTAR ISTILAH
+
+|                 |                   |                     |                 |                   |
+| :-------------: | :---------------: | :-----------------: | :-------------: | :---------------: |
+|    [PP](#pp)    |     [PW](#pw)     |      [PC](#pc)      |   [PCI](#pci)   |    [PAC](#pac)    |
+|    [PK](#pk)    |     [PR](#pr)     |  [Korwil](#korwil)  | [Korda](#korda) | [LAKNAS](#laknas) |
+| [LAKUT](#lakut) | [LAKMUD](#lakmud) | [MAKESTA](#makesta) |
