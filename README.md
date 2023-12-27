@@ -246,7 +246,7 @@ Presidium sidang apabila melanggar tata tertib, maka mendapatkan sanksi:
 
 Hal-hal yang belum diatur dalam tata tertib Konbes dan Rakernas ini akan diatur lebih lanjut oleh presidium sidang dengan persetujuan peserta sidang.
 
-~ditetapkan di Pasuruan, 12 Agustus 2023~
+<sub>ditetapkan di Pasuruan, 12 Agustus 2023</sub>
 
 Ketua - M. Ghulam Dhofar Mansur  
 Sekretaris - Aan Andri Andriansyah  
