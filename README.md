@@ -9,6 +9,7 @@ Pasuruan,Jawa Timur
 ## Table of Contents
 
 - [Konbes & Rakernas IPNU 2023](#konbes--rakernas-ipnu-2023)
+
   - [Table of Contents](#table-of-contents)
   - [TATA TERTIB](#tata-tertib)
     - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum)
@@ -62,7 +63,45 @@ Pasuruan,Jawa Timur
       - [Pasal 11](#pasal-11)
     - [BAB V - KETENTUAN PENUTUP](#bab-v---ketentuan-penutup)
       - [Pasal 12](#pasal-12)
-  - [DAFTAR ISTILAH](#daftar-istilah)
+  - [WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS](#wewenang-tugas-pokok-dan-fungsi-pengurus)
+    - [Muqaddimah](#muqaddimah)
+    - [BAB I - WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS](#bab-i---wewenang-tugas-pokok-dan-fungsi-pengurus)
+      - [Pasal 1 - ](#pasal-1---ketentuan-umum)
+    - [BAB II - TUGAS, HAK DAN KEWAJIBAN](#bab-ii---tugas-hak-dan-kewajiban)
+      - [Pasal 2 - PIMPINAN PUSAT](#pasal-2---pimpinan-pusat)
+      - [Pasal 3 - PIMPINAN WILAYAH](#pasal-3---pimpinan-wilayah)
+      - [Pasal 4 - PIMPINAN CABANG](#pasal-4---pimpinan-cabang)
+      - [Pasal 5 - PIMPINAN CABANG ISTIMEWA](#pasal-5---pimpinan-cabang-istimewa)
+      - [Pasal 6 - PIMPINAN ANAK CABANG](#pasal-6---pimpinan-anak-cabang)
+      - [Pasal 7 - PIMPINAN KOMISARIAT](#pasal-7---pimpinan-komisariat)
+      - [Pasal 8 - PIMPINAN RANTING](#pasal-8---pimpinan-ranting)
+    - [BAB III - TATA KERJA PENGURUS](#bab-iii---tata-kerja-pengurus)
+      - [Pasal 9 - KETUA UMUM](#pasal-9---ketua-umum)
+      - [Pasal 10 - WAKIL KETUA UMUM](#pasal-10---wakil-ketua-umum)
+      - [Pasal 11 - KETUA BIDANG](#pasal-11---ketua-bidang)
+      - [Pasal 12 - SEKRETARIS UMUM](#pasal-12---sekretaris-umum)
+      - [Pasal 13 - WAKIL SEKRETARIS UMUM](#pasal-13---wakil-sekretaris-umum)
+      - [Pasal 14 - BENDAHARA UMUM](#pasal-14---bendahara-umum)
+      - [Pasal 15 - WAKIL–WAKIL BENDAHARA UMUM](#pasal-15---wakilwakil-bendahara-umum)
+      - [Pasal 16 - TATA KERJA DEPARTEMEN, LEMBAGA DAN BADAN](#pasal-16---tata-kerja-departemen-lembaga-dan-badan)
+      - [Pasal 17 - KOORDINATOR WILAYAH](#pasal-17---koordinator-wilayah)
+    - [BAB IV - WEWENANG DAN TUGAS PIMPINAN DIBAWAHNYA](#bab-iv---wewenang-dan-tugas-pimpinan-dibawahnya)
+      - [Pasal 18](#pasal-18)
+    - [BAB V - TUGAS KERJA PENGURUS HARIAN](#bab-v---tugas-kerja-pengurus-harian)
+      - [Pasal 19 - KETUA](#pasal-19---ketua)
+      - [Pasal 20 - WAKIL-WAKIL KETUA](#pasal-20---wakil-wakil-ketua)
+      - [Pasal 21 - SEKRETARIS](#pasal-21---sekretaris)
+      - [Pasal 22 - WAKIL-WAKIL SEKRETARIS](#pasal-22---wakil-wakil-sekretaris)
+      - [Pasal 23 - BENDAHARA](#pasal-23---bendahara)
+      - [Pasal 24 - WAKIL-WAKIL BENDAHARA](#pasal-24---wakil-wakil-bendahara)
+      - [Pasal 25 - DEPARTEMEN, LEMBAGA DAN BADAN](#pasal-25---departemen-lembaga-dan-badan)
+      - [Pasal 26 - KOORDINATOR DAERAH](#pasal-26---koordinator-daerah)
+    - [BAB V - KETENTUAN PENUTUP](#bab-v---ketentuan-penutup)
+      - [Pasal 27 - PENUTUP](#pasal-27---penutup)
+
+<!-- tambah diatas sini -->
+
+- [DAFTAR ISTILAH](#daftar-istilah)
 
 ## TATA TERTIB
 
@@ -400,6 +439,463 @@ Segala peraturan yang bertentangan dengan Peraturan Organisasi Ikatan Pelajar Na
 
 1. Segala sesuatu yang belum diatur dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini akan diatur kemudian oleh Pengurus Pusat Ikatan Pelajar Nahdlatul Ulama;
 2. Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini berlaku sejak tanggal ditetapkan.
+
+~ditetapkan di Pasuruan, 12 Agustus 2023~
+
+Ketua - Aan Andri Andriansyah  
+Sekretaris - Munawar Cholil
+
+## WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
+
+```
+Nomor : 02 /Konbes/IPNU/VIII/2023
+
+PENGESAHAN PERATURAN ORGANISASI
+IKATAN PELAJAR NAHDLATUL ULAMA
+TENTANG
+WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
+
+```
+
+### Muqaddimah
+
+_Bismillahirrahmanirrahim_
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+
+Menimbang :
+
+1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
+2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi, maka diperlukan Peraturan Organisasi tentang Wewenang, Tugas Pokok dan Fungsi Pengurus;
+3. Bahwa untuk melaksanakan maksud tersebut, maka perluitetapkan Peraturan Organisasi tentang Wewenang, Tugas Pokok dan Fungsi Pengurus Ikatan Pelajar Nahdlatul Ulama;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU;
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+
+1. Hasil pembahasan sidang komisi dan masukan-masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+2. Sidang Pleno Konferensi Besar Ikatan Pelajar Nahdlatul Ulama.
+
+Dengan senantiasa memohon petunjuk Allah SWT,  
+M E M U T U S K A N
+
+Menetapkan :
+
+1. Mengesahkan Peraturan Organisasi tentang Wewenang, Tugas Pokok dan Fungsi Pengurus sebagai pedoman penyelenggaraan organisasi IPNU di semua tingkatan, sebagaimana terlampir;
+2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Komisariat, Pimpinan Ranting serta anggota
+   IPNU untuk mentaati seluuh aturan dalam Peraturan Organisasi IPNU.
+3. Keputusan ini sejak tanggal ditetapkan.
+
+_Wallahul muwafiq ila aqwamith-tharieq_
+
+~ditetapkan di Pasuruan, 12 Agustus 2023~
+
+Ketua - M. Ghulam Dhofar Mansur  
+Sekretaris - Aan Andri Andriansyah  
+Anggota - Sulkifli Aziz
+
+### BAB I - WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
+
+#### Pasal 1 - KETENTUAN UMUM
+
+Dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud dengan:
+
+1. Wewenang adalah kekuasaan yang boleh dilakukan dan melekat pada seseorang karena jabatannya.
+2. Tugas adalah kewajiban untuk menjalankan fungsi yang diberikan pada seseorang sesuai dengan jabatannya.
+3. Fungsi adalah kegunaan atau manfaat seseorang dalam organisasi sesuai dengan jabatannya.
+
+### BAB II - TUGAS, HAK DAN KEWAJIBAN
+
+#### Pasal 2 - PIMPINAN PUSAT
+
+1. Melaksanakan amanat Kongres.
+2. Memimpin dan mengkoordinir Pimpinan Wilayah.
+3. Menerbitkan Surat Pengesahan kepengurusan PW dan PC setelah mempelajari komposisi personalia kepengurusan lengkap.
+4. Membekukan PW dan PC yang tidak mematuhi peraturan yang berlaku.
+5. Menghadiri setiap undangan PBNU, PW IPNU dan PC IPNU, yang dianggap penting.
+6. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi kepada PBNU.
+7. Pimpinan Pusat dapat membentuk koordinator wilayah sesuai dengan kebutuhan.
+8. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam di saat konggres.
+9. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU kepada pimpinan wilayah.
+
+#### Pasal 3 - PIMPINAN WILAYAH
+
+1. Melaksanakan amanat konferensi wilayah.
+2. Memimpin dan mengkoordinir Pimpinan Cabang dan Pimpinan Anak Cabang di daerah kerjanya.
+3. Menerbitkan Surat Rekomendasi Pengesahan kepengurusan PC setelah mempelajari komposisi personalia kepengurusan lengkap.
+4. Mengusulkan berdirinya Pimpinan Cabang IPNU kepada Pimpinan Pusat.
+5. Mengusulkan pembekukan PC yang tidak mematuhi peraturan yang berlaku.
+6. Menghadiri setiap undangan PP IPNU, PW NU dan PC IPNU yang berada di daerah kerjanya, yang dianggap penting.
+7. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi secara regional kepada PP IPNU dan PW NU, dengan tembusan PC IPNU.
+8. Pimpinan Wilayah dapat membentuk koordinator daerah sesuai dengan kebutuhan.
+9. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam secara regional kepada konferensi wilayah.
+10. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU ke regional wilayahnya
+
+#### Pasal 4 - PIMPINAN CABANG
+
+1.  Melaksanakan amanat Konferensi Cabang.
+2.  Memimpin dan mengkoordinir Pimpinan Anak Cabang, Pimpinan Ranting, Pimpinan Anak Ranting dan Pimpinan Komisariat di daerah kerjanya.
+3.  Menerbitkan Surat Pengesahan (SP) kepengurusan PAC IPNU setelah mendapatkan rekomendasi MWC NU setempat; menerbitkan SP kepengurusan PR IPNU setelah mendapatkan rekomendasi dari PAC IPNU dan PR NU setempat; menerbitkan Surat Pengesahan (SP) kepengurusan PK IPNU di Perguruan Tinggi setelah mendapatkan rekomendasi dari MWC NU dan/atau civitas akademik Perguruan Tinggi setempat, dan menerbitkan Surat pengesahan PK IPNU di sekolah madrasah, dan pesantren setelah mendapat rekomendasi dari PAC IPNU dan/atau pimpinan lembaga pendidikan dengan terlebih dahulu mempelajari komposisi personalia kepengurusan lengkap.
+4.  Mengupayakan berdirinya Pimpinan Anak Cabang, Pimpinan Ranting dan Pimpinan Komisariat, dan melaporkannya kepada Pimpinan Wilayah dan Pimpinan Pusat.
+5.  Menghadiri setiap undangan PP IPNU, PW IPNU. PCNU, PAC IPNU, PR IPNU, dan PK IPNU di daerah kerjanya, yang dianggap penting.
+6.  Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi secara lokal kepada PCNU dan PP IPNU, dengan tembusan PW IPNU.
+7.  Membekukan PR, PK yang tidak mematuhi peraturan yang berlaku, setelah melakukan pendekatan dan atas pertimbangan pengurus NU setempat.
+8.  Pimpinan Cabang dapat membentuk koordinator kecamatan sesuai dengan kebutuhan.
+9.  Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam secara regional kepada Konferensi Cabang.
+10. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU & PW IPNU ke regional daerahnya.
+
+#### Pasal 5 - PIMPINAN CABANG ISTIMEWA
+
+1. Melaksanakan amanat Konferensi Cabang Istimewa.
+2. Memimpin dan mengkoordinir anggota di daerah kerjanya.
+3. Menghadiri setiap undangan PP IPNU dan PCI NU yang dianggap penting.
+4. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi kepada PCI NU dan PP IPNU.
+5. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam kepada Konferensi cabang.
+
+#### Pasal 6 - PIMPINAN ANAK CABANG
+
+1. Melaksanakan amanat konferensi anak cabang.
+2. Memimpin dan mengkoordinir Pimpinan Ranting dan Pimpinan Komisariat di daerah kerjanya.
+3. Menerbitkan Surat Rekomendasi Pengesahan kepengurusan PR/PK setelah mempelajari komposisi personalia kepengurusan lengkap.
+4. Mengusulkan berdirinya Pimpinan Ranting dan Pimpinan Komisariat kepada Pimpinan Cabang.
+5. Mengusulkan pembekukan PR/PK yang tidak mematuhi peraturan yang berlaku.
+
+6. Menghadiri setiap undangan PC IPNU, MWC NU setempat, PR IPNU dan PK IPNU di daerah kerjanya.
+7. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi secara lokal kepada PC IPNU dan MWC NU, dengan tembusan PR dan PK IPNU.
+8. Pimpinan Anak Cabang dapat membentuk koordinator kawasan sesuai dengan kebutuhan.
+9. Bertanggung jawab terhadap dan atas nama organisasi baik keluar maupun kedalam secara lokal kepada Konferensi Anak Cabang.
+10. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU, PW. IPNU dan PC IPNU ke lokal daerahnya.
+
+#### Pasal 7 - PIMPINAN KOMISARIAT
+
+1. Melaksanakan amanat rapat anggota.
+2. Memimpin dan mengkoordinir anggota di daerah kerjanya.
+3. Menghadiri setiap undangan PC dan PAC bagi PK IPNU di sekolah, madrasah dan pondok pesantren
+4. Menghadiri setiap undangan PC dan PW bagi PK di Perguruan Tinggi
+5. Memberikan laporan periodik (setengahtahunan) tentang kegiatan dan perkembangan organisasi secara lokal kepada PC IPNU dan Pimpinan Lembaga Pendidikan, dengan tembusan PAC IPNU bagi PK IPNU madrasah dan pondok pesantren, sedangkan PK IPNU di Perguruan Tinggi kepada PC IPNU dengan tembusan PW IPNU.
+6. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam secara lokal kepada Rapat Anggota
+7. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU, PW. IPNU, PC IPNU dan keseluruh anggotanya bagi PK. IPNU Perguruan Tinggi dan ke PAC beserta keseluruh anggotanya bagi PK IPNU madrasah dan pondok pesantren.
+
+#### Pasal 8 - PIMPINAN RANTING
+
+1. Melaksanakan amanat Konferensi Ranting.
+2. Memimpin dan mengkoordinir anggota di daerah kerjanya.
+3. Menghadiri setiap undangan PC. IPNU dan PAC. IPNU dan PRNU setempat yang dianggap penting.
+4. Memberikan laporan periodik (setengahtahunan) tentang kegiatan dan perkembangan organisasi secara lokal kepada PC. IPNU dan PRNU, dengan tembusan PAC IPNU.
+5. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam secara lokal kepada rapat anggota.
+6. Mensosialisasikan aturan/kebijakan yang diterbitkan PP. IPNU, PW. IPNU, PC. IPNU dan PAC keseluruh anggotanya.
+
+### BAB III - TATA KERJA PENGURUS
+
+#### Pasal 9 - KETUA UMUM
+
+1. Status dan kedudukan:
+   - Mandataris Kongres;
+   - Pengurus harian PP;
+   - Pemegang kebijakan umum PP;
+   - Koorditaror umum program PP;
+2. Hak dan wewenang:
+   - Menentukan kebijakan organisasi yang bersifat umum dengan tetap mengindahkan ketentuan yang berlaku;
+   - Meminta pertanggungjawaban atas segala tindakan dan kebijakan pengurus yang dilakukan atas nama organisasi;
+   - Mengatasnamakan organisasi dalam segala kegiatan PP baik ke dalam maupun ke luar;
+   - Memberhentikan, mengganti, dan mengangkat personil kepengurusan PP yang dianggap tidak menjalankan tugas organisasi sebagaimana mestinya, dan disahkan melalui rapat harian;
+   - Bersama bendahara umum atau wakil bendahara mendisposisi pengeluaran-pengeluaran rutin PP;
+   - Menandatangani surat-surat yang bersifat umum, baik ke dalam maupun ke luar atas nama organisasi;
+   - Memberikan mandat kepada wakil ketua umum atau pengurus harian dalam hal ketua umum berhalangan tidak tetap, melalui rapat pleno.
+3. Tugas dan kewajiban:
+   - Memimpin dan mengendalikan organisasi PP secara umum;
+   - Mengkoordinir pelaksanaan program secara umum;
+   - Mengevaluasi dan mengendalikan pelaksanaan kebijakan PP;
+   - Mengevaluasi secara umum program PP dan kegiatan-kegiatan yang telah dan/atausedang dilaksanakan secara berkala selama masa khidmat kepengurusan;
+   - Melakukan langkah-langkah proaktif dalam rangka pengembangan organisasi, dengan tetap mengacu kepada hasil-hasil Kongres.
+4. Tanggung jawab:
+   - Bertanggung jawab atas perjalanan kepengurusan PP dan keberadaan organisasi IPNU secara nasional;
+   - Bertanggung jawab terhadap segala tindakan dan kebijakan organisasi secara umum kepada Kongres;
+   - Bertanggung jawab atas pelaksanaan program PP secara keseluruhan.
+
+#### Pasal 10 - WAKIL KETUA UMUM
+
+1. Status dan kedudukan;
+   - Pengurus harian PP;
+   - Koordinator program antar bidang.
+2. Hak dan wewenang:
+   - Mengkoordinasikan ketua-ketua dalam pelaksanaan fungsi sebagai koordinator bidang;
+   - Melaksanakan wewenang tertentu yang dilimpahkan oleh ketua umum;
+   - Membangun jaringan dan kerjasama dengan pihak lain untuk mendukung pelaksanaan program PP;
+   - Bersama ketua umum merumuskan garis-garis besar kebijakan organisasi secara umum;
+   - Bersama-sama pengurus harian lainnya membantu ketua umum dalam memberhentikan, mengganti dan mengangkat personil kepengurusan PP yang dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya;
+   - Mengkoordinasikan ketua-ketua PP sebagai koordinator bidang.
+3. Tugas, kewajiban dan tanggung jawab:
+   - Melaksanakan tugas dan kewajiban ketua umum yang dilimpahkan kepadanya;
+   - Bersama sekretaris umum mendampingi ketua umum dalam tugas-tugas kepemimpinan organisasi sehari-hari;
+   - Bersama Ketua Umum mengkoordinasikan program - program PP;
+   - Bersama ketua umum dan sekretaris umum mengevaluasi program PP dan kegiatan-kegiatan yang telah dan/sedang dilaksanakan secara berkala selama masa khidmat kepengurusan;
+   - Dalam menjalankan tugasnya, bertanggung jawab kepada ketua umum
+
+#### Pasal 11 - KETUA BIDANG
+
+1. Ketua adalah pengurus harian yang membantu ketua umum dalam melaksanakan kebijakan atau program sesuai dengan bidang yang telah ditetapkan.
+2. Ketua membawahi departemen sesuai dengan bidang yang telah ditetapkan.
+3. Ketua-ketua sekurang-kurangnya berjumlah 6 (enam) dan sebanyak-banyaknya berjumlah 15 (lima belas).
+4. Unsur ketua sekurang-kurangnya terdiri dari ketua bidang organisasi, ketua bidang kaderisasi, ketua bidang jaringan sekolah dan pesantren, ketua bidang hubungan internasional, ketua bidang dakwah, dan ketua bidang olahraga seni dan budaya.
+
+#### Pasal 12 - SEKRETARIS UMUM
+
+1. Status dan kedudukan;
+   - Pengurus harian PP;
+   - Pemegang kebijakan umum sekretariat umum PP.
+2. Hak dan wewenang:
+
+   - Menentukan manajemen sekretariat umum;
+   - Merumuskan kebijakan umum administrasi organisasi;
+   - Bersama ketua umum merumuskan garis-garis besar kebijakan organisasi secara umum;
+
+   - Bersama-sama pengurus harian lainnya membantu ketua umum dalam memberhentikan, mengganti dan mengangkat personil kepengurusan PP yang dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya;
+   - Melaksanakan wewenang tertentu yang dilimpahkan oleh ketua umum;
+   - Bersama ketua umum menandatangani surat-surat yang bersifat umum, baik ke dalam maupun ke luar atas nama organisasi.
+
+3. Tugas, kewajiban dan tanggung jawab:
+   - Memimpin dan mengelola sekretariat umum PP;
+   - Mendampingi dan bekerjasama dengan ketua umum dalam melaksanakan tugas- tugas organisasi;
+   - Mengkoordinasikan dan menertibkan sistem administrasi organisasi dan sekretariat umum;
+   - Melaksanakan dan mengendalikan administrasi sehari-hari dan melaksanakan fungsi kerumahtanggaan kantor;
+   - Menggali, mengolah, dan menyajikan data dan informasi;
+   - Membantu ketua umum/wakil ketua umum dan ketua-ketua dalam mengelola organisasi dan program-program PP;
+   - Bersama ketua umum mengevaluasi semua kegiatan yang telah dan/atau sedang dilaksanakan secara berkala selama masa khidmat kepengurusan;
+   - Dalam menjalankan tugasnya, bertanggung jawab kepada ketua umum.
+
+#### Pasal 13 - WAKIL – WAKIL SEKRETARIS UMUM
+
+1. Wakil Sekretaris Umum adalah pengurus harian yang bertugas membantu sekertaris umum dalam melaksanakan kebijakan atau program sesuai dengan dengan bidang yang di tetapkan;
+2. Wakil Sekretaris Umum bersama-sama dengan ketua bidang sebagai pelaksana kebijakan khusus sesuai dengan dengan bidang yang telah ditetapkan.
+3. Wakil Sekretaris Umum bersama-sama dengan ketua bidang membawahi departemen sesuai dengan bidang yang telah di tetapkan.
+4. Dalam kepengurusan PP harus mempunyai wakil sekretaris umum bidang organisasi, bidang kaderisasi, bidang jaringan sekolah dan pesantren, bidang hubungan internasional, bidang dakwah dan bidang olahraga, seni dan budaya.
+5. Wakil Sekretaris Umum sekurang-kurangnya berjumlah 6 (enam) dan sebanyak- banyaknya berjumlah 15 (tiga belas).
+
+#### Pasal 14 - BENDAHARA UMUM
+
+1. Status dan kedudukan;
+   - Pengurus harian PP;
+   - Pemegang kebijakan umum keuangan PP;
+2. Hak dan wewenang:
+
+   - Menentukan kebijakan umum keuangan dan sistem pengelolaan keuangan organisasi yang efisien, akuntabel dan transparan;
+   - Bersama ketua umum menyusun anggaran pendapatan dan belanja organisasi tahunan dalam satu masa khidmat;
+   - Melakukan audit internal terhadap keuangan organisasi;
+   - Menandatangani surat-surat berharga milik atau atas nama organisasi, bersama ketua umum;
+   - Meminta laporan keuangan dari para wakil bendahara umum dan panitia pelaksana kegiatan yang dibentuk oleh PP;
+   - Menandatangani laporan keuangan yang berkenaan dengan biaya pemasukan dan pengeluaran bersama ketua umum;
+   - Bersama-sama pengurus harian lainnya membantu ketua umum dalam memberhentikan, mengganti dan mengangkat personil kepengurusan PP yang dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya.
+
+3. Tugas, kewajiban dan tanggung jawab:
+   - Menggali sumber-sumber dana untuk kepentingan organisasi yang halal dan tidak mengikat, dengan persetujuan ketua umum;
+   - Mengembangkan dan mendayagunakan aset-aset PP;
+   - Mengatur dan mengendalikan sirkulasi keuangan organisasi dengan sepengetahuan ketua umum;
+   - Melaporkan neraca keuangan organisasi secara berkala kepada rapat pleno;
+   - Dalam menjalankan tugasnya, bertanggung jawab kepada ketua umum.
+
+#### Pasal 15 - WAKIL–WAKIL BENDAHARA UMUM
+
+1. Tugas, kewajiban dan tanggung jawab:
+   - Membantu bendahara umum dalam menjalankan tugas-tugas organisasi yang berkenaan dengan pengelolaan keuangan;
+   - Melaksanakan tugas-tugas khusus di bidang kebendaharaan sesuai dengan dengan pembagian tugas yang ditentukan;
+   - Dalam menjalankan tugasnya bertanggungjawab kepada ketua umum.
+
+#### Pasal 16 - TATA KERJA DEPARTEMEN, LEMBAGA DAN BADAN
+
+1. Status dan kedudukan:
+   - Pengurus pleno PP;
+   - Pelaksana program khusus PP;
+2. Hak dan wewenang:
+   - Menyusun dan merumuskan langkah-langkah operasional program hasil Kongres yang berkaitan dengan departemen dan lembaga yang bersangkutan;
+   - Membuat perencanaan teknis pelaksanaan kegiatan PP;
+   - Mengajukan rancangan anggaran biaya pelaksanaan program kepada bendahara umum.
+3. Tugas, kewajiban dan tanggung jawab:
+   - Melaksanakan program kerja PP yang telah ditetapkan sesuai dengan dengan bidangnya masing-masing;
+   - Memberikan laporan program yang telah dilaksanakan kepada rapat pleno PP;
+   - Dalam menjalankan tugasnya, bertanggung jawab kepada ketua yang membawahi bidang dan lembaga yang bersangkutan.
+4. Dalam kepengurusan PP. IPNU harus diadakan departemen, lembaga, dan badan.
+5. PP. IPNU diperkenankan menambah departemen, lembaga, dan badan lain sesuai dengan kebutuhan.
+
+#### Pasal 17 - KOORDINATOR WILAYAH
+
+1. Status dan kedudukan:
+   - Pengurus harian PP dari jajaran Wakil Ketua Umum atau Ketua;
+   - Perangkat Pelaksana kebijakan/keputusan PP
+   - Bersifat koordinatif dan konsultatif
+2. Hak dan wewenang:
+   - Menjalankan tugas ketua umum dalam bidang-bidang tertentu pada wilayah dampingannya;
+   - Melakukan koordinasi pada wilayah dampingannya dengan sepengetahuan ketua umum;
+   - Mensinergikan program, kebijakan/keputusan PP pada wilayah dampingannya dengan tetap mengacu kepada hasil-hasil Kongres dan konferensi wilayah dampingannya.;
+   - berhak memberikan saran atau teguran pada wilayah dampingannya apabila tidak menjalankan tugas organisasi dan atau melanggar peraturan yang ada.
+3. Tugas, kewajiban dan tanggung jawab:
+   - Melakukan pendampinagn dan monitoring secara intensif terhadap Pimpinan Wilayah yang menjadi wilayah dampingannya;
+   - Melaporkan tugas dan perkembangan wilayah dampingannya kepada ketua umum secara berkala dalam masa khidmah kepengurusan
+   - Melakukan langkah-langkah pro aktif dalam rangka pengembangan potensi wilayah dampinganya. dengan tetap mengacu kepada hasil-hasil Kongres dan konferensi wilayah dampingannya.
+   - Dalam menjalankan tugasnya bertanggung jawab kepada ketua umum.
+   - Pembagian wilayah dampingan bisa berdasarkan zona geografis yang disepakati
+     dalam rapat harian
+
+### BAB IV - WEWENANG DAN TUGAS PIMPINAN DIBAWAHNYA
+
+#### Pasal 18
+
+Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Ranting, dan Pimpinan Komisariat
+
+1. Susunan Pengurus terdiri dari: pelindung, dewan pembina, ketua, wakil-wakil ketua, sekretaris, wakil-wakil sekretaris, bendahara, wakil-wakil bendahara, beberapa departemen, lembaga dan badan.
+2. Pelindung adalah Pengurus Nahdlatul Ulama.
+3. Dewan pembina terdiri dari alumni dan orang-orang yang dianggap mampu dan berjasa untuk IPNU (lihat: PRT pasal 18) dan/atau ditentukan menurut kebijakan sepanjang tidak bertentangan dengan PD-PRT.
+4. Ketua sebagai mandataris Konferensi, dipilih dan ditetapkan oleh Konferensi.
+5. Anggota pengurus harian diangkat oleh ketua terpilih yang dibantu oleh anggota tim formatur Konferensi.
+6. Anggota pengurus lengkap diangkat oleh ketua melalui rapat harian
+7. Pimpinan Lembaga dan Badan diangkat oleh Ketua melalui rapat harian.
+
+### BAB V - TUGAS KERJA PENGURUS HARIAN
+
+#### Pasal 19 - KETUA
+
+1. Status dan Kedudukan
+   - Mandataris Konferensi
+   - Pengurus Harian di Wilayah Kerjanya
+   - Pemegang Kebijakan Umum di Wilayah Kerjanya
+2. Hak dan Wewenang
+   - Menentukan kebijakan organisasi yang bersifat umum dengan tetap mengindahkan ketentuan yang berlaku;
+   - Meminta pertanggungjawaban atas segala tindakan dan kebijakan pengurus yang dilakukan atas nama organisasi;
+   - Mengatasnamakan organisasi dalam segala kegiatan baik ke dalam maupun ke luar;
+   - Memberhentikan, mengganti dan mengangkat personil kepengurusan yang dianggap tidak menjalankan tugas organisasi sebagaimana mestinya, dan disahkan melalui rapat harian;
+   - Bersama bendahara atau wakil bendahara mendisposisi pengeluaran- pengeluaran rutin;
+   - Menandatangani surat-surat yang bersifat umum, baik ke dalam maupun ke luar atas nama organisasi;
+   - Memberikan mandat kepada wakil ketua atau pengurus harian dalam hal ketua berhalangan tidak tetap, melalui rapat pleno.
+3. Tugas, kewajiban dan tanggung jawab:
+   - Memimpin dan mengendalikan organisasi di Wilayah Kerjanya secara umum;
+   - Mengkoordinir pelaksanaan program secara umum;
+   - Mengevaluasi dan mengendalikan pelaksanaan kebijakan di Wilayah Kerjanya;
+   - Mengevaluasi secara umum program dan kegiatan-kegiatan yang telah dan/atau sedang dilaksanakan secara berkala selama masa khidmat kepengurusan;
+   - Melakukan langkah-langkah proaktif dalam rangka pengembangan organisasi, dengan tetap mengacu kepada hasil-hasil Kongres dan konferensi;
+   - Bertanggungjawab terhadap kelancaran dan keberadaan organisasi secara regional;
+   - Bertanggungjawab terhadap segala tindakan dan kebijakan organisasi secara umum kepada konferensi.
+
+#### Pasal 20 - WAKIL-WAKIL KETUA
+
+1. Wakil Ketua adalah pengurus harian yang membantu ketua dalam melaksanakan kebijakan atau program sesuai dengan dengan bidang yang telah ditetapkan.
+2. Wakil Ketua membawahi departemen sesuai dengan dengan bidang yang telah ditetapkan.
+3. Wakil Ketua ditingkat PW, PC, dan PAC sekurang-kurangnya berjumlah 5 (lima) dan sebanyak-banyaknya berjumlah 7 (tujuh), sedangkan ditingkat PK dan PR sekurang- kurangnya berjumlah 3 (tiga) dan sebanyak-banyaknya berjumlah 5 (lima)
+4. Unsur Wakil Ketua ditingkat PW, PC, dan PAC sekurang-kurangnya terdiri dari wakil ketua bidang organisasi, wakil ketua bidang kaderisasi, wakil ketua bidang jaringan sekolah dan pesantren, wakil ketua bidang dakwah dan wakil ketua bidang olahraga seni dan budaya dan unsur wakil ketua ditingkat PR dan PK sekurang-kurangnya terdiri dari wakil ketua bidang organisasi, wakil ketua bidang kaderisasi, dan wakil ketua bidang dakwah.
+
+#### Pasal 21 - SEKRETARIS
+
+1. Status dan kedudukan:
+   - Pengurus harian di Wilayah Kerjanya;
+   - Pemegang kebijakan umum sekretariat di Wilayah Kerjanya.
+2. Hak dan wewenang:
+   - Menentukan manajemen sekretariat di Wilayah Kerjanya;
+   - Merumuskan kebijakan umum administrasi organisasi;
+   - Bersama ketua merumuskan garis-garis besar kebijakan organisasi secara umum;
+   - Bersama-sama pengurus harian lainnya membantu ketua dalam memberhentikan, mengganti dan mengangkat personil kepengurusan yang dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya;
+   - Melaksanakan wewenang tertentu yang dilimpahkan oleh ketua;
+   - Bersama ketua menandatangani surat-surat yang bersifat umum, baik ke dalam maupun ke luar atas nama organisasi.
+3. Tugas, kewajiban dan tanggung jawab:
+   - Memimpin dan mengelola sekretariat di Walayah Kerjanya;
+   - Mendampingi dan bekerjasama dengan ketua dalam melaksanakan tugas-tugas organisasi;
+   - Mengkoordinasikan dan menertibkan sistem administrasi organisasi dan sekretariat di Wilayah Kerjanya;
+   - Melaksanakan dan mengendalikan administrasi sehari-hari dan melaksanakan fungsi kerumahtanggaan kantor;
+   - Menggali, mengolah, dan menyajikan data dan informasi;
+   - Membantu ketua dan wakil ketua dalam mengelola organisasi dan program-program;
+   - Bersama ketua mengevaluasi semua kegiatan yang telah dan/atau sedang dilaksanakan secara berkala selama masa khidmat kepengurusan;
+   - Dalam menjalankan tugasnya, bertanggung jawab kepada ketua
+
+#### Pasal 22 - WAKIL-WAKIL SEKRETARIS
+
+1. Wakil Sekretaris adalah pengurus harian yang bertugas membantu sekertaris dalam melaksanakan kebijakan atau program sesuai dengan dengan bidang yang di tetapkan;
+2. Wakil Sekretaris bersama-sama dengan ketua bidang sebagai pelaksana kebijakan khusus sesuai dengan dengan bidang yang telah ditetapkan.
+3. Wakil Sekretaris bersama-sama dengan ketua bidang membawahi departemen sesuai dengan bidang yang telah di tetapkan.
+4. Dalam kepengurusan harus mempunyai wakil sekretaris bidang organisasi, bidang kaderisasi, bidang jaringan sekolah dan pesantren, bidang dakwah dan bidang olahraga, seni dan budaya.
+5. Wakil Sekretaris sekurang-kurangnya berjumlah 5 (lima) dan sebanyak-banyaknya berjumlah 7 (tujuh)
+
+#### Pasal 23 - BENDAHARA
+
+1. Status dan kedudukan:
+   - Pengurus harian di Wilayah Kerjanya;
+   - Pemegang kebijakan umum keuangan di Wilayah Kerjanya;
+2. Hak dan wewenang:
+   - Menentukan kebijakan umum keuangan dan sistem pengelolaan keuangan organisasi yang efisien, akuntabel dan transparan;
+   - Bersama ketua menyusun anggaran pendapatan dan belanja organisasi tahunan dalam satu masa khidmat;
+   - Melakukan audit internal terhadap keuangan organisasi;
+   - Menandatangani surat-surat berharga milik atau atas nama organisasi, bersama ketua;
+   - Meminta laporan keuangan dari para wakil bendahara dan panitia pelaksana kegiatan yang dibentuk di Wilayah Kerjanya;
+   - Menandatangani laporan keuangan yang berkenaan dengan biaya pemasukan dan pengeluaran bersama ketua;
+   - Bersama-sama pengurus harian lainnya membantu ketua dalam memberhentikan, mengganti dan mengangkat personil kepengurusan yang dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya.
+3. Tugas, kewajiban dan tanggung jawab:
+   - Menggali sumber-sumber dana untuk kepentingan organisasi yang halal dan tidak mengikat, dengan persetujuan ketua;
+   - Mengembangkan dan mendayagunakan aset-aset di Wilayah Kerjanya;
+   - Mengatur dan mengendalikan sirkulasi keuangan organisasi dengan sepengetahuan ketua;
+   - Melaporkan neraca keuangan organisasi secara berkala kepada rapat pleno di Wilayah Kerjanya;
+   - Dalam menjalankan tugasnya, bertanggung jawab kepada ketua.
+
+#### Pasal 24 - WAKIL-WAKIL BENDAHARA
+
+1. Status dan kedudukan:
+   - Pengurus harian di Wilayah Kerjanya;
+   - Pelaksana kebijakan khusus keuangan di Wilayah Kerjanya;
+   - Pimpinan disetiap wilayah kerjanya diperkenankan mempunyai wakil bendahara lebih dari satu sesuai dengan dengan kebutuhannya.
+2. Hak dan wewenang:
+   - Melaksanakan wewenang bendahara dalam hal bendahara berhalangan berdasarkan surat mandat bendahara atau keputusan rapat harian;
+   - Membantu bendahara dalam melakukan audit internal terhadap keuangan organisasi;
+   - Bersama-sama pengurus harian lainnya membantu ketua dalam memberhentikan, mengganti dan mengangkat personil kepengurusan yang dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya.
+3. Tugas, kewajiban dan tanggung jawab:
+
+   - Membantu bendahara dalam menjalankan tugas-tugas organisasi yang berkenaan dengan pengelolaan keuangan;
+   - Melaksanakan tugas-tugas khusus di bidang kebendaharaan sesuai dengan dengan
+     pembagian tugas yang ditentukan;
+   - Dalam menjalankan tugasnya bertanggungjawab kepada ketua
+
+#### Pasal 25 - DEPARTEMEN, LEMBAGA DAN BADAN
+
+1. Status dan kedudukan:
+   - Pengurus pleno di Wilayah Kerjanya;
+   - Pelaksana program khusus di Wilayah Kerjanya;
+2. Hak dan wewenang:
+   - Menyusun dan merumuskan langkah-langkah operasional program hasil Kongres yang berkaitan dengan departemen dan lembaga yang bersangkutan;
+   - Membuat perencanaan teknis pelaksanaan kegiatan di Wilayah Kerjanya;
+   - Mengajukan rancangan anggaran biaya pelaksanaan program kepada bendahara umum.
+3. Tugas, kewajiban dan tanggung jawab:
+   - Melaksanakan program kerja di Wilayah Kerjanya yang telah ditetapkan sesuai dengan dengan bidangnya masing-masing;
+   - Memberikan laporan program yang telah dilaksanakan kepada rapat pleno di Wilayah Kerjanya;
+   - Dalam menjalankan tugasnya, bertanggung jawab kepada ketua yang membawahi bidang dan lembaga yang bersangkutan.
+4. Dalam kepengurusan disetiap pimpinan harus diadakan departemen, lembaga, dan badan.
+5. Pimpinan disetiap Wilayah Kerjanya diperkenankan menambah departemen, lembaga, dan badan lain sesuai dengan kebutuhan.
+
+#### Pasal 26 - KOORDINATOR DAERAH
+
+1. Status dan kedudukan:
+   - Pengurus harian dari jajaran wakil ketua;
+   - Perangkat Pelaksana kebijakan/keputusan di Wilayah Kerjanya
+   - Bersifat koordinatif dan konsultatif
+2. Hak dan wewenang:
+   - Menjalankan tugas ketua dalam bidang-bidang tertentu pada wilayah dampingannya;
+   - Melakukan koordinasi pada wilayah dampingannya dengan sepengetahuan ketua;
+   - Mensinergikan program, kebijakan/keputusan di wilayah kerjanya pada wilayah dampingannya dengan tetap mengacu kepada hasil-hasil Kongres, konferensi diwilayah dampingannya.;
+   - Berhak memberikan saran atau teguran pada wilayah dampingannya apabila tidak menjalankan tugas organisasi dan atau melanggar peraturan yang ada.
+3. Tugas, Kewajiban dan Tanggungjawab:
+
+   - Melakukan pendampingan dan monitoring secara intensif terhadap Pimpinan diwilayah kerjanya yang menjadi wilayah dampingannya;
+   - Melaporkan tugas dan perkembangan wilayah dampingannya kepada ketua secara berkala dalam masa khidmah kepengurusan;
+
+   - Melakukan langkah-langkah pro aktif dalam rangka pengembangan potensi wilayah dampingannya dengan tetap mengacu kepada hasil-hasil Kongres, Konferensi di Wilayah dampingannya;
+   - Dalam menjalankan tugasnya bertanggungjawab kepada ketua.
+
+4. Pembagian wilayah dampingan bisa berdasarkan zona geografis yang disepakati dalam
+   rapat harian.
+
+### BAB V - KETENTUAN PENUTUP
+
+#### Pasal 27 - PENUTUP
+
+1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
+2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Tata Kerja Organisasi ini, akan diatur dalam Peraturan Pimpinan Pusat.
+3. Agar setiap pengurus dan anggota IPNU mengetahui dan memahami Peraturan Organisasi tentang Tata Kerja Organisasi ini, maka setiap tingkat kepengurusan diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
 
 ~ditetapkan di Pasuruan, 12 Agustus 2023~
 

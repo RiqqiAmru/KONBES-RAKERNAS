@@ -1,908 +1,5 @@
-﻿# WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
+﻿
 
-```
-Nomor : 02 /Konbes/IPNU/VIII/
-
-PENGESAHAN PERATURAN ORGANISASI
-IKATAN PELAJAR NAHDLATUL ULAMA
-TENTANG
-WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
-
-Bismillahirrahmanirrahim
-Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
-```
-
-Menimbang :
-
-1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
-2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi, maka diperlukan Peraturan Organisasi tentang Wewenang, Tugas Pokok dan Fungsi Pengurus;
-3. Bahwa untuk melaksanakan maksud tersebut, maka perlu
-   ditetapkan Peraturan Organisasi tentang Wewenang, Tugas Pokok
-   dan Fungsi Pengurus Ikatan Pelajar Nahdlatul Ulama;
-   Mengingat : 1. Peraturan Dasar (PD) IPNU;
-4. Peraturan Rumah Tangga (PRT) IPNU
-   Memperhatikan : 1. Hasil pembahasan sidang komisi dan masukan-masukan peserta
-   Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
-5. Sidang Pleno Konferensi Besar Ikatan Pelajar Nahdlatul Ulama.
-   Dengan senantiasa memohon petunjuk Allah SWT,
-   M E M U T U S K A N
-   Menetapkan : 1. Mengesahkan Peraturan Organisasi tentang Wewenang, Tugas
-   Pokok dan Fungsi Pengurus sebagai pedoman penyelenggaraan
-   organisasi IPNU di semua tingkatan, sebagaimana terlampir;
-6. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah,
-   Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak
-   Cabang, Pimpinan Komisariat, Pimpinan Ranting serta anggota
-   IPNU untuk mentaati seluruh aturan dalam Peraturan Organisasi
-   IPNU.
-7. Keputusan ini sejak tanggal ditetapkan.
-   _Wallahul muwafiq ila aqwamith-tharieq_
-
-```
-
-Ditetapkan di : Pasuruan
-Pada tanggal : 12 Agustus 2023
-
-```
-
-```
-
-KONFERENSI BESAR
-IKATAN PELAJAR NAHDLATUL ULAMA
-Presidum Sidang Pleno
-
-```
-
-```
-
-Ttd
-
-```
-
-M. GHULAM DHOFIR MANSUR
-Ketua
-
-```
-
-Ttd
-
-```
-
-```
-
-AAN ANDRI ARDIYANSAH
-Sekretaris
-
-```
-
-```
-
-Ttd
-
-```
-
-```
-
-SULKIFLI AZIZ
-Anggota
-
-```
-
-### 16
-
-#### BAB I
-
-#### WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
-
-```
-
-Pasal 1
-KETENTUAN UMUM
-
-```
-
-Dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud dengan:
-
-1. Wewenang adalah kekuasaan yang boleh dilakukan dan melekat pada seseorang karena
-   jabatannya.
-2. Tugas adalah kewajiban untuk menjalankan fungsi yang diberikan pada seseorang sesuai
-   dengan jabatannya.
-3. Fungsi adalah kegunaan atau manfaat seseorang dalam organisasi sesuai dengan
-   jabatannya.
-
-```
-
-BAB II
-TUGAS, HAK DAN KEWAJIBAN
-
-```
-
-```
-
-Pasal 2
-PIMPINAN PUSAT
-
-```
-
-1. Melaksanakan amanat Kongres.
-2. Memimpin dan mengkoordinir Pimpinan Wilayah.
-3. Menerbitkan Surat Pengesahan kepengurusan PW dan PC setelah mempelajari komposisi
-   personalia kepengurusan lengkap.
-4. Membekukan PW dan PC yang tidak mematuhi peraturan yang berlaku.
-5. Menghadiri setiap undangan PBNU, PW IPNU dan PC IPNU, yang dianggap penting.
-6. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi
-   kepada PBNU.
-7. Pimpinan Pusat dapat membentuk koordinator wilayah sesuai dengan kebutuhan.
-8. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam di
-   saat konggres.
-9. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU kepada pimpinan wilayah.
-
-```
-
-Pasal 3
-PIMPINAN WILAYAH
-
-```
-
-1. Melaksanakan amanat konferensi wilayah.
-2. Memimpin dan mengkoordinir Pimpinan Cabang dan Pimpinan Anak Cabang di daerah
-   kerjanya.
-3. Menerbitkan Surat Rekomendasi Pengesahan kepengurusan PC setelah mempelajari
-   komposisi personalia kepengurusan lengkap.
-4. Mengusulkan berdirinya Pimpinan Cabang IPNU kepada Pimpinan Pusat.
-5. Mengusulkan pembekukan PC yang tidak mematuhi peraturan yang berlaku.
-6. Menghadiri setiap undangan PP IPNU, PW NU dan PC IPNU yang berada di daerah
-   kerjanya, yang dianggap penting.
-7. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi
-   secara regional kepada PP IPNU dan PW NU, dengan tembusan PC IPNU.
-8. Pimpinan Wilayah dapat membentuk koordinator daerah sesuai dengan kebutuhan.
-9. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam
-   secara regional kepada konferensi wilayah.
-10. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU ke regional wilayahnya
-
-### 17
-
-```
-
-Pasal 4
-PIMPINAN CABANG
-
-```
-
-1. Melaksanakan amanat Konferensi Cabang.
-2. Memimpin dan mengkoordinir Pimpinan Anak Cabang, Pimpinan Ranting, Pimpinan Anak
-   Ranting dan Pimpinan Komisariat di daerah kerjanya.
-3. Menerbitkan Surat Pengesahan (SP) kepengurusan PAC IPNU setelah mendapatkan
-   rekomendasi MWC NU setempat; menerbitkan SP kepengurusan PR IPNU setelah
-   mendapatkan rekomendasi dari PAC IPNU dan PR NU setempat; menerbitkan Surat
-   Pengesahan (SP) kepengurusan PK IPNU di Perguruan Tinggi setelah mendapatkan
-   rekomendasi dari MWC NU dan/atau civitas akademik Perguruan Tinggi setempat, dan
-   menerbitkan Surat pengesahan PK IPNU di sekolah madrasah, dan pesantren setelah
-   mendapat rekomendasi dari PAC IPNU dan/atau pimpinan lembaga pendidikan dengan
-   terlebih dahulu mempelajari komposisi personalia kepengurusan lengkap.
-4. Mengupayakan berdirinya Pimpinan Anak Cabang, Pimpinan Ranting dan Pimpinan
-   Komisariat, dan melaporkannya kepada Pimpinan Wilayah dan Pimpinan Pusat.
-5. Menghadiri setiap undangan PP IPNU, PW IPNU. PCNU, PAC IPNU, PR IPNU, dan PK
-   IPNU di daerah kerjanya, yang dianggap penting.
-6. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi
-   secara lokal kepada PCNU dan PP IPNU, dengan tembusan PW IPNU.
-7. Membekukan PR, PK yang tidak mematuhi peraturan yang berlaku, setelah melakukan
-   pendekatan dan atas pertimbangan pengurus NU setempat.
-8. Pimpinan Cabang dapat membentuk koordinator kecamatan sesuai dengan kebutuhan.
-9. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam
-   secara regional kepada Konferensi Cabang.
-10. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU & PW IPNU ke regional
-    daerahnya.
-
-```
-
-Pasal 5
-PIMPINAN CABANG ISTIMEWA
-
-```
-
-1. Melaksanakan amanat Konferensi Cabang Istimewa.
-2. Memimpin dan mengkoordinir anggota di daerah kerjanya.
-3. Menghadiri setiap undangan PP IPNU dan PCI NU yang dianggap penting.
-4. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi
-   kepada PCI NU dan PP IPNU.
-5. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam
-   kepada Konferensi cabang.
-
-```
-
-Pasal 6
-PIMPINAN ANAK CABANG
-
-```
-
-1. Melaksanakan amanat konferensi anak cabang.
-2. Memimpin dan mengkoordinir Pimpinan Ranting dan Pimpinan Komisariat di daerah
-   kerjanya.
-3. Menerbitkan Surat Rekomendasi Pengesahan kepengurusan PR/PK setelah mempelajari
-   komposisi personalia kepengurusan lengkap.
-4. Mengusulkan berdirinya Pimpinan Ranting dan Pimpinan Komisariat kepada Pimpinan
-   Cabang.
-5. Mengusulkan pembekukan PR/PK yang tidak mematuhi peraturan yang berlaku.
-
-### 18
-
-6. Menghadiri setiap undangan PC IPNU, MWC NU setempat, PR IPNU dan PK IPNU di
-   daerah kerjanya.
-7. Memberikan laporan periodik (tahunan) tentang kegiatan dan perkembangan organisasi
-   secara lokal kepada PC IPNU dan MWC NU, dengan tembusan PR dan PK IPNU.
-8. Pimpinan Anak Cabang dapat membentuk koordinator kawasan sesuai dengan
-   kebutuhan.
-9. Bertanggung jawab terhadap dan atas nama organisasi baik keluar maupun kedalam
-   secara lokal kepada Konferensi Anak Cabang.
-10. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU, PW. IPNU dan PC IPNU ke
-    lokal daerahnya.
-
-```
-
-Pasal 7
-PIMPINAN KOMISARIAT
-
-```
-
-1. Melaksanakan amanat rapat anggota.
-2. Memimpin dan mengkoordinir anggota di daerah kerjanya.
-3. Menghadiri setiap undangan PC dan PAC bagi PK IPNU di sekolah, madrasah dan pondok
-   pesantren
-4. Menghadiri setiap undangan PC dan PW bagi PK di Perguruan Tinggi
-5. Memberikan laporan periodik (setengahtahunan) tentang kegiatan dan perkembangan
-   organisasi secara lokal kepada PC IPNU dan Pimpinan Lembaga Pendidikan, dengan
-   tembusan PAC IPNU bagi PK IPNU madrasah dan pondok pesantren, sedangkan PK IPNU
-   di Perguruan Tinggi kepada PC IPNU dengan tembusan PW IPNU.
-6. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam
-   secara lokal kepada Rapat Anggota
-7. Mensosialisasikan aturan/kebijakan yang diterbitkan PP IPNU, PW. IPNU, PC IPNU dan
-   keseluruh anggotanya bagi PK. IPNU Perguruan Tinggi dan ke PAC beserta keseluruh
-   anggotanya bagi PK IPNU madrasah dan pondok pesantren.
-
-```
-
-Pasal 8
-PIMPINAN RANTING
-
-```
-
-1. Melaksanakan amanat Konferensi Ranting.
-2. Memimpin dan mengkoordinir anggota di daerah kerjanya.
-3. Menghadiri setiap undangan PC. IPNU dan PAC. IPNU dan PRNU setempat yang dianggap
-   penting.
-4. Memberikan laporan periodik (setengahtahunan) tentang kegiatan dan perkembangan
-   organisasi secara lokal kepada PC. IPNU dan PRNU, dengan tembusan PAC IPNU.
-5. Bertanggung jawab terhadap dan atas nama organisasi baik ke luar maupun ke dalam
-   secara lokal kepada rapat anggota.
-6. Mensosialisasikan aturan/kebijakan yang diterbitkan PP. IPNU, PW. IPNU, PC. IPNU dan
-   PAC keseluruh anggotanya.
-
-### 19
-
-#### BAB III
-
-#### TATA KERJA PENGURUS
-
-```
-
-Pasal 9
-KETUA UMUM
-
-```
-
-1. Status dan kedudukan:
-   a. Mandataris Kongres;
-   b. Pengurus harian PP;
-   c. Pemegang kebijakan umum PP;
-   d. Koorditaror umum program PP;
-2. Hak dan wewenang:
-   a. Menentukan kebijakan organisasi yang bersifat umum dengan tetap mengindahkan
-   ketentuan yang berlaku;
-   b. Meminta pertanggungjawaban atas segala tindakan dan kebijakan pengurus yang
-   dilakukan atas nama organisasi;
-   c. Mengatasnamakan organisasi dalam segala kegiatan PP baik ke dalam maupun ke
-   luar;
-   d. Memberhentikan, mengganti, dan mengangkat personil kepengurusan PP yang
-   dianggap tidak menjalankan tugas organisasi sebagaimana mestinya, dan disahkan
-   melalui rapat harian;
-   e. Bersama bendahara umum atau wakil bendahara mendisposisi pengeluaran-
-   pengeluaran rutin PP;
-   f. Menandatangani surat-surat yang bersifat umum, baik ke dalam maupun ke luar atas
-   nama organisasi;
-   g. Memberikan mandat kepada wakil ketua umum atau pengurus harian dalam hal
-   ketua umum berhalangan tidak tetap, melalui rapat pleno.
-3. Tugas dan kewajiban:
-   a. Memimpin dan mengendalikan organisasi PP secara umum;
-   b. Mengkoordinir pelaksanaan program secara umum;
-   c. Mengevaluasi dan mengendalikan pelaksanaan kebijakan PP;
-   d. Mengevaluasi secara umum program PP dan kegiatan-kegiatan yang telah dan/atau
-   sedang dilaksanakan secara berkala selama masa khidmat kepengurusan;
-   e. Melakukan langkah-langkah proaktif dalam rangka pengembangan organisasi,
-   dengan tetap mengacu kepada hasil-hasil Kongres.
-4. Tanggung jawab:
-   a. Bertanggung jawab atas perjalanan kepengurusan PP dan keberadaan organisasi
-   IPNU secara nasional;
-   b. Bertanggung jawab terhadap segala tindakan dan kebijakan organisasi secara umum
-   kepada Kongres;
-   f. Bertanggung jawab atas pelaksanaan program PP secara keseluruhan.
-
-### 20
-
-```
-
-Pasal 10
-WAKIL KETUA UMUM
-
-```
-
-1. Status dan kedudukan;
-   a. Pengurus harian PP;
-   b. Koordinator program antar bidang.
-2. Hak dan wewenang:
-   a. Mengkoordinasikan ketua-ketua dalam pelaksanaan fungsi sebagai koordinator
-   bidang;
-   b. Melaksanakan wewenang tertentu yang dilimpahkan oleh ketua umum;
-   c. Membangun jaringan dan kerjasama dengan pihak lain untuk mendukung
-   pelaksanaan program PP;
-   d. Bersama ketua umum merumuskan garis-garis besar kebijakan organisasi secara
-   umum;
-   e. Bersama-sama pengurus harian lainnya membantu ketua umum dalam
-   memberhentikan, mengganti dan mengangkat personil kepengurusan PP yang
-   dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya;
-   f. Mengkoordinasikan ketua-ketua PP sebagai koordinator bidang.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Melaksanakan tugas dan kewajiban ketua umum yang dilimpahkan kepadanya;
-   b. Bersama sekretaris umum mendampingi ketua umum dalam tugas-tugas
-   kepemimpinan organisasi sehari-hari;
-   c. Bersama Ketua Umum mengkoordinasikan program - program PP;
-   d. Bersama ketua umum dan sekretaris umum mengevaluasi program PP dan kegiatan-
-   kegiatan yang telah dan/sedang dilaksanakan secara berkala selama masa khidmat
-   kepengurusan;
-   e. Dalam menjalankan tugasnya, bertanggung jawab kepada ketua umum
-
-```
-
-Pasal 11
-KETUA – KETUA BIDANG
-
-```
-
-1. Ketua adalah pengurus harian yang membantu ketua umum dalam melaksanakan
-   kebijakan atau program sesuai dengan bidang yang telah ditetapkan.
-2. Ketua membawahi departemen sesuai dengan bidang yang telah ditetapkan.
-3. Ketua-ketua sekurang-kurangnya berjumlah 6 (enam) dan sebanyak-banyaknya
-   berjumlah 15 (lima belas).
-4. Unsur ketua sekurang-kurangnya terdiri dari ketua bidang organisasi, ketua bidang
-   kaderisasi, ketua bidang jaringan sekolah dan pesantren, ketua bidang hubungan
-   internasional, ketua bidang dakwah, dan ketua bidang olahraga seni dan budaya.
-   Pasal 12
-   SEKRETARIS UMUM
-5. Status dan kedudukan;
-   a. Pengurus harian PP;
-   b. Pemegang kebijakan umum sekretariat umum PP.
-6. Hak dan wewenang:
-   a. Menentukan manajemen sekretariat umum;
-   b. Merumuskan kebijakan umum administrasi organisasi;
-   c. Bersama ketua umum merumuskan garis-garis besar kebijakan organisasi secara
-   umum;
-
-### 21
-
-```
-
-d. Bersama-sama pengurus harian lainnya membantu ketua umum dalam
-memberhentikan, mengganti dan mengangkat personil kepengurusan PP yang
-dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya;
-e. Melaksanakan wewenang tertentu yang dilimpahkan oleh ketua umum;
-f. Bersama ketua umum menandatangani surat-surat yang bersifat umum, baik ke
-dalam maupun ke luar atas nama organisasi.
-
-```
-
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Memimpin dan mengelola sekretariat umum PP;
-   b. Mendampingi dan bekerjasama dengan ketua umum dalam melaksanakan tugas-
-   tugas organisasi;
-   c. Mengkoordinasikan dan menertibkan sistem administrasi organisasi dan sekretariat
-   umum;
-   d. Melaksanakan dan mengendalikan administrasi sehari-hari dan melaksanakan fungsi
-   kerumahtanggaan kantor;
-   e. Menggali, mengolah, dan menyajikan data dan informasi;
-   f. Membantu ketua umum/wakil ketua umum dan ketua-ketua dalam mengelola
-   organisasi dan program-program PP;
-   g. Bersama ketua umum mengevaluasi semua kegiatan yang telah dan/atau sedang
-   dilaksanakan secara berkala selama masa khidmat kepengurusan;
-   h. Dalam menjalankan tugasnya, bertanggung jawab kepada ketua umum.
-
-```
-
-Pasal 13
-WAKIL – WAKIL SEKRETARIS UMUM
-
-```
-
-1. Wakil Sekretaris Umum adalah pengurus harian yang bertugas membantu sekertaris
-   umum dalam melaksanakan kebijakan atau program sesuai dengan dengan bidang yang
-   di tetapkan;
-2. Wakil Sekretaris Umum bersama-sama dengan ketua bidang sebagai pelaksana
-   kebijakan khusus sesuai dengan dengan bidang yang telah ditetapkan.
-3. Wakil Sekretaris Umum bersama-sama dengan ketua bidang membawahi departemen
-   sesuai dengan bidang yang telah di tetapkan.
-4. Dalam kepengurusan PP harus mempunyai wakil sekretaris umum bidang organisasi,
-   bidang kaderisasi, bidang jaringan sekolah dan pesantren, bidang hubungan
-   internasional, bidang dakwah dan bidang olahraga, seni dan budaya.
-5. Wakil Sekretaris Umum sekurang-kurangnya berjumlah 6 (enam) dan sebanyak-
-   banyaknya berjumlah 15 (tiga belas).
-
-```
-
-Pasal 14
-BENDAHARA UMUM
-
-```
-
-1. Status dan kedudukan;
-   a. Pengurus harian PP;
-   b. Pemegang kebijakan umum keuangan PP;
-2. Hak dan wewenang:
-   a. Menentukan kebijakan umum keuangan dan sistem pengelolaan keuangan
-   organisasi yang efisien, akuntabel dan transparan;
-   b. Bersama ketua umum menyusun anggaran pendapatan dan belanja organisasi
-   tahunan dalam satu masa khidmat;
-   c. Melakukan audit internal terhadap keuangan organisasi;
-   d. Menandatangani surat-surat berharga milik atau atas nama organisasi, bersama
-   ketua umum;
-
-### 22
-
-```
-
-e. Meminta laporan keuangan dari para wakil bendahara umum dan panitia pelaksana
-kegiatan yang dibentuk oleh PP;
-f. Menandatangani laporan keuangan yang berkenaan dengan biaya pemasukan dan
-pengeluaran bersama ketua umum;
-g. Bersama-sama pengurus harian lainnya membantu ketua umum dalam
-memberhentikan, mengganti dan mengangkat personil kepengurusan PP yang
-dianggap tidak dapat menjalankan tugas organisasi sebagaimana mestinya.
-
-```
-
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Menggali sumber-sumber dana untuk kepentingan organisasi yang halal dan tidak
-   mengikat, dengan persetujuan ketua umum;
-   b. Mengembangkan dan mendayagunakan aset-aset PP;
-   c. Mengatur dan mengendalikan sirkulasi keuangan organisasi dengan
-   sepengetahuan ketua umum;
-   d. Melaporkan neraca keuangan organisasi secara berkala kepada rapat pleno;
-   e. Dalam menjalankan tugasnya, bertanggung jawab kepada ketua umum.
-
-```
-
-Pasal 15
-WAKIL – WAKIL BENDAHARA UMUM
-
-```
-
-1. Tugas, kewajiban dan tanggung jawab:
-   a. Membantu bendahara umum dalam menjalankan tugas-tugas organisasi yang
-   berkenaan dengan pengelolaan keuangan;
-   b. Melaksanakan tugas-tugas khusus di bidang kebendaharaan sesuai dengan dengan
-   pembagian tugas yang ditentukan;
-   c. Dalam menjalankan tugasnya bertanggungjawab kepada ketua umum.
-
-```
-
-Pasal 16
-TATA KERJA DEPARTEMEN, LEMBAGA DAN BADAN
-
-```
-
-1. Status dan kedudukan:
-   a. Pengurus pleno PP;
-   b. Pelaksana program khusus PP;
-2. Hak dan wewenang:
-   a. Menyusun dan merumuskan langkah-langkah operasional program hasil Kongres
-   yang berkaitan dengan departemen dan lembaga yang bersangkutan;
-   b. Membuat perencanaan teknis pelaksanaan kegiatan PP;
-   c. Mengajukan rancangan anggaran biaya pelaksanaan program kepada bendahara
-   umum.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Melaksanakan program kerja PP yang telah ditetapkan sesuai dengan dengan
-   bidangnya masing-masing;
-   b. Memberikan laporan program yang telah dilaksanakan kepada rapat pleno PP;
-   c. Dalam menjalankan tugasnya, bertanggung jawab kepada ketua yang membawahi
-   bidang dan lembaga yang bersangkutan.
-4. Dalam kepengurusan PP. IPNU harus diadakan departemen, lembaga, dan badan.
-5. PP. IPNU diperkenankan menambah departemen, lembaga, dan badan lain sesuai
-   dengan kebutuhan.
-
-### 23
-
-```
-
-Pasal 17
-KOORDINATOR WILAYAH
-
-```
-
-1. Status dan kedudukan:
-   a. Pengurus harian PP dari jajaran Wakil Ketua Umum atau Ketua;
-   b. Perangkat Pelaksana kebijakan/keputusan PP
-   c. Bersifat koordinatif dan konsultatif
-2. Hak dan wewenang:
-   a. Menjalankan tugas ketua umum dalam bidang-bidang tertentu pada wilayah
-   dampingannya;
-   b. Melakukan koordinasi pada wilayah dampingannya dengan sepengetahuan ketua
-   umum;
-   c. Mensinergikan program, kebijakan/keputusan PP pada wilayah dampingannya
-   dengan tetap mengacu kepada hasil-hasil Kongres dan konferensi wilayah
-   dampingannya.;
-   d. berhak memberikan saran atau teguran pada wilayah dampingannya apabila tidak
-   menjalankan tugas organisasi dan atau melanggar peraturan yang ada.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Melakukan pendampinagn dan monitoring secara intensif terhadap Pimpinan Wilayah
-   yang menjadi wilayah dampingannya;
-   b. Melaporkan tugas dan perkembangan wilayah dampingannya kepada ketua umum
-   secara berkala dalam masa khidmah kepengurusan
-   c. Melakukan langkah-langkah pro aktif dalam rangka pengembangan potensi wilayah
-   dampinganya. dengan tetap mengacu kepada hasil-hasil Kongres dan konferensi
-   wilayah dampingannya.
-   d. Dalam menjalankan tugasnya bertanggung jawab kepada ketua umum.
-   e. Pembagian wilayah dampingan bisa berdasarkan zona geografis yang disepakati
-   dalam rapat harian
-
-```
-
-BAB IV
-WEWENANG DAN TUGAS PIMPINAN DIBAWAHNYA
-
-```
-
-```
-
-Pasal 18
-
-```
-
-Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewah, Pimpinan Anak Cabang,
-Pimpinan Ranting, dan Pimpinan Komisariat
-
-1. Susunan Pengurus terdiri dari: pelindung, dewan pembina, ketua, wakil-wakil ketua,
-   sekretaris, wakil-wakil sekretaris, bendahara, wakil-wakil bendahara, beberapa
-   departemen, lembaga dan badan.
-2. Pelindung adalah Pengurus Nahdlatul Ulama.
-3. Dewan pembina terdiri dari alumni dan orang-orang yang dianggap mampu dan berjasa
-   untuk IPNU (lihat: PRT pasal 18) dan/atau ditentukan menurut kebijakan sepanjang tidak
-   bertentangan dengan PD-PRT.
-4. Ketua sebagai mandataris Konferensi, dipilih dan ditetapkan oleh Konferensi.
-5. Anggota pengurus harian diangkat oleh ketua terpilih yang dibantu oleh anggota tim
-   formatur Konferensi.
-6. Anggota pengurus lengkap diangkat oleh ketua melalui rapat harian
-7. Pimpinan Lembaga dan Badan diangkat oleh Ketua melalui rapat harian.
-
-### 24
-
-#### BAB V
-
-#### TUGAS KERJA PENGURUS HARIAN
-
-```
-
-Pasal 1 9
-KETUA
-
-```
-
-1. Status dan Kedudukan
-   a. Mandataris Konferensi
-   b. Pengurus Harian di Wilayah Kerjanya
-   c. Pemegang Kebijakan Umum di Wilayah Kerjanya
-2. Hak dan Wewenang
-   a. Menentukan kebijakan organisasi yang bersifat umum dengan tetap mengindahkan
-   ketentuan yang berlaku;
-   b. Meminta pertanggungjawaban atas segala tindakan dan kebijakan pengurus yang
-   dilakukan atas nama organisasi;
-   c. Mengatasnamakan organisasi dalam segala kegiatan baik ke dalam maupunke luar;
-   d. Memberhentikan, mengganti dan mengangkat personil kepengurusan yang dianggap
-   tidak menjalankan tugas organisasi sebagaimana mestinya, dan disahkan melalui
-   rapat harian;
-   e. Bersama bendahara atau wakil bendahara mendisposisi pengeluaran- pengeluaran
-   rutin;
-   f. Menandatangani surat-surat yang bersifat umum, baik ke dalam maupun ke luar atas
-   nama organisasi;
-   g. Memberikan mandat kepada wakil ketua atau pengurus harian dalam hal ketua
-   berhalangan tidak tetap, melalui rapat pleno.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Memimpin dan mengendalikan organisasi di Wilayah Kerjanya secara umum;
-   b. Mengkoordinir pelaksanaan program secara umum;
-   c. Mengevaluasi dan mengendalikan pelaksanaan kebijakan di Wilayah Kerjanya;
-   d. Mengevaluasi secara umum program dan kegiatan-kegiatan yang telah dan/atau
-   sedang dilaksanakan secara berkala selama masa khidmat kepengurusan;
-   e. Melakukan langkah-langkah proaktif dalam rangka pengembangan organisasi,
-   dengan tetap mengacu kepada hasil-hasil Kongres dan konferensi;
-   f. Bertanggungjawab terhadap kelancaran dan keberadaan organisasi secara regional;
-   g. Bertanggungjawab terhadap segala tindakan dan kebijakan organisasi secara umum
-   kepada konferensi.
-
-```
-
-Pasal 20
-WAKIL-WAKIL KETUA
-
-```
-
-1. Wakil Ketua adalah pengurus harian yang membantu ketua dalam melaksanakan
-   kebijakan atau program sesuai dengan dengan bidang yang telah ditetapkan.
-2. Wakil Ketua membawahi departemen sesuai dengan dengan bidang yang telah
-   ditetapkan.
-3. Wakil Ketua ditingkat PW, PC, dan PAC sekurang-kurangnya berjumlah 5 (lima) dan
-   sebanyak-banyaknya berjumlah 7 (tujuh), sedangkan ditingkat PK dan PR sekurang-
-   kurangnya berjumlah 3 (tiga) dan sebanyak-banyaknya berjumlah 5 (lima)
-4. Unsur Wakil Ketua ditingkat PW, PC, dan PAC sekurang-kurangnya terdiri dari wakil ketua
-   bidang organisasi, wakil ketua bidang kaderisasi, wakil ketua bidang jaringan sekolah dan
-   pesantren, wakil ketua bidang dakwah dan wakil ketua bidang olahraga seni dan budaya
-
-### 25
-
-```
-
-dan unsur wakil ketua ditingkat PR dan PK sekurang-kurangnya terdiri dari wakil ketua
-bidang organisasi, wakil ketua bidang kaderisasi, dan wakil ketua bidang dakwah.
-
-```
-
-```
-
-Pasal 21
-SEKRETARIS
-
-```
-
-1. Status dan kedudukan:
-   a. Pengurus harian di Wilayah Kerjanya;
-   b. Pemegang kebijakan umum sekretariat di Wilayah Kerjanya.
-2. Hak dan wewenang:
-   a. Menentukan manajemen sekretariat di Wilayah Kerjanya;
-   b. Merumuskan kebijakan umum administrasi organisasi;
-   c. Bersama ketua merumuskan garis-garis besar kebijakan organisasi secara umum;
-   d. Bersama-sama pengurus harian lainnya membantu ketua dalam memberhentikan,
-   mengganti dan mengangkat personil kepengurusan yang dianggap tidak dapat
-   menjalankan tugas organisasi sebagaimana mestinya;
-   e. Melaksanakan wewenang tertentu yang dilimpahkan oleh ketua;
-   f. Bersama ketua menandatangani surat-surat yang bersifat umum, baik ke dalam
-   maupun ke luar atas nama organisasi.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Memimpin dan mengelola sekretariat di Walayah Kerjanya;
-   b. Mendampingi dan bekerjasama dengan ketua dalam melaksanakan tugas-tugas
-   organisasi;
-   c. Mengkoordinasikan dan menertibkan sistem administrasi organisasi dan sekretariat
-   di Wilayah Kerjanya;
-   d. Melaksanakan dan mengendalikan administrasi sehari-hari dan melaksanakan fungsi
-   kerumahtanggaan kantor;
-   e. Menggali, mengolah, dan menyajikan data dan informasi;
-   f. Membantu ketua dan wakil ketua dalam mengelola organisasi dan program-
-   program;
-   g. Bersama ketua mengevaluasi semua kegiatan yang telah dan/atau sedang
-   dilaksanakan secara berkala selama masa khidmat kepengurusan;
-   h. Dalam menjalankan tugasnya, bertanggung jawab kepada ketua
-
-```
-
-Pasal 22
-WAKIL-WAKIL SEKRETARIS
-
-```
-
-1. Wakil Sekretaris adalah pengurus harian yang bertugas membantu sekertaris dalam
-   melaksanakan kebijakan atau program sesuai dengan dengan bidang yang di tetapkan;
-2. Wakil Sekretaris bersama-sama dengan ketua bidang sebagai pelaksana kebijakan
-   khusus sesuai dengan dengan bidang yang telah ditetapkan.
-3. Wakil Sekretaris bersama-sama dengan ketua bidang membawahi departemen sesuai
-   dengan bidang yang telah di tetapkan.
-4. Dalam kepengurusan harus mempunyai wakil sekretaris bidang organisasi, bidang
-   kaderisasi, bidang jaringan sekolah dan pesantren, bidang dakwah dan bidang olahraga,
-   seni dan budaya.
-5. Wakil Sekretaris sekurang-kurangnya berjumlah 5 (lima) dan sebanyak-banyaknya
-   berjumlah 7 (tujuh)
-
-### 26
-
-```
-
-Pasal 23
-BENDAHARA
-
-```
-
-1. Status dan kedudukan:
-   a. Pengurus harian di Wilayah Kerjanya;
-   b. Pemegang kebijakan umum keuangan di Wilayah Kerjanya;
-2. Hak dan wewenang:
-   a. Menentukan kebijakan umum keuangan dan sistem pengelolaan keuangan
-   organisasi yang efisien, akuntabel dan transparan;
-   b. Bersama ketua menyusun anggaran pendapatan dan belanja organisasi tahunan
-   dalam satu masa khidmat;
-   c. Melakukan audit internal terhadap keuangan organisasi;
-   d. Menandatangani surat-surat berharga milik atau atas nama organisasi, bersama
-   ketua;
-   e. Meminta laporan keuangan dari para wakil bendahara dan panitia pelaksana kegiatan
-   yang dibentuk di Wilayah Kerjanya;
-   f. Menandatangani laporan keuangan yang berkenaan dengan biaya pemasukan dan
-   pengeluaran bersama ketua;
-   g. Bersama-sama pengurus harian lainnya membantu ketua dalam memberhentikan,
-   mengganti dan mengangkat personil kepengurusan yang dianggap tidak dapat
-   menjalankan tugas organisasi sebagaimana mestinya.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Menggali sumber-sumber dana untuk kepentingan organisasi yang halal dan tidak
-   mengikat, dengan persetujuan ketua;
-   b. Mengembangkan dan mendayagunakan aset-aset di Wilayah Kerjanya;
-   c. Mengatur dan mengendalikan sirkulasi keuangan organisasi dengan
-   sepengetahuan ketua;
-   d. Melaporkan neraca keuangan organisasi secara berkala kepada rapat pleno di
-   Wilayah Kerjanya;
-   e. Dalam menjalankan tugasnya, bertanggung jawab kepada ketua.
-
-```
-
-Pasal 24
-WAKIL-WAKIL BENDAHARA
-
-```
-
-1. Status dan kedudukan:
-   a. Pengurus harian di Wilayah Kerjanya;
-   b. Pelaksana kebijakan khusus keuangan di Wilayah Kerjanya;
-   c. Pimpinan disetiap wilayah kerjanya diperkenankan mempunyai wakil bendahara lebih
-   dari satu sesuai dengan dengan kebutuhannya.
-2. Hak dan wewenang:
-   a. Melaksanakan wewenang bendahara dalam hal bendahara berhalangan berdasarkan
-   surat mandat bendahara atau keputusan rapat harian;
-   b. Membantu bendahara dalam melakukan audit internal terhadap keuangan
-   organisasi;
-   c. Bersama-sama pengurus harian lainnya membantu ketua dalam memberhentikan,
-   mengganti dan mengangkat personil kepengurusan yang dianggap tidak dapat
-   menjalankan tugas organisasi sebagaimana mestinya.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Membantu bendahara dalam menjalankan tugas-tugas organisasi yang berkenaan
-   dengan pengelolaan keuangan;
-
-### 27
-
-```
-
-b. Melaksanakan tugas-tugas khusus di bidang kebendaharaan sesuai dengan dengan
-pembagian tugas yang ditentukan;
-c. Dalam menjalankan tugasnya bertanggungjawab kepada ketua
-
-```
-
-```
-
-Pasal 25
-TATA KERJA DEPARTEMEN, LEMBAGA DAN BADAN
-
-```
-
-1. Status dan kedudukan:
-   a. Pengurus pleno di Wilayah Kerjanya;
-   b. Pelaksana program khusus di Wilayah Kerjanya;
-2. Hak dan wewenang:
-   a. Menyusun dan merumuskan langkah-langkah operasional program hasil Kongres
-   yang berkaitan dengan departemen dan lembaga yang bersangkutan;
-   b. Membuat perencanaan teknis pelaksanaan kegiatan di Wilayah Kerjanya;
-   c. Mengajukan rancangan anggaran biaya pelaksanaan program kepada bendahara
-   umum.
-3. Tugas, kewajiban dan tanggung jawab:
-   a. Melaksanakan program kerja di Wilayah Kerjanya yang telah ditetapkan sesuai
-   dengan dengan bidangnya masing-masing;
-   b. Memberikan laporan program yang telah dilaksanakan kepada rapat pleno di
-   Wilayah Kerjanya;
-   c. Dalam menjalankan tugasnya, bertanggung jawab kepada ketua yang membawahi
-   bidang dan lembaga yang bersangkutan.
-4. Dalam kepengurusan disetiap pimpinan harus diadakan departemen, lembaga, dan
-   badan.
-5. Pimpinan disetiap Wilayah Kerjanya diperkenankan menambah departemen, lembaga,
-   dan badan lain sesuai dengan kebutuhan.
-
-```
-
-Pasal 26
-KOORDINATOR DAERAH
-
-```
-
-1. Status dan kedudukan:
-   a. Pengurus harian dari jajaran wakil ketua;
-   b. Perangkat Pelaksana kebijakan/keputusan di Wilayah Kerjanya
-   c. Bersifat koordinatif dan konsultatif
-2. Hak dan wewenang:
-   a. Menjalankan tugas ketua dalam bidang-bidang tertentu pada wilayah
-   dampingannya;
-   b. Melakukan koordinasi pada wilayah dampingannya dengan sepengetahuan ketua;
-   c. Mensinergikan program, kebijakan/keputusan di wilayah kerjanya pada wilayah
-   dampingannya dengan tetap mengacu kepada hasil-hasil Kongres, konferensi
-   diwilayah dampingannya.;
-   d. Berhak memberikan saran atau teguran pada wilayah dampingannya apabila tidak
-   menjalankan tugas organisasi dan atau melanggar peraturan yang ada.
-3. Tugas, Kewajiban dan Tanggungjawab:
-   a. Melakukan pendampingan dan monitoring secara intensif terhadap Pimpinan
-   diwilayah kerjanya yang menjadi wilayah dampingannya;
-   b. Melaporkan tugas dan perkembangan wilayah dampingannya kepada ketua secara
-   berkala dalam masa khidmah kepengurusan;
-
-### 28
-
-```
-
-c. Melakukan langkah-langkah pro aktif dalam rangka pengembangan potensi wilayah
-dampingannya dengan tetap mengacu kepada hasil-hasil Kongres, Konferensi di
-Wilayah dampingannya;
-d. Dalam menjalankan tugasnya bertanggungjawab kepada ketua.
-
-```
-
-4. Pembagian wilayah dampingan bisa berdasarkan zona geografis yang disepakati dalam
-   rapat harian.
-
-```
-
-BAB V
-KETENTUAN PENUTUP
-
-```
-
-```
-
-Pasal 27
-PENUTUP
-
-```
-
-1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
-2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Tata Kerja Organisasi ini,
-   akan diatur dalam Peraturan Pimpinan Pusat.
-3. Agar setiap pengurus dan anggota IPNU mengetahui dan memahami Peraturan
-   Organisasi tentang Tata Kerja Organisasi ini, maka setiap tingkat kepengurusan
-   diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
-
-```
-
-Ditetapkan di : Pasuruan
-Pada tanggal : 12 Agustus 2023
-
-```
-
-```
-
-Pimpinan Sidang Komisi
-
-```
-
-```
-
-Ttd
-
-```
-
-```
-
-AAN ANDRI ARDIYANSAH
-Ketua
-
-```
-
-```
-
-Ttd
-
-```
-
-```
-
-MUNAWAR CHOLIL
-Sekretaris
-
-```
 
 ## 29
 
@@ -912,11 +9,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -932,35 +25,19 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 03 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 MEKANISME ORGANISASI
 
-```
-
-```
-
 Bismillahirrahmanirrahim
-
-```
-
-```
 
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 penyelenggaraan organisasi yang teratur;
-
-```
 
 2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi,
    maka diperlukan Peraturan Organisasi tentang Tata Kerja
@@ -986,55 +63,27 @@ penyelenggaraan organisasi yang teratur;
 7. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 ### 31
 
@@ -1042,12 +91,8 @@ Anggota
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 PENGERTIAN
-
-```
 
 Dalam Peraturan Organisasi tentang Mekanisme Keorganisasian Ikatan Pelajar Nahdlatul
 Ulama ini yang dimaksud dengan:
@@ -1100,25 +145,17 @@ Ulama ini yang dimaksud dengan:
     oleh PW, PCI, PC, PAC, PR, dan PK sebelum menyelenggarakan Konferensi atau Rapat
     Anggota.
 
-```
-
 BAB II
 MAKSUD DAN TUJUAN
 Pasal 2
 MAKSUD
 
-```
-
 Peraturan Organisasi tentang Mekanisme Keorganisasian ini dimaksudkan sebagai pedoman
 penyelenggaraan organisasi IPNU di semua tingkat kepengurusan dan berlaku secara
 nasional.
 
-```
-
 Pasal 3
 TUJUAN
-
-```
 
 Peraturan Organisasi tentang Mekanisme Keorganisasian ini sebagaimana dimaksud dalam
 Pasal 2 bertujuan untuk:
@@ -1126,19 +163,11 @@ a. Mendukung kinerja organisasi secara umum;
 b. Menjamin penyelenggaraan organisasi yang teratur dan manajebel;
 c. Mengoptimalkan potensi organisasi.
 
-```
-
 BAB III
 RUANG LINGKUP
 
-```
-
-```
-
 Pasal 4
 CAKUPAN
-
-```
 
 Peraturan Organisasi tentang Mekanisme Keorganisasian ini mencakup beberapa aspek
 dalam penyelenggaraan organisasi yang meliputi;
@@ -1148,19 +177,11 @@ c. Mekanisme Kekosongan Jabatan
 d. Pelantikan dan Pembekalan Pengurus
 e. Perencanaan Program Kerja
 
-```
-
 BAB IV
 PROSEDUR PEMBENTUKAN ORGANISASI
 
-```
-
-```
-
 Pasal 5
 PEMBENTUKAN PIMPINAN WILAYAH
-
-```
 
 1. Di setiap provinsi dapat dibentuk Pimpinan Wilayah.
 2. Permintaan untuk mendirikan Pimpinan Wilayah disampaikan kepada Pimpinan Pusat
@@ -1176,12 +197,8 @@ PEMBENTUKAN PIMPINAN WILAYAH
 
 ### 33
 
-```
-
 c. Pengurus Wilayah NU kehilangan hak dan kewenangannya sebagai pengurus NU
 akibat kadaluarsa atau hal lain sesuai dengan dengan peraturan yang berlaku di NU.
-
-```
 
 6. Pengurus Wilayah NU, Pengurus Pimpinan Pusat yang mendapat mandat melaporkan
    pembentukan PW dan memberikan rekomendasi kepada PP IPNU untuk menerbitkan
@@ -1189,12 +206,8 @@ akibat kadaluarsa atau hal lain sesuai dengan dengan peraturan yang berlaku di N
 7. Setelah mempelajari susunan kepengurusan PW yang bersangkutan, Pimpinan Pusat
    berkewajiban mengesahkan kepengurusan PW dengan menerbitkan Surat Pengesahan.
 
-```
-
 Pasal 6
 PEMBENTUKAN PIMPINAN CABANG
-
-```
 
 1. Di setiap kabupaten/kotamadya/kota administratif dapat dibentuk Pimpinan Cabang.
 2. Permintaan untuk mendirikan Pimpinan Cabang disampaikan kepada Pimpinan Pusat
@@ -1215,12 +228,8 @@ PEMBENTUKAN PIMPINAN CABANG
 7. Setelah mempelajari susunan kepengurusan PC. yang bersangkutan, Pimpinan Pusat
    berkewajiban mengesahkan kepengurusan PC. dengan menerbitkan Surat Pengesahan.
 
-```
-
 Pasal 7
 PEMBENTUKAN PIMPINAN CABANG ISTIMEWA
-
-```
 
 1. Di setiap negara dapat dibentuk Pimpinan Cabang Istimewa.
 2. Permintaan untuk mendirikan Pimpinan Cabang Istimewa disampaikan kepada Pimpinan
@@ -1233,12 +242,8 @@ PEMBENTUKAN PIMPINAN CABANG ISTIMEWA
 5. Setelah mempelajari susunan kepengurusan PCI. yang bersangkutan, Pimpinan Pusat
    berkewajiban mengesahkan kepengurusan PCI. dengan menerbitkan Surat Pengesahan.
 
-```
-
 Pasal 8
 PEMBENTUKAN PIMPINAN ANAK CABANG
-
-```
 
 1. Di setiap kecamatan dapat dibentuk Pimpinan Anak Cabang.
 2. Permintaan untuk mendirikan Pimpinan Anak Cabang disampaikan kepada Pimpinan
@@ -1259,12 +264,8 @@ PEMBENTUKAN PIMPINAN ANAK CABANG
 6. Setelah mempelajari susunan kepengurusan PAC. yang bersangkutan, Pimpinan Cabang
    berkewajiban mengesahkan kepengurusan PAC. dengan menerbitkan Surat Pengesahan.
 
-```
-
 Pasal 9
 PEMBENTUKAN PIMPINAN KOMISARIAT
-
-```
 
 1. Setiap lembaga Pendidikan Perguruan Tinggi, Sekolah, Madrasah atau Pondok Pesantren
    dapat dibentuk Pimpinan Komisariat.
@@ -1288,12 +289,8 @@ PEMBENTUKAN PIMPINAN KOMISARIAT
 6. Setelah mempelajari susunan kepengurusan PK yang bersangkutan, Pimpinan Cabang
    berkewajiban mengesahkan kepengurusan PK dengan menerbitkan Surat Pengesahan.
 
-```
-
 Pasal 10
 PEMBENTUKAN PIMPINAN RANTING
-
-```
 
 1. Setiap desa/kelurahan dapat dibentuk Pimpinan Ranting.
 2. Permintaan untuk mendirikan Pimpinan Ranting disampaikan kepada Pimpinan Cabang
@@ -1309,13 +306,9 @@ PEMBENTUKAN PIMPINAN RANTING
 
 ### 35
 
-```
-
 sebagaimana yang diatur dalam peraturan NU, maka pembentukan Pimpinan Ranting
 IPNU bisa dilakukan oleh Pengurus Pimpinan Cabang IPNU yang mendapat mandat dari
 PC. IPNU.
-
-```
 
 6. Pimpinan Anak Cabang IPNU atau Pengurus Ranting NU atau Pengurus Pimpinan Cabang
    IPNU yang mendapat mandat melaporkan pembentukan PR. Dan
@@ -1324,12 +317,8 @@ PC. IPNU.
 8. Setelah mempelajari susunan kepengurusan PR. yang bersangkutan, Pimpinan Cabang
    berkewajiban mengesahkan kepengurusan PR. dengan menerbitkan Surat Pengesahan
 
-```
-
 Pasal 11
 TENTANG MASA KHIDMAT
-
-```
 
 1. Pengurus yang menduduki jabatan di semua tingkat kepengurusan tidak diperbolehkan
    menduduki lebih dari 2 (dua) masa khidmah berturut–turut pada tingkat kepengurusan
@@ -1344,31 +333,19 @@ TENTANG MASA KHIDMAT
    menjabat kembali disertai persetujuan pengurus NU pada tingkatan yang bersangkutan,
    dengan tetap mengacu pada PD-PRT dan atau peraturan organisasi yang berlaku.
 
-```
-
 BAB V
 RESTRUKTURISASI KEPENGURUSAN
 
-```
-
-```
-
 Pasal 12
 SEBAB KEKOSONGAN PENGURUS
-
-```
 
 Kekosongan kepengurusan terjadi karena sebab-sebab berikut:
 a. Demisionerisasi resmi;
 b. Demisionerisasi otomatis;
 c. Pembekuan kepengurusan.
 
-```
-
 Pasal 13
 DEMISIONERISASI RESMI
-
-```
 
 1. Setiap kepengurusan pada dasarnya mengalami demisionerisasi resmi;
 2. Demisionerisasi sebagaimana ayat (1) dinyatakan secara resmi di hadapan
@@ -1377,12 +354,8 @@ DEMISIONERISASI RESMI
 3. Restrukturisasi kepengurusan akibat demisionerisasi resmi ditempuh melalui prosesdur
    umum berupa Kongres, konferensi maupun rapat anggota.
 
-```
-
 Pasal 14
 DEMISIONERISASI OTOMATIS
-
-```
 
 1. Kepengurusan yang telah melewati 3 (tiga) bulan dari masa khidmat yang telah
    ditetapkan sesuai dengan surat pengesahan (SP), secara otomatis mengalami
@@ -1401,12 +374,8 @@ DEMISIONERISASI OTOMATIS
    mekanisme Caretaker, setelah dilakukan tahapan peringatan oleh tingkat yang
    mengesahkan kepengurusan yang bersangkutan.
 
-```
-
 Pasal 15
 PEMBEKUAN KEPENGURUSAN
-
-```
 
 1. Kepengurusan pada tingkat PW, PC, PCI, PAC, PK, dan PR dapat dibekukan karena
    sebab-sebab tertentu.
@@ -1440,12 +409,8 @@ PEMBEKUAN KEPENGURUSAN
 
 ### 37
 
-```
-
 Pasal 17
 PEMBATALAN HASIL KONFERENSI/RAPAT ANGGOTA
-
-```
 
 1. Ketua terpilih hasil Konferensi/Rapat Anggota bisa dibatalkan karena sebab-sebab
    tertentu.
@@ -1457,12 +422,8 @@ PEMBATALAN HASIL KONFERENSI/RAPAT ANGGOTA
 4. Untuk mengatasi kekosongan kepengurusan akibat pembatalan tersebut, maka
    diberlakukan mekanisme _Caretaker_ untuk menyelenggarakan pemilihan ulang ketua.
 
-```
-
 Pasal 18
 PEMILIHAN ULANG
-
-```
 
 1. Pemilihan ulang dilakukan untuk memilih ketua akibat terjadi pembatalan ketua hasil
    pemilihan pada Konferensi/Rapat Anggota sebagaimana dimaksud pada pasal 17.
@@ -1474,14 +435,10 @@ PEMILIHAN ULANG
 5. Tingkat keabsahan ketua dan tim formatur hasil pemilihan ulang sama dengan hasil
    permusyawaratan Konferensi/rapat anggota.
 
-```
-
 Pasal 19
 MUTASI ANGGOTA
 Mutasi anggota adalah perpindahan status keanggotaan dari PW, PCI, PC, PAC, PR, dan PK ke
 pimpinan lain.
-
-```
 
 1. Dalam keadaan tertentu seorang anggota IPNU dapat memindahkan status
    keanggotaannya dari satu pimpinan ke pimpinan lain atas persetujuan pimpinan asal
@@ -1491,19 +448,11 @@ pimpinan lain.
 3. Mutasi anggota hanya dapat dilakukan jika yang bersangkutan pindah studi dan/atau
    pindah domisili.
 
-```
-
 BAB VI
 MEKANISME PENGISIAN KEKOSONGAN JABATAN
 
-```
-
-```
-
 Pasal 20
 KEKOSONGAN JABATAN KETUA UMUM/KETUA
-
-```
 
 1. Kekosongan jabatan ketua umum (untuk PP) atau ketua (untuk PW, PC, PCI, PAC, PK/PR)
    hasil Kongres/Konferensi Luar Biasa/Konferensi/Konferensi Luar Biasa/ Rapat
@@ -1515,12 +464,8 @@ KEKOSONGAN JABATAN KETUA UMUM/KETUA
 
 ### 38
 
-```
-
 separoh lebih satu dari pimpinan setingkat di bawahnya karena yang bersangkutan tidak
 melaksanakan tugasnya.
-
-```
 
 3. Berhalangan tidak tetap terjadi karena sakit tidak permanen, menunaikan ibadah haji,
    menjalankan tugas belajar atau tugas lainnya ke luar negeri atau luar daerah kerjanya,
@@ -1537,12 +482,8 @@ melaksanakan tugasnya.
 1. Pj. Ketua Umum/Ketua mempertanggungjawabkan kepemimpinannya di hadapan
    Kongres/Konferensi/Rapat Anggota.
 
-```
-
 Pasal 22
 PEJABAT SEMENTARA KETUA UMUM/KETUA
-
-```
 
 1. Pengisian kekosongan jabatan ketua umum/ketua sebagaimana pasal 21 ayat (3) karena
    berhalangan tidak tetap, maka mekanismenya penunjukan Pejabat Sementara Ketua
@@ -1555,12 +496,8 @@ PEJABAT SEMENTARA KETUA UMUM/KETUA
 4. Penanggung jawab organisasi secara umum tetap berada pada Ketua Umum/Ketua hasil
    Kongres/Konferensi/Rapat Anggota.
 
-```
-
 Pasal 23
 KEKOSONGAN JABATAN PENGURUS NON-KETUA UMUM/KETUA
-
-```
 
 1. Keko so ngan jabatan pengurus non-Ketua Umum/Ketua terjadi karena pengurus yang
    bersangkutan meninggal dunia, mengundurkan diri secara suka rela dan beralasan, atau
@@ -1570,14 +507,8 @@ KEKOSONGAN JABATAN PENGURUS NON-KETUA UMUM/KETUA
    yang ber sangkut an ber hal angan t i dak t et ap.
 3. P engi si an kekosongan jabatan pengurus dilakukan dengan mekanisme _reshuffle_.
 
-```
-
 Pasal 24
 RANGKAP JABATAN
-
-```
-
-```
 
 Rangkap Jabatan yang dimaksud yaitu merangkap dua atau lebih jabatan pada:
 a. Pengurus Harian dilingkungan Nahdlatul Ulama selevel kepengurusan;
@@ -1586,11 +517,7 @@ c. Rangkap jabatan seperti yang dimaksud pada poin (a) diharuskan memilih salah 
 jabatan dalam kurun waktu selambat-lambatnya 1 (satu) bulan;
 d. Apabila pemberlakuan poin (c) tidak tercapai, maka jabatannya gugur secara otomatis;
 
-```
-
 ### 39
-
-```
 
 e. Rangkap jabatan seperti yang dimaksud pada poin (b), diharuskan memilih salah satu
 jabatan dalam kurun waktu selambat-lambatnya 1 (satu) bulan;
@@ -1598,8 +525,6 @@ f. Apabila pemberlakuan poin (e) tidak tercapai, maka jabatan dibawahnya gugur s
 otomatis.
 Pasal 25
 RESHUFFLE
-
-```
 
 1. _Reshuffle_ pengurus di l aksanakan bila terjadi hal-hal sebagai berikut:
    a. pengurus yang bersangkutan rangkap jabatan;
@@ -1617,21 +542,11 @@ RESHUFFLE
 3. _Masa khidmat kepengurusan hasil reshuffle meneruskan masa khidmat kepengurusan_ yang
    bersangkutan.
 
-```
-
 BAB VII
 PELANTIKAN DAN PEMBEKALAN PENGURUS
 
-```
-
-```
-
 Pasal 26
 PELANTIKAN PENGURUS
-
-```
-
-```
 
 Pelantikan pengurus IPNU dilakukan dengan mekanisme sebagai berikut:
 a. Pelantikan Pimpinan Pusat dilakukan oleh Pengurus Besar Nahdlatul Ulama;
@@ -1650,25 +565,13 @@ i. Jika pimpinan IPNU masing-masing tingkat organisasi yang berwenang atas prose
 pelantikan berhalangan, maka seluruhnya dapat dilaksanakan oleh Pengurus NU
 setingkat.
 
-```
-
 ### 40
-
-```
 
 Pasal 27
 TATA CARA PELANTIKAN
 
-```
-
-```
-
 Tata cara pelantikan pengurus dimaksud pada pasal bertujuan agar:
 a. pelaksanaan upacara pelantikan lebih tepat, tertib dan teratur;
-
-```
-
-```
 
 b. kepengurusan memiliki legitimasi kuat karena dilantik dengan ketentuan yang
 mengikat;
@@ -1678,14 +581,8 @@ d. Pengaturan tata cara pelantikan dalam bab ini menjadi sebab gugurnya Peratura
 Pimpinan Pusat nomor: 222/PPP/XIX/7354/XI/19 tentang Tata Cara Pelantikan Pengurus
 Ikatan Pelajar Nahdlatul Ulama.
 
-```
-
-```
-
 Pasal 28
 PENYELENGGARA DAN PESERTA PELANTIKAN
-
-```
 
 1. Semua kepengurusan yang baru terbentuk pada setiap tingkat wajib menyelenggarakan
    pelantikan sebagai awal dimulainya suatu masa khidmat.
@@ -1693,12 +590,8 @@ PENYELENGGARA DAN PESERTA PELANTIKAN
 3. Pelantikan sebagaimana Pasal 25 dilakukan setelah kepengurusan tersebut mendapat
    S ur at P engesahan.
 
-```
-
 Pasal 29
 PENYELENGGARAAN PELANTIKAN
-
-```
 
 1. Upacara pelantikan pada dasarnya diselenggarakan dalam suatu acara formal yang
    khusus dilakukan untuk itu.
@@ -1715,12 +608,8 @@ PENYELENGGARAAN PELANTIKAN
    f. pidato sambutan;
    g. do’a dan penutup.
 
-```
-
 Pasal 31
 LAGU KEBANGSAAN DAN MARS IPNU
-
-```
 
 1. Lagu kebangsaan Indonesia Raya dan Mars IPNU sebagaimana dimaksud pasal 28 poin c
    dinyanyikan oleh semua peserta dan/atau dinyanyikan oleh kelompok paduan suara
@@ -1730,12 +619,8 @@ LAGU KEBANGSAAN DAN MARS IPNU
 
 ### 41
 
-```
-
 Pasal 32
 ACARA INTI PELANTIKAN
-
-```
 
 1. Acara inti pelantikan sebagaimana dimaksud pada Pasal 28 poin d, berisi pembacaan
    surat pengesahan, pengambilan ikrar pengurus, dan penyataan pelantikan.
@@ -1758,12 +643,8 @@ ACARA INTI PELANTIKAN
 10. Acara pelantikan sebaiknya diakhiri ucapan selamat dengan jabat tangan dari pelantik
     dan tamu undangan seperlunya.
 
-```
-
 Pasal 33
 PROSESI SERAH TERIMA JABATAN, PIDATO SAMBUTAN DAN PEMBACAAN DOA
-
-```
 
 1. Serah terima yang dimaksud pada pasal 28 poin e, dilakukan dengan penyerahan secara
    simbolik dan/atau dengan penandatangan berita acara serah terima dari pengurus
@@ -1777,89 +658,45 @@ PROSESI SERAH TERIMA JABATAN, PIDATO SAMBUTAN DAN PEMBACAAN DOA
    sebaiknya berisi doa untuk mendukung pengurus yang bersangkutan agar dapat
    menjalankan tugas organisasi.
 
-```
-
 Pasal 3 4
 IKRAR PENGURUS
-
-```
 
 1. Pada setiap pelantikan, pengurus yang dilantik harus membaca ikrar pengurus.
 2. Ikrar sebagaimana ayat (1) berbunyi:
 
-```
-
 Bismillahirahmanirrahim Asyhadu an laa ilaaha illa Allah,
-
-```
-
-```
 
 Wa asyhadu anna Muhammadan rasulullah. Rodlitu billahi robbaa wabil Islaami diinaa, Wa
 bi Muhammadi nabiyyan warosuulaa.
-
-```
-
-```
 
 Kami sebagai Pengurus (sebutkan tingkatan kepengurusan) Ikatan Pelajar Nahdlatul
 Ulama ............... (sebutkan nama daerah kerjanya) dengan sadar dan penuh
 tanggungjawab dengan ini menyatakan :
 
-```
-
 ### 42
-
-```
 
 Satu , menjunjung tinggi martabat dan nama baik agama Islam serta berusaha
 mewujudkan terlaksananya ajaran Islam yang berpaham ahlussunnah wal jama'ah An-
 Nahdliah di tengah-tengah masyarakat.
 
-```
-
-```
-
 Dua , siap mempertahankan dan mengamalkan Pancasila.
-
-```
-
-```
 
 Tiga , siap menyumbangkan tenaga dan pikiran untuk mewujudkan masyarakat adil
 dan makmur yang diridloi Allah SWT.
 
-```
-
-```
-
 Empat , akan melaksanakan tugas dan kewajiban sebagai pengurus untuk kepentingan
 organisasi dan masyarakat secara keseluruhan.
-
-```
-
-```
 
 Lima , taat dan patuh kepada Peraturan Dasar dan Peraturan Rumah Tangga Ikatan
 Pelajar Nahdlatul Ulama.
 
-```
-
-```
-
 La haula wala quwwata illa billahil aliyil adzim
-
-```
 
 3. Pembacaan ikrar sebagaimana ayat (2) dipandu oleh pelantik dan diikuti oleh calon
    pengurus yang akan dilantik.
 
-```
-
 Pasal 35
 PEMBEKALAN PENGURUS
-
-```
 
 1. Kepengurusan baru pada semua tingkatan diwajibkan mengadakan pembekalan
    pengurus berupa orientasi dan/atau up-grading.
@@ -1872,19 +709,11 @@ PEMBEKALAN PENGURUS
 5. Orientasi pengurus dan up-grading bisa diisi dengan agenda tambahan berupa ceramah
    dan kegiatan _outbond._
 
-```
-
 BAB VIII
 PERENCANAAN PROGRAM KERJA
 
-```
-
-```
-
 Pasal 36
 RENCANA PROGRAM
-
-```
 
 1. Setiap tingkat kepengurusan diharuskan menyusun rencana program kerja.
 2. Rencana program kerja sebagaimana ayat (1) terdiri dari:
@@ -1908,12 +737,8 @@ RENCANA PROGRAM
 7. Untuk mencapai tujuan organisasi secara nasional, maka semua penyusunan program
    harus merujuk pada GBPPP hasil kongres.
 
-```
-
 Pasal 37
 STRATEGIC PLANNING
-
-```
 
 1. _Strategic planning_ (SP) sebagaimana Pasal 170 ayat (4) dilakukan untuk mewujudkan
    perencanaan program kerja yang tepat sasaran, terencana, terukur, integral dan
@@ -1932,12 +757,8 @@ STRATEGIC PLANNING
    h. Hasil _strategic planning_ (SP) selanjutnya dirumuskan menjadi bahan rapat kerja di
    masing-masing tingkat kepengurusan.
 
-```
-
 Pasal 38
 RAPAT KERJA
-
-```
 
 1. Rapat kerja diselenggarakan oleh masing-masing tingkat kepengurusan sebagaimana
    diatur dalam Paraturan Dasar dan Peraturan Rumah Tangga.
@@ -1947,19 +768,11 @@ RAPAT KERJA
 3. Hasil-hasil rapat kerja tersebut selanjutnya dirumuskan oleh kepengurusan yang
    bersangkutan menjadi Rencana Program Jangka Menengah (RPJM).
 
-```
-
 BAB IX
 PROSEDUR PELAKSANAAN KONFERENSI / RAPAT ANGGOTA
 
-```
-
-```
-
 Pasal 39
 UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA
-
-```
 
 1. PW, PCI, PC, PAC, PR dan PK yang akan melaksanakan Konferensi / Rapat Anggota, wajib
    mengikuti Uji Kelayakan Konferensi / Rapat Anggota sebagai syarat persetujuan
@@ -1973,19 +786,11 @@ UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA
 
 ### 44
 
-```
-
 g. Pimpinan Komisariat ditingkat sekolah, madrasah, dan pondok pesantren diuji oleh
 Pimpinan Cabang dan/atau Pimpinan Anak Cabang.
 
-```
-
-```
-
 Pasal 40
 MEKANISME UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA
-
-```
 
 1. PW, PCI, PC, PAC, PR dan PK mengajukan Surat Permohonan Uji Kelayakan Konferensi
    atau Rapat Anggota kepada Pimpinan yang menguji, maksimal 3 minggu sebelum
@@ -2023,12 +828,8 @@ MEKANISME UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA
 
 #### KETENTUAN PENUTUP
 
-```
-
 Pasal 38
 PENUTUP
-
-```
 
 1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
 2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Mekanisme
@@ -2037,44 +838,20 @@ PENUTUP
    Organisasi tentang Mekanisme Keorganisasian ini, maka setiap tingkat kepengurusan
    diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 MUNAWAR CHOLIL
 Sekretaris
-
-```
 
 ## 46
 
@@ -2084,11 +861,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -2104,35 +877,19 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 04/Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 PERSIDANGAN DAN RAPAT
 
-```
-
-```
-
 Bismillahirrahmanirrahim
-
-```
-
-```
 
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 penyelenggaraan organisasi yang teratur;
-
-```
 
 2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi,
    maka diperlukan Peraturan Organisasi tentang Persidangan dan
@@ -2158,55 +915,27 @@ penyelenggaraan organisasi yang teratur;
 7. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 ### 48
 
@@ -2214,12 +943,8 @@ Anggota
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 PENGERTIAN
-
-```
 
 Dalam Peraturan Organisasi tentang Persidangan dan Rapat Ikatan Pelajar Nahdlatul Ulama
 ini yang dimaksud dengan:
@@ -2228,30 +953,18 @@ ini yang dimaksud dengan:
    Konferensi Anak Cabang dan Rapat Anggota.
 2. Rapat adalah rapat yang diselenggarakan oleh kepengurusan IPNU di semua tingkatan.
 
-```
-
 BAB II
 MAKSUD DAN TUJUAN
 
-```
-
-```
-
 Pasal 2
 MAKSUD
-
-```
 
 Peraturan Organisasi tentang Persidangan dan Rapat ini dimaksudkan sebagai pedoman
 penyelenggaraan organisasi IPNU di semua tingkat kepengurusan dan berlaku secara
 nasional.
 
-```
-
 Pasal 3
 TUJUAN
-
-```
 
 Peraturan Organisasi tentang Persidangan dan Rapat ini sebagaimana dimaksud dalam Pasal
 2 bertujuan untuk:
@@ -2259,20 +972,12 @@ a. mendukung kinerja organisasi secara umum;
 b. menjamin penyelenggaraan sidang dan rapat yang teratur dan tertib;
 c. mengoptimalkan potensi organisasi.
 
-```
-
 BAB III
 PERSIDANGAN
-
-```
-
-```
 
 Pasal 4
 PERSIDANGAN PADA KONGRES, KONFERENSI
 DAN RAPAT ANGGOTA
-
-```
 
 1. Persidangan pada Kongres, Konferensi Wilayah, Konferensi Cabang, Konferensi Anak
    Cabang dan Rapat Anggota pada intinya terdiri dari sidang pleno, sidang pleno
@@ -2289,12 +994,8 @@ DAN RAPAT ANGGOTA
 
 ### 49
 
-```
-
 Pasal 5
 SIDANG PLENO
-
-```
 
 1. Sidang pleno diikuti oleh semua peserta Kongres/ Konferensi Wilayah/ Konferensi
    Cabang/ Konferensi Anak Cabang/Rapat Anggota dan bersifat pengambilan suatu
@@ -2305,12 +1006,8 @@ SIDANG PLENO
    c. sidang pleno tentang laporan pertanggung jawaban pengurus
    d. sidang pleno pemilihan ketua umum/ketua dan tim formatur.
 
-```
-
 Pasal 6
 SIDANG PLENO GABUNGAN
-
-```
 
 1. Sidang pleno gabungan merupakan sidang gabungan antara peserta IPNU dan IPPNU
    (bila acara dilaksanakan secara bersamaan).
@@ -2319,12 +1016,8 @@ SIDANG PLENO GABUNGAN
 3. Sidang pleno gabungan bisa dilaksanakan dengan agenda sebagaimana agenda sidang
    pleno pada atau forum yang diadakan untuk seminar atau diskusi.
 
-```
-
 Pasal 7
 SIDANG KOMISI
-
-```
 
 1. Sidang komisi diikuti oleh sebagian peserta Kongres/Konferensi/Rapat Anggota yang
    dilaksanakan untuk membahas hal-hal yang bersifat khusus.
@@ -2333,19 +1026,11 @@ SIDANG KOMISI
 3. Pada Kongres/Konferensi/Rapat Anggota dapat diadakan sidang-sidang lain sesuai
    dengan kebutuhan.
 
-```
-
 BAB IV
 RAPAT-RAPAT
 
-```
-
-```
-
 Pasal 8
 JENIS-JENIS RAPAT
-
-```
 
 Rapat-rapat rutin IPNU terdiri dari:
 a. Rapat Harian;
@@ -2356,12 +1041,8 @@ e. Rapat Pimpinan;
 f. Rapat Koordinasi Bidang;
 g. Rapat Panitia
 
-```
-
 Pasal 9
 RAPAT HARIAN
-
-```
 
 1. Rapat harian diikuti oleh pengurus harian.
 2. Rapat harian sebagaimana ayat (1) membahas:
@@ -2369,20 +1050,12 @@ RAPAT HARIAN
 
 ### 50
 
-```
-
 b. hal-hal yang bersifat penting dan mendesak;
 c. persiapan materi rapat pleno, rapat pleno paripurna, rapat pimpinan atau rapat pleno
 gabung.
 
-```
-
-```
-
 Pasal 10
 RAPAT PLENO
-
-```
 
 1. Rapat pleno diikuti oleh semua pengurus harian, departemen, lembaga dan badan.
 2. Rapat pleno sebagaimana ayat (1) membahas:
@@ -2393,12 +1066,8 @@ RAPAT PLENO
    d. evaluasi kepengurusan dan/atau penyelenggaraan organisasi secara menyeluruh;
    e. laporan keuangan.
 
-```
-
 Pasal 11
 RAPAT PLENO PARIPURNA
-
-```
 
 1. Rapat pleno paripurna dihadiri oleh semua anggota kepengurusan (harian, departemen,
    lembaga, tim pelaksana jika ada dan dewan pembina.
@@ -2406,12 +1075,8 @@ RAPAT PLENO PARIPURNA
    a. hal-hal yang bersifat penting dan krusial;
    b. sumbang saran dan pendapat dari dewan pembina.
 
-```
-
 Pasal 12
 RAPAT PLENO GABUNGAN
-
-```
 
 1. Rapat pleno gabungan diselenggarakan bersama organ-organ lain di lingkungan
    Nahdlatul Ulama yang setingkat.
@@ -2420,12 +1085,8 @@ RAPAT PLENO GABUNGAN
    b. sinergi program kerja;
    c. hal-hal krusial yang harus dibahas bersama.
 
-```
-
 Pasal 13
 RAPAT PIMPINAN
-
-```
 
 1. Rapat pimpinan terdiri dari:
    a. Rapat Pimpinan Nasional, disingkat Rapimnas, diselenggarakan oleh Pimpinan Pusat
@@ -2450,12 +1111,8 @@ RAPAT PIMPINAN
    b. berlakunya aturan baru di tubuh IPNU;
    c. hal-hal khusus yang harus disikapi bersama.
 
-```
-
 Pasal 14
 RAPAT KOORDINASI BIDANG
-
-```
 
 1. Rapat koordinasi bidang diikuti oleh wakil ketua bidang, sekretaris atau bendahara pada
    kepengurusan setingkat di bawah.
@@ -2469,24 +1126,16 @@ RAPAT KOORDINASI BIDANG
    c. Rapat Koordinasi Cabang, disingkat Rakorcab, diselenggarakan oleh PC;\
    d. Rapat Koordinasi Anak Cabang, disingkat Rakorancab, diselenggarakan oleh PAC.
 
-```
-
 Pasal 15
 RAPAT PANITIA
-
-```
 
 1. Rapat panitia diselenggarakan oleh panitia pelaksana dan/atau panitia khusus (pansus),
    sesuai dengan dengan penugasan yang diberikan oleh pimpinan.
 2. Rapat panitia sebagaimana ayat (1) membahas berbagai hal teknis penyelenggaraan
    suatu kegiatan.
 
-```
-
 Pasal 16
 KEABSAHAN KEPUTUSAN RAPAT
-
-```
 
 1. Pengambilan keputusan para seluruh rapat dinyatakan absah apabila memenuhi
    quorum.
@@ -2500,12 +1149,8 @@ KEABSAHAN KEPUTUSAN RAPAT
 
 #### KETENTUAN PENUTUP
 
-```
-
 Pasal 17
 PENUTUP
-
-```
 
 1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
 2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Persidangan dan Rapat
@@ -2514,44 +1159,20 @@ PENUTUP
    Organisasi tentang Persidangan dan Rapat ini, maka setiap tingkat kepengurusan
    diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 AANA ANDRI ARDIYANSAH
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 MUNAWAR CHOLIL
 Sekretaris
-
-```
 
 ## 53
 
@@ -2561,11 +1182,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -2581,35 +1198,19 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 05/Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 TATA ATURAN ORGANISASI
 
-```
-
-```
-
 Bismillahirrahmanirrahim
-
-```
-
-```
 
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 penyelenggaraan organisasi yang teratur;
-
-```
 
 2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi,
    maka diperlukan Peraturan Organisasi tentang Tata Aturan
@@ -2635,55 +1236,27 @@ penyelenggaraan organisasi yang teratur;
 7. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 ### 55
 
@@ -2691,12 +1264,8 @@ Anggota
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 PENGERTIAN
-
-```
 
 Dalam Peraturan Organisasi tentang Tata Kerja Organisasi Ikatan Pelajar Nahdlatul Ulama ini
 yang dimaksud dengan:
@@ -2713,30 +1282,18 @@ yang dimaksud dengan:
 5. Siaran adalah penjelasan tertulis sebagai pernyataan sikap resmi organisasi atas sesuatu
    hal atau peristiwa tertentu.
 
-```
-
 BAB II
 MAKSUD DAN TUJUAN
 
-```
-
-```
-
 Pasal 2
 MAKSUD
-
-```
 
 Peraturan Organisasi Tata Aturan Organisasi ini dimaksudkan sebagai pedoman
 penyelenggaraan organisasi IPNU di semua tingkat kepengurusan dan berlaku secara
 nasional.
 
-```
-
 Pasal 3
 TUJUAN
-
-```
 
 Peraturan Organisasi tentang Tata Aturan ini sebagaimana dimaksud dalam Pasal 2
 bertujuan untuk:
@@ -2744,19 +1301,11 @@ a. mendukung kinerja organisasi secara umum;
 b. menjamin tertib dan taatnya aturan;
 c. mengoptimalkan potensi organisasi.
 
-```
-
 BAB III
 PERATURAN
 
-```
-
-```
-
 Pasal 4
 PENGERTIAN DAN KEDUDUKAN HUKUM
-
-```
 
 1. Peraturan menjadi landasan pelaksanaan organisasi dan mempunyai kekuatan hukum
    ke dalam.
@@ -2767,12 +1316,8 @@ PENGERTIAN DAN KEDUDUKAN HUKUM
 
 ### 56
 
-```
-
 Pasal 5
 TATA URUTAN PERATURAN
-
-```
 
 1. Tata urutan peraturan merupakan pedoman dalam pembuatan aturan-aturan di
    bawahnya.
@@ -2785,12 +1330,8 @@ TATA URUTAN PERATURAN
    f. Peraturan Pimpinan Anak Cabang;
    g. Peraturan Pimpinan Ranting/ Peraturan Pimpinan Komisariat.
 
-```
-
 Pasal 6
 PERATURAN DASAR DAN PERATURAN RUMAH TANGGA
-
-```
 
 1. Peraturan Dasar dan Peraturan Rumah, selanjutnya disingkat PD-PRT, memuat ketentuan
    organisasi yang bersifat mendasar.
@@ -2799,12 +1340,8 @@ PERATURAN DASAR DAN PERATURAN RUMAH TANGGA
 3. PD-PRT menjadi pedoman bagi penyusunan aturan-aturan di bawahnya.
 4. PD-PRT diputuskan dan ditetapkan oleh Kongres.
 
-```
-
 Pasal 7
 PERATURAN ORGANISASI
-
-```
 
 1. Peraturan Organisasi, selanjutnya disingkat PO, memuat aturan organisasi yang bersifat
    operasional dan merupakan penjabaran PD-PRT.
@@ -2812,12 +1349,8 @@ PERATURAN ORGANISASI
    PRT dan wajib ditaati oleh semua pengurus dan anggota IPNU secara nasional.
 3. PO diputuskan dan ditetapkan melalui Konferensi Besar (Konbes).
 
-```
-
 Pasal 8
 PERATURAN PIMPINAN PUSAT
-
-```
 
 1. Peraturan Pimpinan Pusat, selanjutnya disingkat PPP, ditetapkan oleh Pimpinan Pusat
    yang memuat ketentuan-ketentuan organisasi yang bersifat nasional dan belum diatur
@@ -2826,12 +1359,8 @@ PERATURAN PIMPINAN PUSAT
    dan anggota IPNU di seluruh Indonesia.
 3. PPP diputuskan dan ditetapkan melalui rapat pleno PP.
 
-```
-
 Pasal 9
 PERATURAN PIMPINAN WILAYAH
-
-```
 
 1. Peraturan Pimpinan Wilayah, selanjutnya disingkat PPW, ditetapkan oleh Pimpinan
    Wilayah yang memuat ketentuan-ketentuan organisasi yang bersifat regional dan belum
@@ -2842,12 +1371,8 @@ PERATURAN PIMPINAN WILAYAH
 
 ### 57
 
-```
-
 Pasal 10
 PERATURAN PIMPINAN CABANG
-
-```
 
 1. Peraturan Pimpinan Cabang, selanjutnya disingkat PPC, ditetapkan oleh Pimpinan
    Cabang yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan belum
@@ -2856,12 +1381,8 @@ PERATURAN PIMPINAN CABANG
    anggota IPNU di daerah yang bersangkutan.
 3. PPC diputuskan dan ditetapkan melaui rapat pleno PC
 
-```
-
 Pasal 11
 PERATURAN PIMPINAN CABANG ISTIMEWA
-
-```
 
 1. Peraturan Pimpinan Cabang Istimewa, selanjutnya disingkat PPCI, ditetapkan oleh
    Pimpinan Cabang Istimewa yang memuat ketentuan-ketentuan organisasi yang bersifat
@@ -2869,12 +1390,8 @@ PERATURAN PIMPINAN CABANG ISTIMEWA
 2. PPCI berkedudukan hukum setingkat di bawah PPP dan wajib ditaati oleh pimpinan dan
    anggota IPNU di negara yang bersangkutan.
 
-```
-
 Pasal 12
 PERATURAN PIMPINAN ANAK CABANG
-
-```
 
 1. Peraturan Pimpinan Anak Cabang, selanjutnya disingkat PPAC, ditetapkan oleh Pimpinan
    Anak Cabang yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan
@@ -2883,12 +1400,8 @@ PERATURAN PIMPINAN ANAK CABANG
    anggota IPNU di kecamatan yang bersangkutan.
 3. PPAC diputuskan dan ditetapkan melalui rapat pleno PAC.
 
-```
-
 Pasal 13
 PERATURAN PIMPINAN RANTING
-
-```
 
 1. Peraturan Pimpinan Ranting, selanjutnya disingkat PPR, ditetapkan oleh Pimpinan
    Ranting yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan belum
@@ -2897,12 +1410,8 @@ PERATURAN PIMPINAN RANTING
    anggota IPNU di desa/kelurahan/ kawasan yang bersangkutan.
 3. PPR diputuskan dan ditetapkan melalui rapat pleno PR.
 
-```
-
 Pasal 14
 PERATURAN PIMPINAN KOMISARIAT
-
-```
 
 1. Peraturan Pimpinan Komisariat, selanjutnya disingkat PPK, ditetapkan oleh Pimpinan
    Komisariat yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan belum
@@ -2917,12 +1426,8 @@ PERATURAN PIMPINAN KOMISARIAT
 
 #### KEPUTUSAN
 
-```
-
 Pasal 15
 KEDUDUKAN HUKUM DAN FUNGSI
-
-```
 
 1. Keputusan mengikat sebagai aturan hukum yang wajib ditaati oleh seluruh pimpinan dan
    anggota IPNU.
@@ -2930,12 +1435,8 @@ KEDUDUKAN HUKUM DAN FUNGSI
    setingkat di bawahnya.
 3. Bentuk surat keputusan diatur dalam Pedoman Administrasi.
 
-```
-
 Pasal 16
 JENIS-JENIS KEPUTUSAN
-
-```
 
 Keputusan IPNU terdiri:
 a. Keputusan Kongres
@@ -2959,36 +1460,24 @@ r. Keputusan Pimpinan Ranting;
 s. Keputusan Rapat Anggota;
 t. Keputusan Rapat Kerja Anggota;
 
-```
-
 Pasal 17
 KEPUTUSAN KONGRES
-
-```
 
 1. Keputusan Kongres ditetapkan oleh f o r u m Kongres sebagai forum permusyawaratan
    tertinggi organisasi.
 2. Keputusan Kongres berlaku sebagai pedoman dasar pelaksanaan organisasi secara
    nasional.
 
-```
-
 Pasal 18
 KEPUTUSAN KONFERENSI BESAR
-
-```
 
 1. Keputusan Konferensi Besar ditetapkan melalui Konferensi Besar (Konbes).
 2. Keputusan Konbes berlaku sebagai pedoman pelaksanaan organisasi secara nasional
 
 ### 59
 
-```
-
 Pasal 19
 KEPUTUSAN PIMPINAN PUSAT
-
-```
 
 1. Keputusan Pimpinan Pusat ditetapkan oleh Pimpinan Pusat.
 2. Keputusan Pimpinan Pusat mengikat secara hukum dan berlaku secara nasional,
@@ -2996,34 +1485,22 @@ KEPUTUSAN PIMPINAN PUSAT
 3. Keputusan Pimpinan Pusat diputuskan dan ditetapkan melalui rapat harian Pimpinan
    Pusat
 
-```
-
 Pasal 20
 KEPUTUSAN KONFERWIL
-
-```
 
 1. Keputusan Konferwil melalui forum Konferensi Wilayah sebagai forum
    permusyawaratan tertinggi organisasi di tingkat propinsi.
 2. Keputusan Konferwil berlaku sebagai pedoman dasar pelaksanaan organisasi secara
    regional.
 
-```
-
 Pasal 21
 KEPUTUSAN RAKERWIL
-
-```
 
 1. Keputusan Rakerwil ditetapkan melaui forum Rapat Kerja Wilayah.
 2. Keputusan Rakerwil berlaku sebagai pedoman pelaksanaan organisasi secara regional.
 
-```
-
 Pasal 22
 KEPUTUSAN PIMPINAN WILAYAH
-
-```
 
 1. Keputusan Pimpinan Wilayah ditetapkan oleh Pimpinan Wilayah.
 2. Keputusan Pimpinan Wilayah mengikat secara hukum dan berlaku secara regional
@@ -3037,22 +1514,14 @@ KEPUTUSAN PIMPINAN WILAYAH
 5. Keputusan Konfercab berlaku sebagai pedoman dasar pelaksanaan organisasi secara
    lokal
 
-```
-
 Pasal 24
 KEPUTUSAN RAKERCAB
-
-```
 
 1. Keputusan Rakercab ditetapkan melaui forum Rapat Kerja Cabang.
 2. Keputusan Rakercab berlaku sebagai pedoman pelaksanaan organisasi secara lokal.
 
-```
-
 Pasal 25
 KEPUTUSAN PIMPINAN CABANG
-
-```
 
 1. Keputusan Pimpinan Cabang ditetapkan oleh Pimpinan Cabang.
 2. Keputusan Pimpinan Cabang mengikat secara hukum dan berlaku secara lokal.
@@ -3061,35 +1530,23 @@ KEPUTUSAN PIMPINAN CABANG
 
 ### 60
 
-```
-
 Pasal 26
 KEPUTUSAN KONFERCAB ISTIMEWA
-
-```
 
 1. Keputusan Konfercab Istimewa ditetapkan melalui forum Konferensi Cabang Istimewa
    sebagai forum permusyawaratan tertinggi organisasi di luar negeri.
 2. Keputusan Konfercab Istimewa berlaku sebagai pedoman dasar pelaksanaan organisasi
    secara local di negara yang bersangkutan.
 
-```
-
 Pasal 27
 KEPUTUSAN RAKERCAB ISTIMEWA
-
-```
 
 1. Keputusan Rakercab Istimewa ditetapkan melaui forum Rapat Kerja Cabang Istimewa.
 2. Keputusan Rakercab Istimewa berlaku sebagai pedoman pelaksanaan organisasi secara
    local di negara yang bersangkutan.
 
-```
-
 Pasal 28
 KEPUTUSAN PIMPINAN CABANG ISTIMEWA
-
-```
 
 1. Keputusan Pimpinan Cabang Istimewa ditetapkan oleh Pimpinan Cabang Istimewa.
 2. Keputusan Pimpinan Cabang Istimewa mengikat secara hukum dan berlaku secara local
@@ -3097,12 +1554,8 @@ KEPUTUSAN PIMPINAN CABANG ISTIMEWA
 3. Keputusan Pimpinan Cabang Istimewa diputuskan dan ditetapkan melalui rapat harian
    Pimpinan Cabang Istimewa.
 
-```
-
 Pasal 29
 KEPUTUSAN KONFERANCAB
-
-```
 
 1. Keputusan Konferancab ditetapkan melalui forum Konferensi Anak Cabang sebagai
    forum permusyawaratan tertinggi organisasi ditingkat kecamatan.
@@ -3113,24 +1566,16 @@ KEPUTUSAN KONFERANCAB
 3. Keputusan Rakerancab ditetapkan melaui forum Rapat Kerja Anak Cabang.
 4. Keputusan Rakerancab berlaku sebagai pedoman pelaksanaan organisasi secara lokal.
 
-```
-
 Pasal 31
 KEPUTUSAN PIMPINAN ANAK CABANG
-
-```
 
 1. Keputusan Pimpinan Anak Cabang ditetapkan oleh Pimpinan Anak Cabang.
 2. Keputusan Pimpinan Anak Cabang mengikat secara hukum dan berlaku secara lokal.
 3. Keputusan Pimpinan Anak Cabang diputuskan dan ditetapkan melalui rapat harian
    Pimpinan Anak Cabang.
 
-```
-
 Pasal 32
 KEPUTUSAN RAPAT ANGGOTA
-
-```
 
 1. Keputusan Rapat Anggota ditetapkan melalui forum Rapat Anggota sebagai forum
    permusyawaratan tertinggi organisasi di tingkat desa/kelurahan atau lembaga
@@ -3140,12 +1585,8 @@ KEPUTUSAN RAPAT ANGGOTA
 
 ### 61
 
-```
-
 Pasal 33
 KEPUTUSAN RAPAT KERJA ANGGOTA
-
-```
 
 1. Keputusan Rapat Kerja Anggota ditetapkan melaui forum Rapat Kerja Anggota.
 2. Keputusan Rapat Kerja Anggota berlaku sebagai pedoman pelaksanaan organisasi
@@ -3157,31 +1598,19 @@ KEPUTUSAN RAPAT KERJA ANGGOTA
 5. Keputusan Pimpinan Ranting diputuskan dan ditetapkan melalui rapat harian Pimpinan
    Ranting.
 
-```
-
 Pasal 35
 KEPUTUSAN PIMPINAN KOMISARIAT
-
-```
 
 1. Keputusan Pimpinan Komisariat ditetapkan oleh Pimpinan Komisariat.
 2. Keputusan Pimpinan Komisariat mengikat secara hukum dan berlaku secara lokal.
 3. Keputusan Pimpinan Komisariat diputuskan dan ditetapkan melalui rapat harian Pimpinan
    Komisariat.
 
-```
-
 BAB V
 INSTRUKSI
 
-```
-
-```
-
 Pasal 36
 INSTRUKSI
-
-```
 
 1. Instruksi dimaksudkan sebagai perintah untuk menjalankan hasil-hasil keputusan/rapat
    atau perintah untuk melaksanakan kebijakan tertentu dari tingkat kepengurusan IPNU
@@ -3221,12 +1650,8 @@ INSTRUKSI
 7. IPW dialamatkan kepada Pimpinan Cabang, dengan tembusan pengurus NU di tingkat
    yang bersangkutan, serta sesuai dengan dengan kebutuhan/ kepentingan instruksi.
 
-```
-
 Pasal 39
 INSTRUKSI PIMPINAN CABANG
-
-```
 
 1. Instruksi Pimpinan Cabang (disingkat IPC) disampaikan oleh Pimpinan Cabang kepada
    Pimpinan Anak Cabang dan/atau Pimpinan Ranting/Komisariat.
@@ -3240,12 +1665,8 @@ INSTRUKSI PIMPINAN CABANG
 5. IPP yang hanya ditujukan kepada Pimpinan Ranting dan/atau Pimpinan Komisariat harus
    ditembuskan kepada Pimpinan Anak Cabang.
 
-```
-
 Pasal 40
 INSTRUKSI PIMPINAN ANAK CABANG
-
-```
 
 1. Instruksi Pimpinan Anak Cabang (disingkat IPAC) disampaikan oleh Pimpinan Anak
    Cabang kepada Pimpinan Ranting dan/atau Pimpinan Komisariat.
@@ -3257,27 +1678,17 @@ INSTRUKSI PIMPINAN ANAK CABANG
 4. Khusus untuk IPAC yang ditujukan kepada Pimpinan Komisariat hendaknya ditembuskan
    kepada pimpinan lembaga pendidikan yang bersangkutan.
 
-```
-
 BAB VI
 SIARAN
 
-```
-
-```
-
 Pasal 41
 ISI DAN MACAM SIARAN
-
-```
 
 1. Siaran berisi pernyataan sikap resmi organisasi atas sesuatu hal atau peristiwa tertentu.
 2. Demi efesiensi dan efektifitas, siaran dapat dipublikasikan melalui media massa.
 3. Siaran IPNU terdiri dari 7 (tujuh) macam, yaitu:
 
 ### 63
-
-```
 
 a. Siaran Pimpinan Pusat;
 b. Siaran Pimpinan Wilayah;
@@ -3287,14 +1698,8 @@ e. Siaran Pimpinan Anak Cabang;
 f. Siaran Pimpinan Ranting;
 g. Siaran Pimpinan Komisariat.
 
-```
-
-```
-
 Pasal 42
 SIARAN PIMPINAN PUSAT
-
-```
 
 1. Siaran Pimpinan Pusat (disingkat SPP) dibuat oleh Pimpinan Pusat dan berlaku secara
    nasional.
@@ -3308,36 +1713,24 @@ SIARAN PIMPINAN PUSAT
 4. SPW disampaikan kepada Pimpinan Cabang, dengan tembusan PP IPNU, pengurus NU di
    tingkat yang bersangkutan, serta pihak terkait jika diperlukan.
 
-```
-
 Pasal 44
 SIARAN PIMPINAN CABANG
-
-```
 
 1. Siaran Pimpinan Cabang (disingkat SPC) dibuat oleh Pimpinan Cabang dan berlaku secara
    lokal.
 2. SPC disampaikan kepada Pimpinan Cabang, dengan tembusan PW IPNU, pengurus NU di
    tingkat yang bersangkutan, serta pihak terkait jika diperlukan.
 
-```
-
 Pasal 45
 SIARAN PIMPINAN CABANG ISTIMEWA
-
-```
 
 1. Siaran Pimpinan Cabang Istimewa (disingkat SPCI) dibuat oleh Pimpinan Cabang
    Istimewa dan berlaku secara regional di negara yang bersangkutan.
 2. SPCI disampaikan kepada anggota IPNU di suatu negara, dengan tembusan PP IPNU,
    PCINU yang bersangkutan, serta pihak terkait jika diperlukan.
 
-```
-
 Pasal 46
 SIARAN PIMPINAN ANAK CABANG
-
-```
 
 1. Siaran Pimpinan Anak Cabang (disingkat SPAC) dibuat oleh Pimpinan Anak Cabang dan
    berlaku secara lokal.
@@ -3347,42 +1740,26 @@ SIARAN PIMPINAN ANAK CABANG
 
 ### 64
 
-```
-
 Pasal 47
 SIARAN PIMPINAN RANTING
-
-```
 
 1. Siaran Pimpinan Ranting (disingkat SPR) dibuat oleh Pimpinan Ranting dan berlaku
    secara lokal.
 2. SPR disampaikan kepada anggota IPNU, dengan tembusan PAC IPNU, pengurus NU di
    tingkat yang bersangkutan, serta pihak terkait jika diperlukan.
 
-```
-
 Pasal 48
 SIARAN PIMPINAN KOMISARIAT
-
-```
 
 1. Siaran Pimpinan Komisariat (disingkat SPK) dibuat oleh Pimpinan Komisariat dan berlaku
    secara lokal.
 2. SPK disampaikan kepada anggota IPNU, serta pihak terkait jika diperlukan.
 
-```
-
 BAB VI
 KETENTUAN PENUTUP
 
-```
-
-```
-
 Pasal 49
 PENUTUP
-
-```
 
 1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
 2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Tata Aturan Organisasi
@@ -3391,44 +1768,20 @@ PENUTUP
    Organisasi tentang Tata Aturan Organisasi ini, maka setiap tingkat kepengurusan
    diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 MUNAWAR CHOLIL
 Sekretaris
-
-```
 
 ## 65
 
@@ -3438,11 +1791,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -3458,35 +1807,19 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 06 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 IDENTITAS ORGANISASI
 
-```
-
-```
-
 Bismillahirrahmanirrahim
-
-```
-
-```
 
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 penyelenggaraan organisasi yang teratur;
-
-```
 
 2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi,
    maka diperlukan Peraturan Organisasi tentang Identitas
@@ -3512,55 +1845,27 @@ penyelenggaraan organisasi yang teratur;
 7. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 ### 67
 
@@ -3568,12 +1873,8 @@ Anggota
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 Pengertian
-
-```
 
 Dalam Peraturan Organisasi tentang Tata Kerja Organisasi Ikatan Pelajar Nahdlatul Ulama ini
 yang dimaksud dengan:
@@ -3596,30 +1897,18 @@ yang dimaksud dengan:
 9. _Database_ Organisasi adalah kumpulan data berisikan identitas lengkap anggota dan
    alumni IPNU.
 
-```
-
 BAB II
 MAKSUD DAN TUJUAN
 
-```
-
-```
-
 Pasal 2
 Maksud
-
-```
 
 Peraturan Organisasi tentang Identitas Organisasi ini dimaksudkan sebagai pedoman
 penyelenggaraan organisasi IPNU di semua tingkat kepengurusan dan berlaku secara
 nasional.
 
-```
-
 Pasal 3
 Tujuan
-
-```
 
 Peraturan Organisasi tentang Identitas Organisasi ini sebagaimana dimaksud dalam Pasal
 2 bertujuan untuk:
@@ -3627,19 +1916,11 @@ a. mendukung kinerja organisasi secara umum;
 b. mempertegas identitas diri organisasi
 c. mengoptimalkan potensi organisasi.
 
-```
-
 BAB III
 PERLENGKAPAN ORGANISASI
 
-```
-
-```
-
 Pasal 4
 Lambang Organisasi
-
-```
 
 1. Lambang organisasi berbentuk bulat, berarti kontinyuitas.
 2. Warna dasar hijau tua, berarti subur.
@@ -3668,12 +1949,8 @@ Lambang Organisasi
 13. Ukuran lambang garis tengah 35 cm, dengan warna menurut warna lambang.
 14. Bendera dikibarkan pada upacara-upacara resmi organisasi.
 
-```
-
 Pasal 6
 Pataka
-
-```
 
 1. Pataka berbentuk persegi panjang berukuran 140 x 100 cm, dan berlaku untuk semua
    tingkat organisasi IPNU.
@@ -3684,12 +1961,8 @@ Pataka
    NAHDLATUL ULAMA” serta nama daerah dengan huruf kapital.
 5. Pataka dipasang di kantor dan dikibarkan pada forum-forum resmi organisasi.
 
-```
-
 Pasal 7
 Papan Nama
-
-```
 
 1. Papan nama adalah papan nama organisasi yang diperlihatkan secara umum di depan
    kantor sekretariat atau di suatu tempat yang strategis dan diketahui oleh banyak orang.
@@ -3711,78 +1984,44 @@ Papan Nama
    tercantum lambang IPNU menurut warna lambang.
 5. Pemakaian papan nama diupayakan didirikan dengan dua tiang penyangga.
 
-```
-
 Pasal 8
 Panji
-
-```
 
 1. Panji berbentuk perisai, warna hijau tua, lambang IPNU di tengahnya menurut warna
    lambang, berukuran garis tengah 60 cm.
 2. Ukuran Panji 70 x 50 cm dan melingkar benang kuning emas dipinggirnya.
 3. Panji dipakai dalam resepsi-resepsi resmi atau pawai.
 
-```
-
 BAB IV
 SEBUTAN RESMI
-
-```
-
-```
 
 Pasal 9
 Panggilan Resmi
 
-```
-
 1. Panggilan resmi bagi warga IPNU adalah “Rekan”.
 2. Panggilan ini berlaku dalam surat-menyurat dan forum-forum resmi.
-
-```
 
 BAB V
 LAGU ALMAMATER
 
-```
-
-```
-
 Pasal 10
 Mars
-
-```
 
 1. Mars dinyanyikan dengan tegas dan lantang dalam forum/upacara-upacara resmi
    organisasi.
 2. Mars IPNU berlaku baku secara nasional dengan syair sebagai berikut:
 
-```
-
 Pencipta lagu : Drs. Moh. Shomuri WS
-
-```
-
-```
 
 Wahai pelajar Indonesia
 Siapkanlah barisanmu
 Bertekad bulat bersatu
 Di bawah kibaran panji IPNU
 
-```
-
-```
-
 Ayo hai pelajar Islam yang setia
 Kembangkanlah agamamu
 Dalam negara Indonesia
 Tanah air yang kucinta
-
-```
-
-```
 
 Dengan berpedoman kita belajar
 berjuang serta bertaqwa
@@ -3795,83 +2034,49 @@ Dengan rahmat tuhan Kita perjuangakan
 Ayo maju pantang mundur
 Pasti tercapai adil makmur
 
-```
-
 ### 70
-
-```
 
 Pasal 11
 Lagu Syubbanul Wathon
-
-```
 
 1. Lagu Syubbanul Wathon dinyanyikan dalam forum/upacara-upacara resmi organisasi
    dan acara-acara lainnya.
 2. Lagu Syubbanul Wathon berlaku baku secara nasional dengan syair sebagai berikut:
 
-```
-
 Cipt: KH. A. Wahab Hasbullah
 Dipopulerkan oleh : K.H Maimoen Zubair
-
-```
-
-```
 
 Ya Lal Wathon Ya Lal Wathon Ya Lal Wathon
 Hubbul Wathon minal Iman
 Wala Takun minal Hirman
 Inhadlu Alal Wathon
 
-```
-
-```
-
 Indonesia Biladi
 Anta ‘Unwanul Fakhoma
 Kullu May Ya’tika Yauma
 Thomihay Yalqo Himama
 
-```
-
-```
-
 Pusaka Hati Wahai Tanah Airku
 Cintaku dalam Imanku
 Jangan Halangkan Nasibmu
 Bangkitlah Hai Bangsaku
 
-```
-
-```
-
 Pusaka Hati Wahai Tanah Airku
 Cintaku dalam Imanku
 Jangan Halangkan Nasibmu
 Bangkitlah Hai Bangsaku
-
-```
-
-```
 
 Indonesia Negriku
 Engkau Panji Martabatku
 Siapa Datang Mengancammu
 Kan Binasa di bawah dulimu
 
-```
-
 #### BAB VI
 
 #### PAKAIAN-PAKAIAN RESMI
 
-```
-
 Pasal 12
 Pakaian Resepsi
-
-```
 
 1. Celana warna hitam.
 2. Baju hem warna putih, satu saku.
@@ -3885,22 +2090,14 @@ Pakaian Resepsi
 
 ### 71
 
-```
-
 e. disebelah kanan sejajar dengan nama daerah dipasang nama pemakai.
-
-```
 
 5. Pakaian resmi dilengkapi dengan mutz dan lencana.
 6. Pakaian resmi dipakai dalam setiap acara resmi baik internal maupun eksternal
    organisasi yang bersifat seremonial.
 
-```
-
 Pasal 13
 Pakaian Dinas Harian (PDH)
-
-```
 
 1. Celana Bebas rapi.
 2. Baju Hem dengan ketentuan:
@@ -3915,23 +2112,15 @@ Pakaian Dinas Harian (PDH)
 3. Pakaian Dinas Harian dipakai dalam setiap acara resmi baik internal maupun eksternal
    organisasi yang bersifat koordinatif.
 
-```
-
 Pasal 14
 Batik
-
-```
 
 1. Batik berbentuk lengan pendek atau panjang.
 2. Model batik IPNU secara nasional akan di putuskan melalui Keputusan PP IPNU
 3. Batik IPNU di pakai acara resmi baik internal maupun eksternal organisasi
 
-```
-
 Pasal 15
 Mutz
-
-```
 
 1. Mutz IPNU berbentuk peci hitam, terbuat dari kain laken atau beludru, warna hitam.
 2. Di bagian atas dipasang tali strip putih melingkar yang melambangkan tali kesetiaan dan
@@ -3942,12 +2131,8 @@ Mutz
 5. Mutz dipakai dalam upacara-upacara resmi, resepsi, studi banding dan/atau kunjungan.
 6. Mutz digunakan untuk kader yang telah lulus Lakmud
 
-```
-
 Pasal 16
 Lencana
-
-```
 
 1. Lencana berbentuk bundar kecil yang terbuat dari logam, dengan ukuran garis tengah
    2,5 cm.
@@ -3959,12 +2144,8 @@ Lencana
 
 ### 72
 
-```
-
 Pasal 17
 Senat Band
-
-```
 
 1. Lebar senat band 6 cm dan panjang 50 x 2 cm mengulang.
 2. Warna (luar) hitam, kuning dan hijau tua.
@@ -3974,12 +2155,8 @@ Senat Band
 5. Senat band dipakai dalam upacara-upacara dan resepsi yang bersifat resmi.
 6. Senat Band digunakan untuk kader yang telah lulus Latin
 
-```
-
 Pasal 18
 Pakaian Resmi Pelajar
-
-```
 
 1. Warna dan jenis pakaian resmi pelajar disesuai dengankan dengan pakaian resmi
    sekolah masing-masing.
@@ -3988,12 +2165,8 @@ Pakaian Resmi Pelajar
 3. Di sebelah kanan dipasang nama pemakai.
 4. Di lengan kiri ditempel nama komisariat yang bersangkutan.
 
-```
-
 Pasal 19
 TISKA
-
-```
 
 1. Tiska berbentuk lencana IPNU yang diberi pita merah putih
 2. Tiska berukuran 5 CM
@@ -4001,19 +2174,11 @@ TISKA
 4. Tiska merupakan tanda bagi kader yang telah lulus Latihan kader Nasional
 5. Tiska harus dipakai pada pertemua-pertumuan dan pada forum resmi
 
-```
-
 BAB VII
 KARTU TANDA ANGGOTA
 
-```
-
-```
-
 Pasal 19
 Kartu Tanda Anggota
-
-```
 
 1. Kartu Tanda Anggota (KTA) diseragamkan secara nasional dan diterbitkan oleh Pimpinan
    Pusat.
@@ -4024,12 +2189,8 @@ Kartu Tanda Anggota
    tentang KTA.
 5. KTA dapat digunakan sebagai alat pembayaran
 
-```
-
 Pasal 20
 Database Organisasi
-
-```
 
 1. Basis data ( _Database_ ) kumpulan data yang saling berkaitan dan berhubungan satu
    dengan yang lainnya.
@@ -4046,19 +2207,11 @@ Database Organisasi
 7. Ketentuan selanjutnya mengenai _Database_ Organisasi, diatur dengan Peraturan
    Organisasi tentang _Database_.
 
-```
-
 BAB VIII
 KETENTUAN PENUTUP
 
-```
-
-```
-
 Pasal 21
 Penutup
-
-```
 
 1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
 2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Identitas Organisasi ini,
@@ -4067,44 +2220,20 @@ Penutup
    Organisasi tentang Identitas Organisasi ini, maka setiap tingkat kepengurusan
    diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 MUNAWAR CHOLIL
 Sekretaris
-
-```
 
 ## 74
 
@@ -4114,11 +2243,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -4134,35 +2259,19 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 07 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 AKREDITASI ORGANISASI IPNU
 
-```
-
-```
-
 Bismillahirrahmanirrahim
-
-```
-
-```
 
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 penyelenggaraan organisasi yang teratur;
-
-```
 
 2. Bahwa untuk Penguatan dan penataan organisasi IPNU pada
    aspek-aspek dasar yang menjadi tumbuh kembang organisasi di
@@ -4187,50 +2296,26 @@ penyelenggaraan organisasi yang teratur;
 6. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 ### 76
 
@@ -4238,12 +2323,8 @@ Anggota
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 Pengertian
-
-```
 
 Dalam Peraturan Organisasi ini yang dimaksud dengan :
 
@@ -4301,11 +2382,7 @@ Dalam Peraturan Organisasi ini yang dimaksud dengan :
     BAB II
     TUJUAN DAN FUNGSI
 
-```
-
 Pasal 2
-
-```
 
 Akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama bertujuan untuk:
 a. Menentukan tingkat kelayakan organisasi sebelum menyelenggarakan kegiatannya
@@ -4313,11 +2390,7 @@ b. Penguatan dan penataan organisasi IPNU pada aspek-aspek dasar yang menjadi
 tumbuh kembang organisasi di masa sekarang dan masa yang akan datang
 c. Memperoleh gambaran tentang kinerja organisasi.
 
-```
-
 Pasal 3
-
-```
 
 Akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama berfungsi untuk :
 a. Mengetahui kelayakan dan kinerja organisasi dengan mengacu pada indikator- indikator
@@ -4326,18 +2399,10 @@ b. Mempertanggungjawabkan kegiatan organisasi sesuai dengan visi dan misi Ikatan
 Nahdlatul Ulama;
 c. Meningkatkan kualitas atau kinerja organisasi.
 
-```
-
 BAB III
 PRINSIP-PRINSIP AKREDITASI ORGANISASI
 
-```
-
-```
-
 Pasal 4
-
-```
 
 Akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama berdasarkan pada prinsip-prinsip :
 a. Obyektif, yakni informasi obyektif tentang kelayakan dan kinerja organisasi;
@@ -4347,18 +2412,10 @@ c. Komprehensif, yakni penilaian dilakukan dari berbagai aspek secara menyeluruh
 d. Memandirikan, yakni organisasi dapat meningkatkan kualitas berdasarkan kepada
 evaluasi internal.
 
-```
-
 BAB IV
 KARAKTERISTIK AKREDITASI ORGANISASI
 
-```
-
-```
-
 Pasal 5
-
-```
 
 Akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama memiliki karakteristik:
 a. Keseimbangan fokus antara kelayakan dan kinerja organisasi;
@@ -4372,27 +2429,15 @@ perbaikan.
 
 #### CAKUPAN AKREDITASI ORGANISASI
 
-```
-
 Pasal 6
-
-```
 
 Akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama dilaksanakan mencakup PW, PCI, PC,
 PAC, PR dan PK.
 
-```
-
 BAB VI
 KOMPONEN PENILAIAN AKREDITASI
 
-```
-
-```
-
 Pasal 7
-
-```
 
 Komponen penilaian akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama didasarkan
 kepada 5 program pokok, meliputi:
@@ -4403,36 +2448,20 @@ d. Pengembangan CBP;
 e. Kegiatan Sosial Kemasyarakatan, Kepemudaan dan Keterpelajaran dan
 Pendidikan.
 
-```
-
 BAB VII
 KEWAJIBAN DAN TANGGUNG JAWAB PENGURUS
 
-```
-
-```
-
 Pasal 8
-
-```
 
 1. Kewajiban dan tanggung jawab PW pada kluster 1 (satu) terdiri dari:
 
 ### a. Melaksanakan Program penguatan Aswaja/Ke-NU-an sebanyak 6 (enam) kali dalam
 
-```
-
 1 (satu) tahun;
-
-```
 
 ### b. Melaksanakan Lakut, Latin dan Diklatmad dan Diklatpel CBP minimal 2 (dua) kali
 
-```
-
 dalam satu periode kepengurusan;
-
-```
 
 ### c. Mengkoordinasikan dan mengirimkan tim instruktur pada kegiatan pengkaderan di
 
@@ -4440,19 +2469,11 @@ dalam satu periode kepengurusan;
 
 ### d. Melengkapi struktur kepengurusan PC. di setiap kabupaten/ kota di provinsi
 
-```
-
 dengan 50% (lima puluh persen) dari seluruh PC memperoleh hasil akreditasi A;
-
-```
 
 ### e. Melaksanakan kegiatan Sosial Kemasyarakatan, Kepemudaan dan Keterpelajaran
 
-```
-
 dan Pendidikanminimal 5 (lima) kali dalam 1 (satu) tahun.
-
-```
 
 ### f. Aktif media sosial minimal 4 platform
 
@@ -4486,11 +2507,7 @@ dan Pendidikanminimal 5 (lima) kali dalam 1 (satu) tahun.
    dan Pendidikanminimal 3 (tiga) kali dalam 1 (satu) tahun.
    f. Aktif media sosial minimal 2 platform
 
-```
-
 Pasal 9
-
-```
 
 1. Kewajiban dan tanggung jawab PCI pada kluster 1 (satu) terdiri dari:
    a. Melaksanakan Program penguatan Aswaja/Ke-NU-an sebanyak 6 (enam) kali dalam
@@ -4527,11 +2544,7 @@ Pasal 9
 
 ### 80
 
-```
-
 Pasal 10
-
-```
 
 1. Kewajiban dan tanggung jawab PC pada kluster 1 (satu) terdiri dari:
    a. Melaksanakan Program penguatan Aswaja/Ke-NU-an sebanyak 6 (enam) kali dalam
@@ -4581,11 +2594,7 @@ Pasal 10
 
 ### 81
 
-```
-
 Pasal 11
-
-```
 
 1. Kewajiban dan tanggung jawab PAC pada kluster 1 (satu) terdiri dari:
    a. Melaksanakan Program penguatan Aswaja/Ke-NU-an sebanyak 1 (satu) kali dalam 1
@@ -4625,11 +2634,7 @@ Pasal 11
    dan Pendidikanminimal 2 (tiga) kali dalam 1 (satu) tahun.
    e. Aktif media sosial minimal 1 platform
 
-```
-
 Pasal 12
-
-```
 
 1. Kewajiban dan tanggung jawab PR pada kluster 1 (satu) terdiri dari:
    a. Melaksanakan Program penguatan Aswaja/Ke-NU-an sebanyak 1 (satu) kali dalam
@@ -4680,18 +2685,10 @@ Pasal 12
    c. Melaksanakan kegiatan Sosial Kemasyarakatan, Kepemudaan
    dan Keterpelajaran dan Pendidikan minimal 1 (satu) kali dalam 1 (satu) tahun.
 
-```
-
 BAB VIII
 BORANG AKREDITASI
 
-```
-
-```
-
 Pasal 15
-
-```
 
 1. Borang akreditasi kegiatan Penguatan Faham Aswaja/Ke-NU-an dalam bentuk tertulis
    terdiri dari:
@@ -4702,13 +2699,9 @@ Pasal 15
 
 ### 83
 
-```
-
 e. Kyai, Ulama, Habaib yang diundang, jika ada;
 f. Deskripsi singkat kegiatan;
 g. Foto dan dokumentasi kegiatan.
-
-```
 
 2. Borang akreditasi kegiatan kaderisasi dan pengembangan SDM dalam bentuk tertulis
    terdiri dari:
@@ -4743,18 +2736,10 @@ g. Foto dan dokumentasi kegiatan.
    e. Deskripsi singkat kegiatan;
    f. Foto dan dokumentasi kegiatan.
 
-```
-
 BAB IX
 HAK PENGURUS
 
-```
-
-```
-
 Pasal 16
-
-```
 
 1. PW dan PCI memiliki hak untuk mengajukan permohonan akreditasi ulang kepada PP.
 2. PC memiliki hak untuk mengajukan permohonan akreditasi ulang kepada PP melalui
@@ -4768,29 +2753,17 @@ Pasal 16
 5. PR dan PK Madrasah dan Pondok Pesantren memiliki hak untuk mengajukan
    permohonan akreditasi ulang kepada PC melalui PAC.
 
-```
-
 BAB X
 ORGANISASI PELAKSANA
 
-```
-
-```
-
 Pasal 17
-
-```
 
 1. Akreditasi organisasi Ikatan Pelajar Nahdlatu Ulama dilakukan oleh PP dan
    dilaksanakan oleh Bidang Akreditasi dan Pengawasan Internal.
 2. Dalam melaksanakan akreditasi organisasi, Bidang Akreditasi dan Pengawasan Internal
    berkoordinasi dengan Koordinator Wilayah PP dan PW.
 
-```
-
 Pasal 18
-
-```
 
 1. Akreditasi organisasi terhadap PW dan PCI dilaksanakan oleh PP setiap 3 (tiga) tahun
    sekali.
@@ -4801,22 +2774,14 @@ Pasal 18
 5. Akreditasi organisasi terhadap PR dan PK Madrasah dan Pondok Pesantren
    dilaksanakan oleh PC (melalui PAC) setiap 2 (dua) tahun sekali
 
-```
-
 Pasal 19
-
-```
 
 1. PP menetapkan Tim Assesor Pusat.
 2. Tim Assesor Pusat bersifat sementara dan dapat dibentuk setiap waktu.
 3. Tim Assesor Pusat sekurang-kurangnya terdiri dari Koordinator Wilayah dan dua orang
    Pengurus PP.
 
-```
-
 Pasal 20
-
-```
 
 1. PW menetapkan Tim Assesor Wilayah.
 2. Tim Assesor Wilayah bersifat membantu Tim Assesor Pusat dan dapat dibentuk setiap
@@ -4824,22 +2789,14 @@ Pasal 20
 3. Tim Assesor Wilayah sekurang-kurangnya terdiri dari Koordinator Wilayah tingkat PW
    dan dua orang Pengurus PW.
 
-```
-
 Pasal 21
-
-```
 
 1. PC menetapkan Tim Assesor Cabang.
 2. Tim Assesor Cabang bersifat sementara dan dapat dibentuk setiap waktu.
 3. Tim Assesor Cabang sekurang-kurangnya terdiri dari Koordinator Wilayah tingkat PC dan
    dua orang Pengurus PC.
 
-```
-
 Pasal 22
-
-```
 
 1. PAC menetapkan Tim Assesor Anak Cabang.
 2. Tim Assesor Anak Cabang bersifat membantu Tim Assesor Cabang dan dapat dibentuk
@@ -4849,11 +2806,7 @@ Pasal 22
 
 ### 85
 
-```
-
 Pasal 23
-
-```
 
 1. Tim Assesor Pusat bertugas melakukan evaluasi dan penilaian mutu organisasi PW, PCI dan
    PC.
@@ -4865,68 +2818,40 @@ Pasal 23
 4. Tim Assesor Wilayah berwenang memberikan rekomendasi hasil akhir dari proses akreditasi
    organisasi kepada Tim Assesor Pusat.
 
-```
-
 Pasal 25
-
-```
 
 1. Tim Assesor Cabang bertugas melakukan evaluasi dan penilaian mutu organisasi PAC, PK
    dan PR.
 2. Tim Assesor Wilayah berwenang memberikan rekomendasi hasil akhir dari proses akreditasi
    organisasi kepada PC.
 
-```
-
 Pasal 26
-
-```
 
 1. Tim Assesor Anak Cabang bertugas membantu Tim Assesor Cabang melakukan evaluasi
    dan penilaian mutu organisasi PK Madrasah dan Pondok Pesantren dan PR.
 2. Tim Assesor Anak Cabang berwenang memberikan rekomendasi hasil akhir dari proses
    akreditasi organisasi kepada Tim Assesor Cabang.
 
-```
-
 Pasal 27
-
-```
 
 1. PP dengan mempertimbangkan rekomendasi Tim Assesor Pusat berwenang memberikan
    Surat Keputusan hasil akreditasi organisasi terhadap PW, PCI dan PC.
 2. PC dengan mempertimbangkan rekomendasi Tim Assesor Cabang berwenang memberikan
    Surat Keputusan hasil akreditasi organisasi terhadap PAC, PK, PR.
 
-```
-
 BAB XI
 HASIL AKREDITASI
 
-```
-
-```
-
 Pasal 28
 
-```
-
 Hasil akreditasi organisasi ditetapkan dengan standar kualitas sebagai berikut:
-
-```
 
 a. Hasil Akreditasi A : Mendapat nilai 80- 100
 b. Hasil Akreditasi B : Mendapat nilai 60- 79
 c. Hasil Akreditasi C : Mendapat nilai 40 - 59
 d. Hasil Akreditasi D : Mendapat nilai 0- 39
 
-```
-
-```
-
 Pasal 29
-
-```
 
 1. PW, PCI, PC, PAC, PR dan PK yang memperoleh status akreditasi A diberikan Reward
    kelas 1 pada Kongres, Konferensi Wilayah, Konferensi Cabang, dan Konferensi Anak
@@ -4941,18 +2866,10 @@ Pasal 29
 4. PW, PCI, PC, PAC, PR dan PK yang memperoleh status akreditasi D diberikan sanksi
    berupa penahanan Surat Pengesahan.
 
-```
-
 BAB XII
 TATA CARA AKREDITASI
 
-```
-
-```
-
 Pasal 30
-
-```
 
 1. Pimpinan Pusat menetapkan jadwal akreditasi terhadap Pimpinan Wilayah dan
    Pimpinan Cabang Istimewa.
@@ -4965,26 +2882,14 @@ Pasal 30
    Pesantren.
    Bagian Kesatu
 
-```
-
 Akreditasi Pimpinan Wilayah dan Pimpinan Cabang Istimewa
 
-```
-
-```
-
 Pasal 31
-
-```
 
 1. PW. dan PCI. mengajukan permohonan akreditasi kepada PP
 2. Pengajuan permohonan akreditasi disertai dengan boring akreditasi.
 
-```
-
 Pasal 32
-
-```
 
 1. PP. melalui Bidang Akreditasi dan Pengawasan Internal menerima permohonan
    akreditasi dari PW dan PCI.
@@ -4996,43 +2901,23 @@ Pasal 32
 5. PP. menerbitkan Surat Keputusan hasil akreditasi selambatlambatnya 2 (dua) bulan
    sejak permohonan akreditasi diterima.
 
-```
-
 Bagian Kedua
-
-```
-
-```
 
 Akreditasi Pimpinan Cabang
 
-```
-
-```
-
 Pasal 33
-
-```
 
 1. PC mengajukan permohonan akreditasi kepada PP melalui PW.
 2. Pengajuan permohonan akreditasi disertai dengan borang akreditasi.
 
-```
-
 Pasal 34
-
-```
 
 Pengajuan akreditasi PC. kepada PP. dapat dilaksanakan secara kolektif dengan
 dikoordinasikan oleh PW. terkait.
 
 ### 87
 
-```
-
 Pasal 35
-
-```
 
 1. PP. melalui Bidang Akreditasi dan Pengawasan Internal menerima permohonan
    akreditasi dari PC. melalui PW. terkait.
@@ -5045,32 +2930,16 @@ Pasal 35
 6. PP. menerbitkan Surat Keputusan hasil akreditasi selambat lambatnya 2 (dua) bulan
    sejak permohonan akreditasi diterima.
 
-```
-
 Bagian Ketiga
-
-```
-
-```
 
 Akreditasi Pimpinan Anak Cabang
 
-```
-
-```
-
 Pasal 36
-
-```
 
 1. PAC mengajukan permohonan akreditasi kepada PC.
 2. Pengajuan permohonan akreditasi disertai dengan boring akreditasi.
 
-```
-
 Pasal 37
-
-```
 
 1. PC menerima permohonan akreditasi dari PAC.
 2. PC membentuk Tim Assesor Cabang untuk melakukan akreditasi terhadap PAC dan.
@@ -5081,37 +2950,21 @@ Pasal 37
 5. PC menerbitkan Surat Keputusan hasil akreditasi selambat lambatnya2 (dua) bulan
    sejak permohonan akreditasi diterima.
 
-```
-
 Bagian Keempat
 Akreditasi Pimpinan Ranting dan Pimpinan Komisariat
 
-```
-
-```
-
 Pasal 38
-
-```
 
 1. PR dan PK Madrasah dan Pondok Pesantren mengajukan permohonan akreditasi
    kepada PC melalui PAC.
 2. Pengajuan permohonan akreditasi disertai dengan borangakreditasi.
 
-```
-
 Pasal 39
-
-```
 
 Pengajuan akreditasi PR dan PK Madrasah dan Pondok Pesantren kepada PC dapat
 dilaksanakan secarakolektif dengan dikoordinasikan oleh PAC terkait.
 
-```
-
 Pasal 40
-
-```
 
 1. PC menerima permohonan akreditasi dari PR dan PK Madrasah dan Pondok
    Pesantren melalui PAC terkait.
@@ -5129,18 +2982,10 @@ Pasal 40
 6. PC menerbitkan Surat Keputusan hasil akreditasi selambatlambatnya2 (dua) bulan
    sejak permohonan akreditasi diterima.
 
-```
-
 BAB XIII
 KETENTUAN PENUTUP
 
-```
-
-```
-
 Pasal 41
-
-```
 
 1. Segala sesuatu yang belum diatur dalam Peraturan organisasi ini akan diputuskan
    kemudian oleh Pimpinan Pusat.
@@ -5152,44 +2997,20 @@ Pasal 41
    Peraturan Organisasi ini, maka setiap tingkat kepengurusan IPNU diwajibkan
    menyosialisasikan hasil rakernas ini.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 MUNAWAR CHOLIL
 Sekretaris
-
-```
 
 ## 89
 
@@ -5199,11 +3020,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -5219,30 +3036,18 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 08 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 KLASTERISASI ORGANISASI IPNU
 
-```
-
-```
-
 Bismillahirrahmanirrahim
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 penyelenggaraan organisasi yang teratur;
-
-```
 
 2. Bahwa untuk Memperoleh gambaran secara proporsional
    tentang kinerja organisasi maka di perlukan Peraturan Organisasi
@@ -5268,55 +3073,27 @@ penyelenggaraan organisasi yang teratur;
 6. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 ### 91
 
@@ -5324,12 +3101,8 @@ Anggota
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 Pengertian
-
-```
 
 Dalam Peraturan Organisasi ini yang dimaksud dengan :
 
@@ -5337,18 +3110,10 @@ Dalam Peraturan Organisasi ini yang dimaksud dengan :
    Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Komisariat, Pimpinan Ranting
    berdasarkan kriteria tertentu yang ditetapkan oleh Peraturan Organisasi.
 
-```
-
 BAB II
 TUJUAN DAN FUNGSI
 
-```
-
-```
-
 Pasal 2
-
-```
 
 Penetapan kluster organisasi Ikatan Pelajar Nahdlatul Ulama, bertujuan untuk:
 a. Menentukan tingkat kelayakan organisasi dalam menyelenggarakan kegiatannya;
@@ -5362,34 +3127,18 @@ b. Mempertanggungjawabkan kegiatan organisasi sesuai dengan visi dan misi Ikatan
 Pelajar Nahdlatul Ulama ;
 c. Meningkatkan kualitas atau kinerja organisasi.
 
-```
-
 BAB III
 CAKUPAN PEMBAGIAN KLUSTER ORGANISASI
 
-```
-
-```
-
 Pasal 4
-
-```
 
 Pembagian kluster organisasi Ikatan Pelajar Nahdlatul Ulama dilaksanakan mencakup PW,
 PCI, PC, PAC, PR dan PK.
 
-```
-
 BAB IV
 KOMPONEN PEMBAGIAN KLUSTER
 
-```
-
-```
-
 Pasal 5
-
-```
 
 1. Komponen pembagian kluster organisasi Ikatan Pelajar Nahdlatul Ulama didasarkan
    kepada kondisi masing-masing daerah dimana PW, PCI, PC, PAC, PR dan PK meliputi:
@@ -5402,23 +3151,11 @@ Pasal 5
 
 ### 92
 
-```
-
 Bagian Kesatu
-
-```
-
-```
 
 Parameter Penetapan Kluster Pimpinan Wilayah
 
-```
-
-```
-
 Pasal 6
-
-```
 
 1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
    a. Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Propinsi
@@ -5449,11 +3186,7 @@ Pasal 6
    b. Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 10 (sepuluh)
    c. Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 5 (lima)
 
-```
-
 Pasal 7
-
-```
 
 Penetapan kluster PW berdasarkan akumulasi bobot nilai empat parameter tersebut
 dengan ketentuan sebagai berikut:
@@ -5461,23 +3194,11 @@ a. PW dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
 b. PW dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
 c. PW dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
 
-```
-
 Bagian Kedua
-
-```
-
-```
 
 Parameter Penetapan Kluster Pimpinan Cabang Istimewa
 
-```
-
-```
-
 Pasal 8
-
-```
 
 1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
    a. Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Negara
@@ -5485,14 +3206,10 @@ Pasal 8
 
 ### 93
 
-```
-
 b. Penduduk muslim berjumlah 20%-59% dari seluruh jumlah penduduk Negara
 ditetapkan dengan bobot nilai 10 (sepuluh)
 c. Penduduk muslim berjumlah 0%-19% dari seluruh jumlah penduduk Negara
 ditetapkan dengan bobot nilai 5 (lima)
-
-```
 
 2. Parameter jumlah lembaga pendidikan dan kampus yang berafeliasi dengan NU
    memiliki ketentuan sebagai berikut:
@@ -5522,23 +3239,11 @@ a. PCI dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
 b. PCI dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
 c. PCI dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
 
-```
-
 Bagian Ketiga
-
-```
-
-```
 
 Parameter Penetapan Kluster Pimpinan Cabang
 
-```
-
-```
-
 Pasal 10
-
-```
 
 1. Paramater jumlah penduduk muslim dengan ketentuan sebagaiberikut:
    a. Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk
@@ -5555,15 +3260,11 @@ Pasal 10
 
 ### 94
 
-```
-
 c. Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah 25 - 50
 dikabupaten/kota/Wilayah Kerja terkait ditetapkan dengan bobot nilai 10(sepuluh)
 d. Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah kurangdari 25
 (dua puluh lima) di kabupaten/kota/Wilayah Kerja terkait ditetapkan denganbobot
 nilai 5 (lima)
-
-```
 
 3. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagaiberikut:
    a. Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai25 (dua
@@ -5578,11 +3279,7 @@ nilai 5 (lima)
    b. Kondisi geografis dengan akses sedang ditetapkan denganbobot nilai 10 (sepuluh)
    c. Kondisi geografis dengan akses sulit ditetapkan denganbobot nilai 5 (lima)
 
-```
-
 Pasal 11
-
-```
 
 Penetapan kluster PC berdasarkan akumulasi bobot nilai empat parameter tersebut
 dengan ketentuan sebagai berikut:
@@ -5590,18 +3287,10 @@ a. PC dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
 b. PC dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
 c. PC dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
 
-```
-
 Bagian Keempat
 Parameter Penetapan Kluster Pimpinan Anak Cabang
 
-```
-
-```
-
 Pasal 12
-
-```
 
 1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
    a. Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Kecamatan
@@ -5625,14 +3314,10 @@ Pasal 12
 
 ### 95
 
-```
-
 b. Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobot nilai 10
 (sepuluh)
 c. Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 5
 (lima)
-
-```
 
 4. Parameter kondisi geografis dengan ketentuan sebagai berikut:
    a. Kondisi geografis dengan akses mudah ditetapkan dengan bobot nilai 25 (dua
@@ -5640,11 +3325,7 @@ c. Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 5
    b. Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 10 (sepuluh)
    c. Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 5 (lima)
 
-```
-
 Pasal 13
-
-```
 
 Penetapan kluster PAC berdasarkan akumulasi bobot nilai empat parameter tersebut
 dengan ketentuan sebagai berikut:
@@ -5652,24 +3333,12 @@ a. PAC dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
 b. PAC dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
 c. PAC dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
 
-```
-
 Bagian Kelima
-
-```
-
-```
 
 Parameter Penetapan Kluster Pimpinan Komisariat
 di Perguruan Tinggi
 
-```
-
-```
-
 Pasal 14
-
-```
 
 1. Paramater jumlah Mahasiswa dengan ketentuan sebagai berikut:
    a. Jumlah Mahasiswa di Perguruan Tinggi lebih dari 3.000 (tiga ribu) ditetapkan
@@ -5692,11 +3361,7 @@ Pasal 14
    puluh)
    c. Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 10 (sepuluh)
 
-```
-
 Pasal 15
-
-```
 
 Penetapan kluster PKPT berdasarkan akumulasi bobot nilai empat parameter tersebut
 dengan ketentuan sebagai berikut:
@@ -5706,23 +3371,11 @@ c. PR dengan nilai akumulasi 30 - 40 ditetapkan masuk kluster 3 (tiga)
 
 ### 96
 
-```
-
 Bagian Keenam
-
-```
-
-```
 
 Parameter Penetapan Kluster Pimpinan Ranting
 
-```
-
-```
-
 Pasal 17
-
-```
 
 1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
    a. Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk
@@ -5753,11 +3406,7 @@ Pasal 17
    b. Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 10 (sepuluh)
    c. Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 5 (lima)
 
-```
-
 Pasal 18
-
-```
 
 Penetapan kluster PR berdasarkan akumulasi bobot nilai empat parameter tersebut
 dengan ketentuan sebagai berikut:
@@ -5765,23 +3414,11 @@ a. PR dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
 b. PR dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
 c. PR dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
 
-```
-
 Bagian Ketujuh
-
-```
-
-```
 
 Parameter Penetapan Kluster Pimpinan Komisariat
 
-```
-
-```
-
 Pasal 19
-
-```
 
 1. Paramater jumlah Siswa/Mahasiswa/Santri dengan ketentuan sebagai berikut:
    a. Jumlah Siswa/Mahasiswa/Santri di Madrasah, Sekolah, Pesantren dan Perguruan
@@ -5790,14 +3427,10 @@ Pasal 19
 
 ### 97
 
-```
-
 b. Jumlah Siswa/Mahasiswa/Santri di Madrasah, Sekolah, Pesantren dan Perguruan
 Tinggi NU sejumlah 1.000-3.000 ditetapkan dengan bobot nilai 25 (dua puluh lima).
 c. Jumlah Siswa/Mahasiswa/Santri di Madrasah, Sekolah, Pesantren dan Perguruan
 Tinggi NU kurang dari 1.000 (seribu) ditetapkan dengan bobot nilai 10 (sepuluh).
-
-```
 
 2. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagai berikut:
    a. Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai 35
@@ -5813,11 +3446,7 @@ Tinggi NU kurang dari 1.000 (seribu) ditetapkan dengan bobot nilai 10 (sepuluh).
    puluh).
    c. Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 10 (sepuluh).
 
-```
-
 Pasal 20
-
-```
 
 Penetapan kluster PK berdasarkan akumulasi bobot nilai empat parameter tersebut
 dengan ketentuan sebagai berikut:
@@ -5825,18 +3454,10 @@ a. PR dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
 b. PR dengan nilai akumulasi 45 - 75 ditetapkan masuk kluster 2 (dua)
 c. PR dengan nilai akumulasi 30 - 40 ditetapkan masuk kluster 3 (tiga)
 
-```
-
 BAB V
 TATA CARA PENETAPAN KLUSTER
 
-```
-
-```
-
 Pasal 21
-
-```
 
 1. Kluster PW. ditetapkan oleh PP.
 2. Kluster PCI. ditetapkan oleh PP.
@@ -5845,23 +3466,11 @@ Pasal 21
 5. Kluster PR. ditetapkan oleh PC.
 6. Kluster PK. ditetapkan oleh PC.
 
-```
-
 Bagian Kesatu
-
-```
-
-```
 
 Penetapan Kluster Pimpinan Wilayah
 
-```
-
-```
-
 Pasal 22
-
-```
 
 1. Penetapan kluster PW. diajukan oleh PW. terkait kepada PP.
 2. Pengajuan penetapan kluster PW. disertai dengan data pendukung secara tertulis
@@ -5877,23 +3486,11 @@ Pasal 22
 
 6. PP mengeluarkan Surat Keputusan Penetapan Kluster PW.
 
-```
-
 Bagian Kedua
-
-```
-
-```
 
 Penetapan Kluster Pimpinan Cabang Istimewa
 
-```
-
-```
-
 Pasal 23
-
-```
 
 1. Penetapan kluster PCI. diajukan oleh PCI. terkait kepada PP.
 2. Pengajuan penetapan kluster PCI disertai dengan data pendukung secara tertulis
@@ -5906,23 +3503,11 @@ Pasal 23
    Rapat Harian penetapan kluster PCI.
 6. PP mengeluarkan Surat Keputusan Penetapan Kluster PCI.
 
-```
-
 Bagian Ketiga
-
-```
-
-```
 
 Penetapan Kluster Pimpinan Cabang
 
-```
-
-```
-
 Pasal 24
-
-```
 
 1. Penetapan kluster PC. diajukan oleh PW. terkait kepada PP.
 2. Pengajuan penetapan kluster PC. disertai dengan data pendukung secara tertulis
@@ -5936,23 +3521,11 @@ Pasal 24
    menyelenggarakan Rapat Harian penetapan kluster PC.
 7. PP mengeluarkan Surat Keputusan Penetapan Kluster PC.
 
-```
-
 Bagian Keempat
-
-```
-
-```
 
 Penetapan Kluster Pimpinan Anak Cabang
 
-```
-
-```
-
 Pasal 25
-
-```
 
 1. Penetapan kluster PAC. diajukan oleh PAC. terkait kepada PC.
 2. Pengajuan penetapan kluster PAC. disertai dengan data pendukung secara tertulis
@@ -5967,23 +3540,11 @@ Pasal 25
 
 ### 99
 
-```
-
 Bagian Kelima
-
-```
-
-```
 
 Penetapan Kluster Pimpinan Komisariat di Perguruan Tinggi
 
-```
-
-```
-
 Pasal 26
-
-```
 
 1. Penetapan kluster PK di Perguruan Tinggi. diajukan oleh PK terkait kepada PC.
 2. Pengajuan penetapan kluster PK di Perguruan Tinggi disertai dengan data pendukung
@@ -5996,18 +3557,10 @@ Pasal 26
    Rapat Harian penetapan kluster PK.
 6. PC. mengeluarkan Surat Keputusan Penetapan Kluster PK.
 
-```
-
 Bagian Keenam
 Penetapan Kluster Pimpinan Ranting
 
-```
-
-```
-
 Pasal 27
-
-```
 
 1. Penetapan kluster PR. diajukan oleh PAC. terkait kepada PC.
 2. Pengajuan penetapan kluster PR. disertai dengan data pendukung secara tertulis
@@ -6021,23 +3574,11 @@ Pasal 27
    Rapat Harian penetapan kluster PR.
 7. PC. mengeluarkan Surat Keputusan Penetapan Kluster PR.
 
-```
-
 Bagian Ketujuh
-
-```
-
-```
 
 Penetapan Kluster Pimpinan Komisariat
 
-```
-
-```
-
 Pasal 28
-
-```
 
 1. Penetapan kluster PK. diajukan oleh PAC. terkait kepada PC.
 2. Pengajuan penetapan kluster PK disertai dengan data pendukung secara tertulis
@@ -6057,11 +3598,7 @@ Pasal 28
 
 #### KETENTUAN PENUTUP
 
-```
-
 Pasal 29
-
-```
 
 1. Segala sesuatu yang belum diatur dalam Peraturan organisasi iniakan diputuskan
    kemudian oleh Pimpinan Pusat.
@@ -6072,46 +3609,22 @@ Pasal 29
 4. Agar setiap pengurus IPNU mengetahui dan memahamiPeraturan Organisasi ini, maka
    setiap tingkat kepengurusan IPNU diwajibkan menyosialisasikan Hasil Rakernas ini.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
 
 #### AAN ANDRI ARDIYANSAH
 
-```
-
 Ketua
-
-```
-
-```
 
 Ttd
 
-```
-
 #### MUNAWAR CHOLIL
 
-```
-
 Sekretaris
-
-```
 
 ## 101
 
@@ -6121,11 +3634,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -6141,35 +3650,19 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 09 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 DATABASE ORGANISASI IPNU
 
-```
-
-```
-
 Bismillahirrahmanirrahim
-
-```
-
-```
 
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 database yang lengkap dan valid;
-
-```
 
 2. Bahwa untuk menjamin adanya data base yang lengkap dan valid,
    diperlukan pedoman panyusunan _database_ ;
@@ -6183,14 +3676,10 @@ database yang lengkap dan valid;
    Ulama;
    Maka dengan senantiasa memohon taufiq, hidayah dan ridlo Allah SWT,
 
-```
-
 M E M U T U S K A N
 Menetapkan : 1. Mengesahkan Peraturan Organisasi Tentang Database Organisasi
 sebagai Pedoman untuk melakukan pemetaan dan pendataan
 organisasi;
-
-```
 
 2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah,
    Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak
@@ -6200,50 +3689,26 @@ organisasi;
 3. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 ### 103
 
@@ -6251,12 +3716,8 @@ Anggota
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 Pengertian
-
-```
 
 1. _Database_ adalah kumpulan data organisasi yang tersimpan dan diorganisasikan
    sehingga data tersebut bisa diambil atau dicari dengan mudah dan efisien.
@@ -6292,19 +3753,11 @@ Pengertian
     pemangku kepentingan dan jaringan yang dimiliki oleh IPNU di setiap tingkat
     kepengurusan.
 
-```
-
 BAB II
 MAKSUD DAN TUJUAN
 
-```
-
-```
-
 Pasal 2
 Maksud
-
-```
 
 Pedoman Penyusunan _Database_ dimaksudkan sebagai pedoman bagi semua pengurus IPNU
 di semua tingkatan untuk menyusun, mengorganisir dan mengelola _database_ organisasi
@@ -6312,24 +3765,16 @@ secara teratur, integral, valid dan berdaya guna.
 
 ### 104
 
-```
-
 Pasal 3
 Tujuan
-
-```
 
 Pedoman Penyusunan _Database_ sebagaimana dimaksud dalam Pasal 2 bertujuan untuk:
 a. mendukung kinerja organisasi secara umum;
 b. menjamin penyediaan data yang lengkap, tepat, valid dan dapat dipertanggungjawabkan;
 c. mengoptimalkan potensi organisasi.
 
-```
-
 Pasal 4
 Prinsip-Prinsip Database Organisasi IPNU
-
-```
 
 Pengelolahan database IPNU berdasarkan :
 
@@ -6338,19 +3783,11 @@ Pengelolahan database IPNU berdasarkan :
 3. Prinsip Keamanan, databse IPNU harus dijamin keamanannya
 4. Prinsip Kemanfaatan, database IPNU dikelola untuk kemanfaatan dan kemaslahatan
 
-```
-
 BAB III
 RUANG LINGKUP
 
-```
-
-```
-
 Pasal 5
 Cakupan
-
-```
 
 1. Pedoman Penyusunan _Database_ mencakup sistem pengorganisasian dan pengelolaan
    seluruh data yang tercakup dalam _database_ organisasi
@@ -6365,19 +3802,11 @@ Cakupan
    h. Data alumni;
    i. Data stakeholder organisasi.
 
-```
-
 BAB IV
 KELEMBAGAAN
 
-```
-
-```
-
 Pasal 6
 Tim Kerja Database
-
-```
 
 1. Setiap tingkat kepengurusan IPNU membentukan tim kerja _database_.
 2. Tim kerja _database_ terdiri dari tim _database_ nasional, tim _database_ wilayah, tim
@@ -6395,12 +3824,8 @@ Tim Kerja Database
 7. Setiap kepengurusan baru berhak memperbarui tim _database_ sesuai dengan
    kebutuhan.
 
-```
-
 Pasal 7
 Tim Database Nasional
-
-```
 
 1. Tim _Database_ Nasional dibentuk oleh Pimpinan Pusat dan disahkan dengan SK PP IPNU.
 2. Tim _Database_ Nasional beranggotakan 9 orang dengan komposisi 40% berbasis
@@ -6422,12 +3847,8 @@ Tim Database Nasional
    penyelenggaraan organisasi.
 4. Tim _Database_ Nasional bertanggung jawab kepada Ketua Umum PP IPNU.
 
-```
-
 Pasal 8
 Tim Database Wilayah
-
-```
 
 1. Tim _Database_ Wilayah dibentukoleh Pimpinan Wilayah dandisahkan dengan SK PW
    IPNU.
@@ -6452,12 +3873,8 @@ Tim Database Wilayah
 
 ### 106
 
-```
-
 Pasal 9
 Tim Database Cabang Istimewa
-
-```
 
 1. Tim _Database_ Cabang Istimewah dibentuk oleh Pimpinan Cabang Istimewah dan
    disahkan dengan SK PW IPNU.
@@ -6472,12 +3889,8 @@ Tim Database Cabang Istimewa
    penyelenggaraan organisasi.
 4. Tim _Database_ Cabang Istimewa bertanggungjawab kepada Ketua PCI IPNU.
 
-```
-
 Pasal 10
 Tim Database Cabang
-
-```
 
 1. Tim _Database_ Cabang dibentuk oleh Pimpinan Cabang dan disahkan dengan SK PC
    IPNU.
@@ -6499,12 +3912,8 @@ Tim Database Cabang
    penyelenggaraan organisasi.
 4. Tim _Database_ Cabang bertanggung jawab kepada Ketua PC IPNU.
 
-```
-
 Pasal 11
 Tim Database Anak Cabang
-
-```
 
 1. Tim _Database_ Anak Cabang dibentuk oleh Pimpinan Anak Cabang dan disahkan dengan
    SK PAC IPNU.
@@ -6518,8 +3927,6 @@ Tim Database Anak Cabang
 
 ### 107
 
-```
-
 d. Mengkoordinir tim database PR dan PK dalam penyusunan dan penginputan
 database ;
 e. Menyiapkan dan menginput data PAC yang diperlukan dalam penyusunan database
@@ -6529,16 +3936,10 @@ g. Melaporkan proses penginputan kepada Pimpinan Cabang;
 h. Mengelola database cabang dan mendayagunakannya untuk mendukung
 penyelenggaraan organisasi.
 
-```
-
 4. Tim _Database_ Anak Cabang bertanggungjawab kepada Ketua PAC IPNU.
-
-```
 
 Pasal 12
 Tim Database Komisariat di Perguruan Tinggi
-
-```
 
 1. Tim _Database_ Komisariat Perguruan Tinggi dibentuk oleh Pimpinan Komisariat di
    Perguruan Tinggi dan jika perlu disahkan dengan SK PK IPNU.
@@ -6553,12 +3954,8 @@ Tim Database Komisariat di Perguruan Tinggi
 4. Tim _Database_ Komisariat di Perguruan Tinggi bertanggung jawab kepada Ketua PK IPNU
    di Perguruan Tinggi.
 
-```
-
 Pasal 13
 Tim Database Komisariat
-
-```
 
 1. Tim _Database_ Komisariat dibentuk oleh Pimpinan Komisariat dan jika perlu disahkan
    dengan SK PK IPNU.
@@ -6572,12 +3969,8 @@ Tim Database Komisariat
    penyelenggaraan organisasi.
 4. Tim _Database_ Komisariat bertanggung jawab kepada Ketua PK IPNU.
 
-```
-
 Pasal 14
 Tim Database Ranting
-
-```
 
 1. Tim _Database_ Ranting dibentuk oleh Pimpinan Ranting dan jika perlu disahkan dengan
    SK PR IPNU.
@@ -6590,23 +3983,15 @@ Tim Database Ranting
 
 ### 108
 
-```
-
 d. Mengelola database komisariat dan mendayagunakannya untuk mendukung
 penyelenggaraan organisasi.
 
-```
-
 4. Tim _Database_ Ranting bertanggung jawab kepada Ketua PR IPNU.
-
-```
 
 BAB V
 JENIS-JENIS DATA
 Pasal 15
 Data Pengurus
-
-```
 
 1. Data pengurus dibuat dalam bentuk kolom sebagai berikut:
    a. Nomor urut;
@@ -6624,12 +4009,8 @@ Data Pengurus
    Kongres/konferensi/rapat anggota dan masa khidmat kepengurusan yang sedang
    berjalan.
 
-```
-
 Pasal 16
 Data Potensi Organisasi
-
-```
 
 1. Data potensi organisasi dibuat dalam bentuk tabel yang memuat kolom-kolom,
    sebagai berikut:
@@ -6646,12 +4027,8 @@ Data Potensi Organisasi
 2. Data potensi organisasi Pimpinan Ranting dan Pimpinan Komisariat dibuat dengan
    lebih sederhana, dengan mengurangi kolom nama daerah dan jumlah daerah kerja.
 
-```
-
 Pasal 17
 Data Statistik Organisasi
-
-```
 
 1. Data statistik organisasi memuat kolom-kolom, sebagai berikut:
    a. Nomor urut;
@@ -6661,14 +4038,10 @@ Data Statistik Organisasi
 
 ### 109
 
-```
-
 e. Tanggal konferensi/rapat anggota;
 f. Nama ketua, Sekretaris danbendahara organisasi yang berada satu tingkat di
 bawahnya;
 g. Keterangan.
-
-```
 
 2. Data statistik hanya diperlukan pada tingkat PP, PW, PC dan PAC.
    Pasal 18
@@ -6686,12 +4059,8 @@ g. Tanggal masuk;
 h. Tanggal keluar;
 i. Keterangan: misal kapan diberi tanda anggota.
 
-```
-
 Pasal 19
 Data Potensi Kader
-
-```
 
 Data Potensi Kader dibuat dalam Bentuk table yang memuat kolom-kolom sebagai berikut:
 a. Nomor urut;
@@ -6702,19 +4071,11 @@ e. Jumlah kader instruktur (instruktur pelatihan);
 f. Jumlah alumni pelatihan profesi;
 g. Keterangan.
 
-```
-
 BAB VI
 ALUR PENYUSUNAN
 
-```
-
-```
-
 Pasal 20
 Alur Distribusi Admin Tim Database
-
-```
 
 1. Pimpinan Pusat mensosialisasikan aturan dan tatacara penggunaan aplikasi (software)
    dibutuhkan dalam penyusunan _database_ nasional.
@@ -6753,31 +4114,19 @@ Alur Distribusi Admin Tim Database
 13. Pimpinan Pusat mengumpulkan dan mengorganisir data yang telah di-up-load untuk
     selanjutnya diolah menjadi _database_ nasional.
 
-```
-
 BAB VII
 PENGELOLAAN, AKSES DAN PENDAYAGUNAAN
 
-```
-
-```
-
 Pasal 22
 Pengelolaan Umum
-
-```
 
 1. Setiap tingkat kepengurusan harus mengelola _database_ pada daerah kerja yang
    bersangkutan.
 2. Pengelolaan sebagaimana ayat (1) dilakukan oleh tim _database_ pada setiap tingkat
    kepengurusan masing-masing.
 
-```
-
 Pasal 23
 Pengelolaan Database Nasional
-
-```
 
 1. Pengelolaan _Database_ Nasional dilakukan secara profesional oleh Tim _Database_
    Nasional.
@@ -6787,12 +4136,8 @@ Pengelolaan Database Nasional
    (perangkat lunak) online yang terpusat pada satu server sehingga bisa diakses secara
    nasional.
 
-```
-
 Pasal 24
 Akses
-
-```
 
 1. Pada dasarnya _database_ harus bisa diakses oleh semua anggota dan pengurus IPNU
    serta pihak lain yang berkepentingan.
@@ -6809,12 +4154,8 @@ Akses
    untuk kepentingan kader dan pengurus organisasi.
 7. Pemilahan data sebagaimana ayat (2) ditetapkan oleh Tim _Database_ Nasional.
 
-```
-
 Pasal 25
 Pendayagunaan
-
-```
 
 1. _Database_ harus didayagunakan sepenuhnya untuk kepentingan organisasi.
 2. Pendayagunaan sebagaimana ayat (1) disesuaikan dengan kebutuhan tingkat
@@ -6822,65 +4163,33 @@ Pendayagunaan
 3. Untuk menjamin pendayagunaan sebagaimana ayat (1), maka tim kerja _database_ harus
    menyediakan perangkat akses yang mudah dan memadai.
 
-```
-
 BAB XIII
 KETENTUAN PENUTUP
 
-```
-
-```
-
 Pasal 26
 Penutup
-
-```
 
 1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
 2. Agar setiap pengurus dan anggota IPNU mengetahui dan memahami Pedoman
    Penyusunan _Database_ , maka setiap tingkat kepengurusan IPNU diwajibkan
    menyosialisasikan Peraturan organisasi ini.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
 
 #### AAN ANDRI ARDIYANSAH
 
-```
-
 Ketua
-
-```
-
-```
 
 Ttd
 
-```
-
 #### MUNAWAR CHOLIL
 
-```
-
 Sekretaris
-
-```
 
 ## 112
 
@@ -6890,11 +4199,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 #### PERATURAN ORGANISASI
 
@@ -6910,35 +4215,19 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 10 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 PENGESAHAN PERATURAN ORGANISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
 TENTANG
 PENGADAAN KTA IPNU
 
-```
-
-```
-
 Bismillahirrahmanirrahim
-
-```
-
-```
 
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
 Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
 Menimbang : 1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan
 identitas organisasi yang jelas;
-
-```
 
 2. Bahwa untuk mewujudkan identitas keanggotaan, diperlukan
    Kartu Tanda Anggota;
@@ -6952,14 +4241,10 @@ identitas organisasi yang jelas;
    Ulama;
    Maka dengan senantiasa memohon taufiq, hidayah dan ridlo Allah SWT,
 
-```
-
 M E M U T U S K A N
 Menetapkan : 1. Mengesahkan Peraturan Organisasi Tentang Pengadaan Kartu
 Anggota sebagai Pedoman untuk melakukan pengadaan identitas
 anggota organisasi;
-
-```
 
 2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah,
    Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak
@@ -6969,61 +4254,33 @@ anggota organisasi;
 3. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
 
 M. GHULAM DHOFIR MANSUR
 Ketua
 
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 SULKIFLI AZIZ
 Anggota
-
-```
 
 #### BAB I
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 Pengertian
-
-```
 
 Dalam Peraturan Organisasi ini yang dimaksud dengan
 
@@ -7037,19 +4294,11 @@ Dalam Peraturan Organisasi ini yang dimaksud dengan
    pembuatan KTA, yang minimal meliputi nama lengkap, tempat dan tanggal lahir serta
    alamat anggota.
 
-```
-
 BAB II
 KETENTUAN PENGADAAN
 
-```
-
-```
-
 Pasal 2
 Pengadaan
-
-```
 
 1. KTA diadakan secara seragam dan berlaku secara internasional.
 2. Pengadaan KTA sebagaimana ayat (1) dilakukan oleh Pimpinan Cabang dengan
@@ -7065,19 +4314,11 @@ Pengadaan
    akurat.
 7. Pelaksanaan pendataan KTA terdaftar di _database._
 
-```
-
 BAB III
 KEPEMILIKAN DAN MASA BERLAKU
 
-```
-
-```
-
 Pasal 3
 Persyaratan Kepemilikan
-
-```
 
 1. Pada dasarnya setiap anggota yang memenuhi persyaratan dapat memiliki kartu tanda
    anggota.
@@ -7086,42 +4327,26 @@ Persyaratan Kepemilikan
 3. Persyaratan sebagaimana ayat (2) ditambah dengan persyaratan administratif yang
    telah ditentukan oleh masing-masing Pimpinan Cabang atau Pimpinan Wilayah.
 
-```
-
 Pasal 4
 Masa Berlaku
-
-```
 
 1. Kartu tanda anggota berlaku selama bersangkutan masih memenuhi syarat
    keanggotaan IPNU.
 2. Jika yang bersangkutan sudah tidak lagi memenuhi syarat keanggotaan, maka secara
    otomatis Kartu Tanda Anggota tidak berlaku.
 
-```
-
 BAB IV
 FORMAT DAN KOMPONEN ISI
 
-```
-
-```
-
 Pasal 5
 Bentuk dan Bahan
-
-```
 
 1. Bentuk KTA adalah persegi panjang dengan ukuran 5 x 8,5 cm.
 2. KTA bisa dibuat dari berbagai pilihan bahan sesuai dengan kebutuhan, kemampuan dan
    ketersediaan di setiap daerah.
 
-```
-
 Pasal 6
 Komponen Isi
-
-```
 
 1. KTA sebagaimana Pasal 5 terdiri dari 2 muka, yaitu muka depan dan muka belakang.
 2. Muka depan memuat informasi:
@@ -7140,19 +4365,11 @@ Komponen Isi
    g. _Barcode_.
 4. Format detail KTA menjadi lampiran tak terpisahkan dari peraturan Organisasi ini.
 
-```
-
 BAB V
 PENOMORAN
 
-```
-
-```
-
 Pasal 7
 Nomor Induk Angota
-
-```
 
 1. Nomor Induk Anggota terdiri dari 4 (empat) komponen yang masing-masing dipisah
    dengan titik seperti berikut: a.b.c.d (13.31.91.00003)
@@ -7163,31 +4380,19 @@ Nomor Induk Angota
    d : Lima digit Nomor Induk anggota pada data anggota (yang diatur oleh PC atau PW
    masing-masing)
 
-```
-
 Pasal 8
 Kode Wilayah dan Kode Cabang
-
-```
 
 1. Kode wilayah sebagaimana Pasal 7 ayat (2) poin a, ditentukan oleh PP.
 2. Kode cabang sebagaimana Pasal 7 ayat (2) poin b, ditentukan oleh PP.
 3. Kode wilayah dan kode cabang menjadi lampiran tak terpisahkan dari Peraturan
    Organisasi ini.
 
-```
-
 BAB VI
 MEKANISME PENGADAAN
 
-```
-
-```
-
 Pasal 9
 Pendataan Anggota
-
-```
 
 1. Sebelum pengadaan KTA dilakukan, terlebih dahulu dilakukan pendataan anggota.
 2. Pendataan anggota sebagaimana ayat (1) dilakukan secara integral dengan program
@@ -7200,12 +4405,8 @@ Pendataan Anggota
 4. Data anggota sebagaimana ayat (3) diambil dari data potensi anggota dalam _database_
    yang telah tersusun dengan ditambah pas foto.
 
-```
-
 Pasal 10
 Pengumpulan dan Pengelolaan Data Anggota
-
-```
 
 1. Pengumpulan Data anggota sebagaimana pasal 9 ayat (3) dan ayat (4) dilakukan oleh,
    PR, PK yang bersangkutan.
@@ -7215,12 +4416,8 @@ Pengumpulan dan Pengelolaan Data Anggota
    sesuai dengan daerah oleh pimpinan cabang.
 4. Pencetakan KTA bisa dilakukan oleh Pimpinan Cabang.
 
-```
-
 Pasal 11
 Pengusulan Pengadaan KTA
-
-```
 
 1. Dalam hal adanya anggota baru, maka dapat diusulkan pengadaan KTA.
 2. Pengusulan sebagaimana ayat (1) diajukan oleh anggota dan/atau,PR, PK, PAC kepada
@@ -7228,12 +4425,8 @@ Pengusulan Pengadaan KTA
 3. Pimpinan Cabang atau Pimpinan Wilayah wajib menerbitkan KTA setelah adanya
    pengajuan.
 
-```
-
 Pasal 12
 Form Isian Data Anggota
-
-```
 
 1. Dalam hal sebagaimana Pasal 11 ayat (1), Pimpinan Cabang menyediakan formulir isian
    data anggota.
@@ -7245,12 +4438,8 @@ Form Isian Data Anggota
 
 #### KETENTUAN PERALIHAN
 
-```
-
 Pasal 13
 Ketentuan Peralihan
-
-```
 
 1. Dalam hal _database_ belum tersusun dan/atau tidak adanya pengusulan, maka
    pengadaan KTA diinisiasi oleh Pimpinan Cabang.
@@ -7261,62 +4450,30 @@ Ketentuan Peralihan
 4. Pimpinan Cabang mengumpulkan kembali formulir yang sudah diisi untuk selanjutnya
    dijadikan sebagai data bahan KTA.
 
-```
-
 BAB VIII
 KETENTUAN PENUTUP
 
-```
-
-```
-
 Pasal 14
 Penutup
-
-```
 
 1. Hal-hal yang menyangkut teknis pengadaan akan diatur lebih lanjut oleh Sekretariat
    Jenderal Pimpinan Pusat.
 2. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 12 Agustus 2023
 
-```
-
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 AAN ANDRI ARDIYANSAH
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 MUNAWAR CHOLIL
 Sekretaris
-
-```
 
 #### KEPUTUSAN
 
@@ -7324,11 +4481,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 # PERATURAN ADMINISTRASI
 
@@ -7338,19 +4491,11 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 11 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 TENTANG
 PENGESAHAN PERATURAN ADMINISTRASI UMUM
 IKATAN PELAJAR NAHDLATUL ULAMA
-
-```
 
 _Bismillahirrahmanirrahim_
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
@@ -7383,70 +4528,34 @@ sebagaimana terlampir;
 3. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 13 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 M. Ghulam Dhofir Mansur
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Aan Andri Ardiansyah
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Sulkifli
 Anggota
-
-```
 
 #### BAB I
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 PENGERTIAN
-
-```
 
 Dalam Peraturan Administrasi Umum ini yang dimaksud dengan:
 
@@ -7457,12 +4566,8 @@ Dalam Peraturan Administrasi Umum ini yang dimaksud dengan:
 3. Distribusi surat adalah proses pengiriman surat baik secara konvensional melalui
    jasa pengiriman maupun secara elektronik melalui email dan sarana lainnya.
 
-```
-
 BAB II
 KATEGORI DAN JENIS SURAT
-
-```
 
 Pasal 2
 Jenis surat yang dikeluarkan oleh Ikatan Pelajar Nahdlatul Ulama adalah :
@@ -7486,11 +4591,7 @@ kekhususan tertentu, yaitu:
    Umum/Wakil Ketua Umum/Ketua dan Sekretaris Umum/Wakil Sekretaris Umum/
    Sekretaris Ikatan Pelajar Nahdlatul Ulama.
 
-```
-
 Pasal 4
-
-```
 
 Surat khusus adalah jenis surat dikeluarkan oleh Ikatan Pelajar Nahdlatul Ulama untuk
 keperluan khusus, yaitu:
@@ -7540,12 +4641,8 @@ keperluan khusus, yaitu:
     tertera pada pernyataan tersebut atas nama Ikatan Pelajar Nahdlatul Ulama,
     ditandatangani oleh Ketua Umum dan Sekretaris Umum.
 
-```
-
 Pasal 5
 Surat Keputusan Bersama
-
-```
 
 1. Dalam hal-hal tertentu dimungkinkan adanya penerbitan Surat Keputusan Bersama
    (SKB) IPNU dan organisasi lain.
@@ -7561,12 +4658,8 @@ mutandis (dengan sendirinya) untuk seluruh tingkat kepengurusan.
 
 #### PERSURATAN
 
-```
-
 Pasal 7
 Format Surat
-
-```
 
 1. Ukuran surat yang dipakai dalam surat-menyurat IPNU adalah F4 atau A4, dengan
    ketentuan sebagai berikut:
@@ -7577,12 +4670,8 @@ Format Surat
 4. Surat ditulis dengan font Arial Narrow.
 5. Surat elektronik (surel) berformat PDF atau JPG.
 
-```
-
 Pasal 8
 Kop Surat
-
-```
 
 Kop surat terdiri dari:
 
@@ -7594,11 +4683,7 @@ Kop surat terdiri dari:
 3. Tulisan alamat kantor/sekretariat, kontak person, email dan website di bagian atas
    kanan menggunakan font Averta semi bold ukuran 9.
 
-```
-
 Pasal 9
-
-```
 
 Untuk Lembaga dan Badan Khusus:
 
@@ -7606,12 +4691,8 @@ Untuk Lembaga dan Badan Khusus:
 2. Tulisan pengurus Lembaga dan Badan Khusus diawali dengan tulisan tingkat
    kepengurusan Ikatan Pelajar Nahdlatul Ulama;
 
-```
-
 Pasal 10
 Sampul Surat
-
-```
 
 1. Sampul surat adalah amplop kertas yang digunakan untuk membungkus surat.
 2. Sampul surat berwarna putih dan berat jenis kertas antara 60-80 gram.
@@ -7621,11 +4702,7 @@ Sampul Surat
 5. Penulisan tujuan surat (institusi/pihak yang hendak dituju) ditulis di bagian kanan
    bawah sampul dengan lengkap dan jelas.
 
-```
-
 Pasal 11
-
-```
 
 1. Khusus untuk kop surat, lambang Ikatan Pelajar Nahdlatul Ulama dapat dicetak
    berwarna dengan latar belakang berwarna putih sesuai dengan warna kertas.
@@ -7636,12 +4713,8 @@ Pasal 11
 
 #### FORMAT SURAT
 
-```
-
 Pasal 12
 Nomor, Lampiran dan Perihal
-
-```
 
 1. Nomor surat adalah nomor urut pada buku agenda surat keluar beserta kode-kode
    yang telah ditetapkan.
@@ -7686,12 +4759,8 @@ Nomor, Lampiran dan Perihal
 
 #### PENYUSUNAN PERATURAN, INSTRUKSI, DAN SIARAN
 
-```
-
 Pasal 13
 Komponen Peraturan
-
-```
 
 1. Peraturan memuat enam komponen yaitu:
    a. Lambang IPNU;
@@ -7712,12 +4781,8 @@ Komponen Peraturan
    ayat.
 9. Setiap bab terdiri dari beberapa pasal dan setiap pasal terdiri dari beberapa ayat.
 
-```
-
 Pasal 1 4
 Penomoran Peraturan
-
-```
 
 1. Nomor peraturan terdiri dari 6 (enam) komponen yaitu nomor, kode indeks
    peraturan, periodisasi kepengurusan, tahun kelahiran IPNU, bulan penerbitan
@@ -7738,12 +4803,8 @@ Penomoran Peraturan
 7. Bulan penerbitan peraturan ditulis dengan angka romawi.
 8. Tahun penerbitan peraturan ditulis dengan mencantumkan dua angka terakhir.
 
-```
-
 Pasal 15
 Komponen Siaran
-
-```
 
 1. Siaran memuat lima komponen yaitu:
    a. Judul;
@@ -7757,12 +4818,8 @@ Komponen Siaran
 5. Isi adalah narasi pokok materi yang disiarkan.
 6. Penutup berisi kesimpulan dan / atau saran.
 
-```
-
 Pasal 16
 Penomoran Siaran
-
-```
 
 1. Nomor siaran terdiri dari 6 (enam) komponen yaitu nomor, kode indeks siaran,
    periodisasi kepengurusan, tahun kelahiran IPNU, bulan penerbitan siaram, dan
@@ -7783,21 +4840,13 @@ Penomoran Siaran
 7. Bulan penerbitan siaran ditulis dengan angka romawi.
 8. Tahun penerbitan siaran ditulis dengan mencantumkan dua angka terakhir.
 
-```
-
 Pasal 1 7
-
-```
 
 Perihal surat atau disingkat Hal. diisi dengan inti isi atau pokok surat secara singkat dan
 mudah dimengerti. Perihal surat ditulis dengan huruf besar (kapital) tanpa garis bawah dan
 tidak diakhiri dengan titik.
 
-```
-
 Pasal 1 8
-
-```
 
 1. Lampiran atau disingkat Lamp. diisi apabila pada surat itu disertakan surat-surat
    lain.
@@ -7805,13 +4854,9 @@ Pasal 1 8
    b. Angka tersebut menunjukkan jumlah jenis/macam berkas, bukan jumlah
    halaman;
 
-```
-
 c. Bila jumlah halaman disebutkan, maka ditambah dengan angka di dalam
 kurung. Misalnya Lamp. : 1 (6), berarti jumlah lampiran 1 berkas sebanyak 6
 halaman
-
-```
 
 2. Untuk nomor surat kepanitiaan tertentu yang dibuat oleh tingkat kepengurusan,
    pengaturannya diserahkan sepenuhnya kepada masing-masing tingkat
@@ -7819,12 +4864,8 @@ halaman
 3. Penomoran surat lembaga dan badan IPNU diatur dalam aturan lembaga dan
    badan yang bersangkutan dengan tetap mengacu pada ketentuan diatas.
 
-```
-
 Pasal 1 9
 Tujuan Surat
-
-```
 
 1. Alamat tujuan surat ditulis secara lengkap dan diletakkan sebelah kiri di bawah
    perihal.
@@ -7834,12 +4875,8 @@ Tujuan Surat
    "Yth.".
 4. Tujuan surat ditulis dua spasi di bawah perihal surat
 
-```
-
 Pasal 20
 Isi Surat
-
-```
 
 1. Isi surat adalah uraian isi/pokok surat.
 2. Isi surat ditulis dengan kata-kata sopan dan harus menjunjung tinggi rasa hormat.
@@ -7869,12 +4906,8 @@ Isi Surat
    surat pengesahan, sedangkan untuk surat rekomendasi pengesahan, dengan
    permohonan rekomendasi pengesahan, untuk surat keputusan dan surat
 
-```
-
 keputusan bersama berisi peristiwa, kondisi, saran atau pendapat yang
 merupakan bahan pembuatan keputusan/keputusan bersama.
-
-```
 
 8. Untuk Diktum Pengesahan, berisi rumusan-rumusan pernyataan pengesahan
    kepengurusan, penugasan kepada kepengurusan yang bersangkutan dan tanggal
@@ -7899,12 +4932,8 @@ merupakan bahan pembuatan keputusan/keputusan bersama.
 16. Tingkat kepengursan IPNU yang berhak rekomendasi pengesahan adalah Pimpinan
     Wilayah, Pimpinan Cabang dan Pimpinan Anak Cabang.
 
-```
-
 Pasal 21
 Pembuka dan Penutup Surat
-
-```
 
 1. Surat dibuka dengan _Assalamu`alaikum warahmatullahi wabarokatuh_ , dan di
    bawahnya _Bismillahirrahmanirrahim_ dengan garis bawah di antara kedua kalimat
@@ -7916,12 +4945,8 @@ Pembuka dan Penutup Surat
    digunakan pembuka _Bismillahirrahmanirrahim_ , dan penutup _Wallahulmuwaffiq ila_
    _aqwamithariq_ dengan tulisan miring ( _italic_ ).
 
-```
-
 Pasal 22
 Tanggal Surat
-
-```
 
 1. Di bagian bawah surat sebelah kanan dicantumkan tanggal pembuatan surat.
 2. Tanggal surat didahului dengan nama kota/tempat pembuatan surat.
@@ -7929,12 +4954,8 @@ Tanggal Surat
 4. Letak tanggal hijriyah di bagian atas, sedang di bagian bawahnya kelender masehi,
    dengan dipisah garis.
 
-```
-
 Pasal 23
 Pengirim dan Tanda Tangan
-
-```
 
 1. Setiap surat harus menyebut dengan jelas organisasi pengirim dan
    penanggungjawab surat.
@@ -7969,12 +4990,8 @@ Pengirim dan Tanda Tangan
     dan sekertaris umum/ sekretaris dan scan stempel IPNU dengan berformat PDF
     atau JPG.
 
-```
-
 Pasal 2 4
 Tembusan
-
-```
 
 1. Setiap surat yang isinya perlu/harus diketahui oleh pihak/institusi lain, harus
    ditembuskan kepada pihak/institusi yang bersangkutan.
@@ -7989,12 +5006,8 @@ Tembusan
 6. Khusus surat yang bersifat keputusan, harus ditembuskan kepada pengurus NU
    pada tingkat yang bersangkutan.
 
-```
-
 Pasal 2 5
 Arsip
-
-```
 
 1. Arsip surat yang diketik bersama aslinya untuk dijadikan simpanan.
 2. Arsip surat berguna untuk dokumentasi dan bukti administrasi.
@@ -8004,12 +5017,8 @@ Arsip
    arsip.
 5. Tidak diperlukan penulisan kata "Arsip" pada tembusan.
 
-```
-
 Pasal 2 6
 Model Penulisan Surat
-
-```
 
 1. Surat umum disusun dengan model blockstyle, yaitu rata kanan menjorok ke dalam
    6 spasi, kecuali nomor, lampiran dan hal surat.
@@ -8018,25 +5027,13 @@ Model Penulisan Surat
 3. Penyusunan/penulisan surat diusahakan agar selalu dalam susunan yang harmonis.
 4. Jika isi surat sangat singkat, maka dipergunakan spasi yang lebih lebar.
 
-```
-
 BAB V
 LAPORAN
-
-```
-
-```
 
 Pasal 27
 Jenis Laporan
 
-```
-
-```
-
 Laporan terdiri dari 6 jenis berikut:
-
-```
 
 1. Laporan pertanggungjawaban;
 2. Laporan perjalanan;
@@ -8045,12 +5042,8 @@ Laporan terdiri dari 6 jenis berikut:
 5. Laporan program kerja
 6. Laporan pelaksanaan program.
 
-```
-
 Pasal 2 8
 Laporan Pertanggungjawaban
-
-```
 
 1. Laporan pertanggungjawaban adalah laporan yang disampaikan oleh ketua
    umum/ketua di hadapan Kongres/Konferensi/Rapat Anggota sebagai pertanggung
@@ -8081,12 +5074,8 @@ Laporan Pertanggungjawaban
    f. Rekomendasi;
    g. Penutup.
 
-```
-
 Pasal 30
 Laporan Kegiatan
-
-```
 
 1. Laporan kegiatan adalah laporan pelaksanaan suatu kegiatan, yang disampaikan
    oleh panitia dan/atau ketua koordinator pelaksana program / kegiatan kepada
@@ -8103,12 +5092,8 @@ Laporan Kegiatan
    i. Rekomendasi;
    j. Penutup.
 
-```
-
 Pasal 31
 Laporan Berkala
-
-```
 
 1. Laporan berkala adalah laporan yang disampaikan oleh tingkat kepengurusan
    tertentu kepada tingkat kepengurusan di atasnya secara bertahap/berkala.
@@ -8145,12 +5130,8 @@ Laporan Berkala
    dengan tembusan Pimpinan Anak Cabang dan pimpinan lembaga Pendidikan yang
    bersangkutan setiap enam bulan.
 
-```
-
 Pasal 32
 Laporan Program Kerja
-
-```
 
 1. Laporan program kerja adalah laporan menyeluruh mengenai program kerja yang
    telah dilaksanakan oleh bidang/departemen tertentu.
@@ -8170,12 +5151,8 @@ Laporan Program Kerja
 5. Di atas tabel bertuliskan "Laporan Program Kerja" dan di bawahnya dicantumkan
    nama dan tanda tangan penanggung jawab.
 
-```
-
 Pasal 3 3
 Laporan Pelaksanaan Program
-
-```
 
 1. Laporan pelaksanaan program adalah laporan lengkap tentang suatu program
    yang telah dilaksanakan.
@@ -8192,23 +5169,15 @@ Laporan Pelaksanaan Program
    g. Laporan penggunaan anggaran;
    h. Hambatan-hambatan;
 
-```
-
 i. Kesimpulan;
 j. Rekomendasi;
 k. Penutup.
 
-```
-
 4. Laporan pelaksaaan program ditandatangai oleh ketua umum/ketua dan sekretaris
    umum/sekretaris, serta berstempel.
 
-```
-
 Pasal 3 4
 Berita Acara
-
-```
 
 1. Berita acara adalah suatu bentuk laporan yang menyatakan secara utuh sebuah
    peristiwa formal yang telah berlangsung.
@@ -8223,18 +5192,10 @@ Berita Acara
 3. Berita acara sebaiknya juga diketahui oleh pihak-pihak yang berkepetingan (Bila
    mungkin distempel, jika yang berkepentingan tersebut mewakili organisasi).
 
-```
-
 BAB VI
 KELENGKAPAN ADMINISTRASI
 
-```
-
-```
-
 Pasal 3 5
-
-```
 
 1. Buku agenda adalah buku untuk mencatat keluar masuk surat dapat berupa
    manual dan/atau digital.
@@ -8261,8 +5222,6 @@ Pasal 3 5
 5. Buku daftar inventaris adalah buku untuk mencatat semua barang kekayaan yang
    dimiliki oleh organisasi, dengan kolom-kolom sebagai berikut:
 
-```
-
 a. Nomor urut;
 b. Tanggal pembukuan;
 c. Kode barang;
@@ -8273,8 +5232,6 @@ g. Asal barang;
 h. Dokumen dan tanggal penyerahan/perolehan barang;
 i. Keadaan barang; dan/atau
 j. Harga.
-
-```
 
 6. Buku kas adalah buku untuk mencatat keluar masuk uang organisasi, dengan
    kolom-kolom sebagai berikut:
@@ -8365,13 +5322,9 @@ j. Harga.
     f.2. Surat intern organisasi (umum).
     f.3. Surat yang ditujukan kepada NU dan banom, lajnah dan lembaga NU.
 
-```
-
 f.4. Surat kepada institusi dan ormas lain.
 f.5. Peraturan dan siaran.
 f.6. Laporan kegiatan.
-
-```
 
 9. Pengarsipan surat-surat masuk dilakukan dengan mengategorisasikannya sesuai
    jenis-jenis surat sebagai berikut:
@@ -8420,8 +5373,6 @@ f.6. Laporan kegiatan.
    PimpinanRanting / Pimpinan Komisariat.
    c.8. Surat dari NU, badan otonom, lembaga dan lajnah NU.
 
-```
-
 c.9. Surat dari institusi dan ormas lain.
 c.10. Peraturan dan siaran PP dan PW.
 c.11. Tembusan peraturan dan siaran PAC, PR dan PK.
@@ -8465,14 +5416,8 @@ f.5. Surat dari institusi dan ormas lain.
 f.6. Peraturan dan siaran PP, PW, PC dan PAC.
 f.7. Laporan kegiatan Pimpinan Cabang dan Pimpinan Anak Cabang
 
-```
-
-```
-
 Pasal 3 7
 Disposisi, Reproduksi, dan Godeponserd
-
-```
 
 1. Disposisi adalah catatan dari ketua umum/ketua dan/atau Sekretaris
    umum/sekretaris tentang tindak lanjut sebuah surat.
@@ -8489,12 +5434,8 @@ Disposisi, Reproduksi, dan Godeponserd
    lagi dijawab atau tindaklanjuti.
 8. Rep. dan Dep. Dibubuhkan di bagian atas kiri surat.
 
-```
-
 Pasal 3 8
 Stempel
-
-```
 
 1. Stempel adalah cap atau simbol organisasi untuk melegitimasi surat-surat atau
    barang-barang tertentu secara resmi dan harus dipakai sebagaimana mestinya.
@@ -8508,19 +5449,11 @@ Stempel
 6. Warna tinta stempel hijau muda.
 7. Ketentuan ini berlaku untuk semua tingkat kepengurusan IPNU.
 
-```
-
 BAB VII
 PERLENGKAPAN SEKRETARIAT
 
-```
-
-```
-
 Pasal 3 9
 Bagan Struktur Organisasi
-
-```
 
 1. Bagan struktur organisasi adalah susunan pengurus yang dibuat dalam bentuk
    bagan.
@@ -8530,12 +5463,8 @@ Bagan Struktur Organisasi
    koordinasi dicantumkan nama, jabatan beserta foto yang bersangkutan.
 4. Struktur organisasi dipasang di dinding kantor/sekretariat.
 
-```
-
 Pasal 40
 Papan Agenda Kegiatan
-
-```
 
 1. Papan agenda kegiatan adalah catatan kegiatan yang hendak dilaksanakan, baik
    internal maupun eksternal.
@@ -8547,22 +5476,14 @@ Papan Agenda Kegiatan
    b. Nama/jenis kegiatan;
    c. Pelaksana kegiatan;
 
-```
-
 d. Hari/tanggal pelaksanaan kegiatan;
 e. Waktu (jam) pelaksanaan;
 f. Tempat pelaksanaan;
 g. Keterangan: mencatat hal-hal yang penting, seperti adanya penyampaian
 makalah dll.
 
-```
-
-```
-
 Pasal 41
 Papan Pengumuman
-
-```
 
 1. Papan pengumuman adalah papan media komunikasi dan informasi antara
    organisasi, pengurus dan anggotanya, maupun antaraorganisasi dan pihak lain.
@@ -8571,12 +5492,8 @@ Papan Pengumuman
 3. Papan pengumuman berbentuk empat persegi panjang, dengan bertuliskan
    "Pengumuman" di bagian atas tengah.
 
-```
-
 Pasal 42
 Tabel Program Kerja Tahunan
-
-```
 
 1. Tabel program kerja tahunan adalah tabel yang memuat rencana kalender kerja
    dan/atau kegiatan tahunan, untuk mempermudah evaluasi waktu dan persiapan
@@ -8591,12 +5508,8 @@ Tabel Program Kerja Tahunan
    f. Penanggung jawab;
    g. Keterangan.
 
-```
-
 Pasal 43
 Peta Wilayah Kerja
-
-```
 
 1. Peta wilayah kerja berfungsi untuk mengetahui potensi, situasi dan kondisi daerah
    kerja yang dipimpinnya.
@@ -8606,12 +5519,8 @@ Peta Wilayah Kerja
 3. Peta wilayah kerja mutlak dimiliki oleh semua tingkat kepengurusan organisasi,
    kecuali Pimpinan Ranting dan/atau Pimpinan Komisariat.
 
-```
-
 Pasal 44
 Pemasangan Simbol Negara dan Identitas Organisasi
-
-```
 
 1. Simbol Negara (Foto Presiden dan Wakil Presiden Serta Lambang Burung Garuda).
 2. Identitas Organisasi (Gambar KH. Hasyim Asyari, KH, Tolhah Mansoer, Bendera NU
@@ -8627,48 +5536,24 @@ Pemasangan Simbol Negara dan Identitas Organisasi
    Administrasi Umum, maka setiap tingkat kepengurusan IPNU diwajibkan
    menyosialisasikan Peraturan Administrasi Umum ini.
 
-```
-
 Ditetapkan di: Pasuruan
 Pada tanggal: 12 Agustus 2023
-
-```
 
 #### KONFERENSI BESAR
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Birrul Alim
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Iqbal Hamdan Habibi
 Sekretaris
-
-```
 
 ## Lampiran 1 : Kop Surat
 
@@ -8688,11 +5573,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 # MEKANISME PENGESAHAN KEPENGURUSAN
 
@@ -8702,19 +5583,11 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 12 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 TENTANG
 MEKANISME PENGESAHAN KEPENGURUSAN
 IKATAN PELAJAR NAHDLATUL ULAMA
-
-```
 
 _Bismillahirrahmanirrahim_
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
@@ -8745,70 +5618,34 @@ terlampir;
 3. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 13 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 M. Ghulam Dhofir Mansur
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Aan Andri Ardiansyah
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Sulkifli
 Anggota
-
-```
 
 #### BAB I
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
 Pengertian
-
-```
 
 Dalam Peraturan Administrasi tentang Mekanisme Pengesahan Kepengurusan ini yang
 dimaksud dengan:
@@ -8866,29 +5703,17 @@ dimaksud dengan:
 20. _Reshuffle_ adalah penggantian pengurus di tengah berlangsungnya masa khidmat
     suatu kepengurusan.
 
-```
-
 BAB II
 MAKSUD DAN TUJUAN
-
-```
-
-```
 
 Pasal 2
 Maksud
 
-```
-
 Mekanisme Pengesahan Kepengurusan dimaksudkan sebagai pedoman alur dan tatacara
 untuk mengesahkan kepengurusan IPNU di semua tingkat dan berlaku secara nasional.
 
-```
-
 Pasal 3
 Tujuan
-
-```
 
 Mekanisme Pengesahan Kepengurusan sebagaimana dimaksud dalam Pasal 2 bertujuan
 untuk:
@@ -8897,18 +5722,10 @@ untuk:
 2. Menjamin ketertiban dan keteraturan pengesahan kepengurusan organisasi;
 3. Mengoptimalkan struktur organisasi.
 
-```
-
 BAB III
 KEWENANGAN PENERBITAN
 
-```
-
-```
-
 Pasal 4
-
-```
 
 Tingkat Kepengurusan Penerbit Surat Pengesahan
 
@@ -8919,19 +5736,11 @@ Tingkat Kepengurusan Penerbit Surat Pengesahan
 3. Pimpinan Cabang menerbitkan Surat Pengesahan untuk Pimpinan Anak Cabang,
    Pimpinan Ranting dan Pimpinan Komisariat.
 
-```
-
 BAB IV
 PENGESAHAN UNTUK PIMPINAN PUSAT
 
-```
-
-```
-
 Pasal 5
 Permohonan Pengesahan
-
-```
 
 1. Setelah selesainya Kongres, pengurus PP yang terbentuk mengajukan permohonan
    pengesahan tentang kepengurusan Pimpinan Pusat kepada Pengurus Besar
@@ -8940,23 +5749,15 @@ Permohonan Pengesahan
    a. Berita acara dan/atau surat keputusan Kongres tentang pemilihan ketua
    umum Pimpinan Pusat;
 
-```
-
 b. Berita acara penyusunan kepengurusan oleh tim formatur;
 c. Susunan pengurus Pimpinan Pusat lengkap.
-
-```
 
 3. Surat permohonan pengesahan sebagaimana ayat (2) ditandatangani oleh Ketua
    Umum terpilih hasil Kongres dan Sekretaris Umum yang dipilih melalui rapat tim
    formatur.
 
-```
-
 Pasal 6
 Pengesahan
-
-```
 
 1. Setelah menerima pengajuan pengesahan, serta mempelajari sungguh-sungguh
    susunan kepengurusan, Pengurus Besar Nahdlatul Ulama menerbitkan surat
@@ -8971,19 +5772,11 @@ Pengesahan
    tidak menerbitkan surat pengesahan sampai masalah selesai dan/atau semua
    syarat-syarat pengajuan dipenuhi.
 
-```
-
 BAB V
 PENGESAHAN UNTUK PIMPINAN WILAYAH
 
-```
-
-```
-
 Pasal 7
 Permohonan Pengesahan
-
-```
 
 1. Setelah selesainya Konferensi Wilayah, pengurus PW yang terbentuk mengajukan
    permohonan rekomendasi tentang susunan pengurus Pimpinan Wilayah yang
@@ -9018,12 +5811,8 @@ Permohonan Pengesahan
 8. Jika point 7 (tujuh) tidak terpenuhi, Maka Ketua Wilayah terpilih mengajukan Surat
    Pemberitahuan terkait kendala yang terjadi kepada Pimpinan Pusat.
 
-```
-
 Pasal 8
 Pengesahan
-
-```
 
 1. Setelah menerima pengajuan pengesahan dan surat rekomendasi, serta
    mempelajari sungguh-sungguh susunan kepengurusan, Pimpinan Pusat
@@ -9044,14 +5833,10 @@ Pengesahan
    menerbitkan surat pengesahan sampai masalah selesai dan/atau semua syarat-
    syarat pengajuan dipenuhi.
 
-```
-
 BAB VI
 PENGESAHAN UNTUK PIMPINAN CABANG
 Pasal 9
 Permohonan Pengesahan
-
-```
 
 1. Setelah selesainya Konferensi Cabang, pengurus PC yang terbentuk mengajukan
    permohonan rekomendasi tentang pengesahan susunan pengurus Pimpinan
@@ -9068,8 +5853,6 @@ Permohonan Pengesahan
    d. Surat rekomendasi Pengurus Cabang Nahdlatul Ulama setempat;
    e. Surat Rekomendasi Pengesahan Pimpinan Wilayah IPNU setempat
 
-```
-
 f. Fotocopy KTP, Curiculume Vitae , Pas Foto, Fotocopy Sertifikat Kaderisasi
 LAKMUD, (Ketua, Sekretaris, Bendahara);
 g. Biodata Pengurus Pimpinan Cabang Lengkap;
@@ -9078,8 +5861,6 @@ dilampiri KTP atau KTA IPNU atau Kartu Identitas lainnya;
 i. Hasil Konfercab & Laporan Pertanggung Jawaban Pengurus Demisioner;
 j. Dokumentasi Konfercab;
 k. Profil Pimpinan Cabang.
-
-```
 
 4. Surat permohonan pengesahan sebagaimana ayat (2) ditandatangani oleh Ketua
    Cabang terpilih hasil Konferensi Cabang dan Sekretaris yang dipilih melalui rapat
@@ -9093,12 +5874,8 @@ k. Profil Pimpinan Cabang.
 7. Jika point 6 (enam) tidak terpenuhi, Maka Ketua Cabang terpilih mengajukan Surat
    Pemberitahuan terkait kendala yang terjadi kepada Pimpinan Pusat.
 
-```
-
 Pasal 10
 Rekomendasi Pengesahan
-
-```
 
 1. Setelah menerima pengajuan rekomendasi pengesahan dan mempelajari
    seperlunya susunan kepengurusan, Pimpinan Wilayah menerbitkan surat
@@ -9112,12 +5889,8 @@ Rekomendasi Pengesahan
 4. Bentuk dan format surat rekomendasi pengesahan diatur dalam Peraturan
    Administrasi Umum IPNU.
 
-```
-
 Pasal 11
 Pengesahan
-
-```
 
 1. Setelah menerima pengajuan pengesahan dan surat rekomendasi pengesahan,
    serta mempelajari sungguh-sungguh susunan kepengurusan, Pimpinan Pusat
@@ -9140,19 +5913,11 @@ Pengesahan
    menerbitkan surat pengesahan sampai masalah selesai dan/atau semua syarat-
    syarat pengajuan dipenuhi.
 
-```
-
 BAB VII
 PENGESAHAN UNTUK PIMPINAN CABANG ISTIMEWA
 
-```
-
-```
-
 Pasal 12
 Permohonan Pengesahan
-
-```
 
 1. Setelah selesainya Konferensi Cabang Istimewa, pengurus PCI yang terbentuk
    mengajukan permohonan rekomendasi tentang pengesahan susunan pengurus
@@ -9185,12 +5950,8 @@ Permohonan Pengesahan
    mengajukan Surat Pemberitahuan terkait kendala yang terjadi kepada Pimpinan
    Pusat.
 
-```
-
 Pasal 13
 Pengesahan
-
-```
 
 1. Setelah menerima pengajuan pengesahan dan surat rekomendasi pengesahan,
    serta mempelajari sungguh-sungguh susunan kepengurusan, Pimpinan Pusat
@@ -9213,19 +5974,11 @@ Pengesahan
    berhak tidak menerbitkan surat pengesahan sampai masalah selesai dan/atau
    semua syarat-syarat pengajuan dipenuhi.
 
-```
-
 BAB VIII
 PENGESAHAN UNTUK PIMPINAN ANAK CABANG
 
-```
-
-```
-
 Pasal 14
 Permohonan Pengesahan
-
-```
 
 1. Setelah selesainya Konferensi Anak Cabang, pengurus PAC yang terbentuk
    mengajukan permohonan rekomendasi tentang susunan pengurus Pimpinan Anak
@@ -9259,12 +6012,8 @@ Permohonan Pengesahan
 7. Jika point 6 (enam) tidak terpenuhi, Maka Ketua Anak Cabang terpilih mengajukan
    Surat Pemberitahuan terkait kendala yang terjadi kepada Pimpinan Cabang.
 
-```
-
 Pasal 15
 Pengesahan
-
-```
 
 1. Setelah menerima pengajuan pengesahan dan surat rekomendasi, serta
    mempelajari sungguh-sungguh susunan kepengurusan, Pimpinan Cabang
@@ -9286,19 +6035,11 @@ Pengesahan
    menerbitkan surat pengesahan sampai masalah selesai dan/atau semua syarat-
    syarat pengajuan dipenuhi.
 
-```
-
 BAB IX
 PENGESAHAN UNTUK PIMPINAN RANTING
 
-```
-
-```
-
 Pasal 16
 Permohonan Pengesahan
-
-```
 
 1. Setelah selesainya Rapat Anggota, Pengurus PR yang terbentuk mengajukan
    permohonan rekomendasi tentang pengesahan susunan pengurus Pimpinan
@@ -9320,13 +6061,9 @@ Permohonan Pengesahan
    h. Surat Pernyataan Kesediaan Menjadi Pengurus oleh Pengurus Harian
    dilampiri KTP atau KTA IPNU atau Kartu Identitas lainnya;
 
-```
-
 i. Hasil Rapat Anggota & Laporan Pertanggung Jawaban Pengurus Demisioner;
 j. Dokumentasi Rapat Anggota;
 k. Profil Pimpinan Ranting.
-
-```
 
 4. Surat permohonan pengesahan sebagaimana ayat (2) ditandatangani oleh Ketua
    Ranting terpilih hasil Rapat Anggota dan sekretaris yang dipilih melalui rapat tim
@@ -9340,12 +6077,8 @@ k. Profil Pimpinan Ranting.
 8. Jika point 7 (tujuh) tidak terpenuhi, Maka Ketua Ranting terpilih mengajukan Surat
    Pemberitahuan terkait kendala yang terjadi kepada Pimpinan Cabang.
 
-```
-
 Pasal 17
 Rekomendasi Pengesahan
-
-```
 
 1. Setelah menerima pengajukan rekomendasi pengesahan dan mempelajari
    seperlunya susunan kepengurusan, Pimpinan Anak Cabang menerbitkan surat
@@ -9359,12 +6092,8 @@ Rekomendasi Pengesahan
 4. Bentuk dan format surat rekomendasi pengesahan diatur dalam Peraturan
    Administrasi IPNU.
 
-```
-
 Pasal 18
 Pengesahan
-
-```
 
 1. Setelah menerima pengajuan pengesahan dan surat rekomendasi pengesahan,
    serta mempelajari sungguh-sungguh susunan kepengurusan, Pimpinan Cabang
@@ -9389,12 +6118,8 @@ Pengesahan
 
 #### PENGESAHAN UNTUK PIMPINAN KOMISARIAT
 
-```
-
 Pasal 19
 Permohonan Pengesahan
-
-```
 
 1. Setelah selesainya Rapat Anggota maka:
    a. Pengurus PK ditingkat Perguruan Tinggi yang terbentuk mengajukan
@@ -9439,12 +6164,8 @@ Permohonan Pengesahan
 8. Jika point 7 (tujuh) tidak terpenuhi, Maka Ketua Komisariat terpilih mengajukan
    Surat Pemberitahuan terkait kendala yang terjadi kepada Pimpinan Cabang.
 
-```
-
 Pasal 20
 Rekomendasi Pengesahan
-
-```
 
 1. Setelah menerima pengajukan rekomendasi pengesahan dan mempelajari
    seperlunya susunan kepengurusan, Pimpinan Anak Cabang menerbitkan surat
@@ -9459,12 +6180,8 @@ Rekomendasi Pengesahan
 4. Bentuk dan format surat rekomendasi pengesahan diatur dalam Peraturan
    Administrasi Umum IPNU.
 
-```
-
 Pasal 21
 Pengesahan
-
-```
 
 1. Setelah menerima pengajuan pengesahan dan surat rekomendasi pengesahan,
    serta mempelajari sungguh-sungguh susunan kepengurusan, Pimpinan Cabang
@@ -9489,12 +6206,8 @@ Pengesahan
    BAB XI
    PENGESAHAN PEJABAT KETUA DAN HASIL RESHUFFLE
 
-```
-
 Pasal 22
 Pengesahan Pejabat Ketua
-
-```
 
 1. Setelah selesai penunjukkan pejabat ketua (Pj. Ketua) sebagaimana diatur dalam
    Peraturan Organisasi, maka kepengurusan yang bersangkutan harus mengajukan
@@ -9508,12 +6221,8 @@ Pengesahan Pejabat Ketua
 4. Jika semua persyaratan telah dipenuhi, maka pimpinan yang berwenang wajib
    menerbitkan surat pengesahan tentang susunan pengurus yang bersangkutan.
 
-```
-
 Pasal 23
 Pengesahan Hasil Reshuffle
-
-```
 
 1. Setelah selesai _Reshuffle_ pengurus sebagaimana diatur dalam Peraturan Organisasi,
    maka kepengurusan yang bersangkutan harus mengajukan permohonan
@@ -9526,14 +6235,10 @@ Pengesahan Hasil Reshuffle
 4. Jika semua persyaratan telah dipenuhi, maka pimpinan yang berwenang wajib
    menerbitkan surat pengesahan tentang susunan pengurus yang bersangkutan.
 
-```
-
 BAB XII
 ATURAN PERALIHAN
 Pasal 24
 Aturan Peralihan
-
-```
 
 1. Dalam hal pimpinan di atasnya belum terbentuk, vakum dan/atau sedang
    mengalami demisionerisasi otomatis, maka pengajuan pengesahan cukup dengan
@@ -9551,12 +6256,8 @@ Aturan Peralihan
 
 #### KETENTUAN PENUTUP
 
-```
-
 Pasal 25
 Penutup
-
-```
 
 1. Peraturan Administrasi tentang Mekanisme Pengesahan Kepengurusan ini berlaku
    sejak tanggal ditetapkan.
@@ -9564,48 +6265,24 @@ Penutup
    maka Setiap tingkat kepengurusan IPNU diwajibkan menyosialisasikan Peraturan
    ini.
 
-```
-
 Ditetapkan di: Pasuruan
 Pada tanggal: 12 Agustus 2023
-
-```
 
 #### KONFERENSI BESAR
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Birrul Alim
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Iqbal Hamdan Habibi
 Sekretaris
-
-```
 
 #### KEPUTUSAN
 
@@ -9613,11 +6290,7 @@ Sekretaris
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pasuruan, 11 - 13 Agustus 2023
-
-```
 
 # SISTEM KADERISASI
 
@@ -9627,19 +6300,11 @@ Pasuruan, 11 - 13 Agustus 2023
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Nomor : 13 /Konbes/IPNU/VIII/2023
-
-```
-
-```
 
 TENTANG
 SISTEM KADERISASI
 IKATAN PELAJAR NAHDLATUL ULAMA
-
-```
 
 _Bismillahirrahmanirrahim_
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
@@ -9668,69 +6333,33 @@ Sistem Kaderisasi IPNU sebagaimana terlampir;
 3. Keputusan ini sejak tanggal ditetapkan.
    _Wallahul muwafiq ila aqwamith-tharieq_
 
-```
-
 Ditetapkan di : Pasuruan
 Pada tanggal : 13 Agustus 2023
-
-```
-
-```
 
 KONFERENSI BESAR
 IKATAN PELAJAR NAHDLATUL ULAMA
 Presidum Sidang Pleno
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 M. Ghulam Dhofir Mansur
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Aan Andri Ardiansyah
 Sekretaris
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Sulkifli
 Anggota
-
-```
 
 #### BAB I
 
 #### KETENTUAN UMUM
 
-```
-
 Pasal 1
-
-```
 
 Dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud dengan:
 
@@ -9802,18 +6431,10 @@ Dalam Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud deng
 33. Pedoman Kaderisasi adalah serangkaian pedoman teknis dan tata cara dalam
     melaksanakan proses dan fasilitas pelatihan kader.
 
-```
-
 BAB II
 MAKSUD DAN TUJUAN
 
-```
-
-```
-
 Pasal 2
-
-```
 
 Sistem kaderisasi dimaksudkan sebagai seperangkat aturan, pedoman, dan rujukan untuk
 merencanakan, mengorganisasikan, melaksanakan, dan mengevaluasi seluruh proses
@@ -9828,18 +6449,10 @@ Sistem kaderisasi bertujuan:
    kompetensi, komitmen, militan dan bertanggung jawab terhadap jalannya
    perkumpulan, baik dari sisi fikrah, amaliyah dan harakah.
 
-```
-
 BAB III
 RUANG LINGKUP
 
-```
-
-```
-
 Pasal 4
-
-```
 
 1. Sistem kaderisasi mencakup keseluruhan proses kaderisasi yang dimulai dari
    penerimaan dan atau rekrutmen, pendidikan, pelatihan, pendampingan, serta
@@ -9849,8 +6462,6 @@ Pasal 4
    b. Bentuk-bentuk kaderisasi;
    c. Kurikulum kaderisasi;
 
-```
-
 d. Pelaksana kaderisasi;
 e. Instruktur dan narasumber;
 f. Jenjang kaderisasi;
@@ -9858,13 +6469,7 @@ g. Materi Pendidikan-Pelatihan Kader;
 h. Monitoring, evaluasi dan pengembangan;
 i. Sertifikasi Kader.
 
-```
-
-```
-
 Pasal 5
-
-```
 
 Sasaran kaderisasi Ikatan Pelajar Nahdlatul Ulama ditujukan kepada:
 
@@ -9877,11 +6482,7 @@ Sasaran kaderisasi Ikatan Pelajar Nahdlatul Ulama ditujukan kepada:
 3. Anggota, kader, dan atau individu profesional, fungsional, atau potensial;
 4. Sasaran lain sesuai kebutuhan.
 
-```
-
 Pasal 6
-
-```
 
 Kaderisasi Ikatan Pelajar Nahdlatul Ulama, terdiri dari:
 
@@ -9893,18 +6494,10 @@ Kaderisasi Ikatan Pelajar Nahdlatul Ulama, terdiri dari:
 3. Kaderisasi informal, yaitu kaderisasi yang dilaksanakan secara insidental, tidak
    mengikat, dan sesuai dengan kebutuhan.
 
-```
-
 BAB IV
 FALSAFAH DAN PARADIGMA KADERISASI
 
-```
-
-```
-
 Pasal 7
-
-```
 
 Falsafah kaderisasi Ikatan Pelajar Nahdlatul Ulama:
 
@@ -9918,11 +6511,7 @@ Falsafah kaderisasi Ikatan Pelajar Nahdlatul Ulama:
 3. Merawat, mengembangkan, dan mewariskan nilai-nilai organisasi untuk menjamin
    keberlangsungan organisasi.
 
-```
-
 Pasal 8
-
-```
 
 1. Paradigma kaderisasi yang dikembangkan oleh IPNU adalah paradigma
    transformatif, yakni mengupayakan peningkatan profesionalisme dan kapasitas
@@ -9932,18 +6521,10 @@ Pasal 8
 2. Visi kaderisasi IPNU adalah melahirkan kader yang militan, bertanggung jawab, dan
    loyal terhadap organisasi baik dari aspek fikrah, amaliyah, dan harakah.
 
-```
-
 BAB V
 JENJANG
 
-```
-
-```
-
 Pasal 9
-
-```
 
 Kaderisasi formal Ikatan Pelajar Nahdlatul Ulama dilakukan melalui pendidikan-pelatihan
 secara berjenjang sebagai berikut:
@@ -9958,11 +6539,7 @@ secara berjenjang sebagai berikut:
 7. Latihan Instruktur Nasional (LATINNAS) sebagai kaderisasi khusus instruktur tingkat
    tinggi dan nasional.
 
-```
-
 Pasal 10
-
-```
 
 Adapun keterangan daripada kaderisasi nonformal sebagai berikut:
 
@@ -9983,11 +6560,7 @@ Adapun keterangan daripada kaderisasi nonformal sebagai berikut:
 4. Kaderisasi nonformal dapat dilaksanakan oleh setiap departemen lembaga dan
    badan di lingkungan IPNU.
 
-```
-
 Pasal 11
-
-```
 
 Kaderisasi informal dapat dilakukan melalui proses nonpelatihan secara insidental, tidak
 mengikat dan sesuai dengan kebutuhan. Contoh Kaderisasi informal yaitu:
@@ -10000,20 +6573,12 @@ mengikat dan sesuai dengan kebutuhan. Contoh Kaderisasi informal yaitu:
 
 #### PENYELENGARAAN
 
-```
-
 Pasal 12
-
-```
 
 Semua tingkat kepengurusan IPNU wajib menyelenggarakan kaderisasi dalam berbagai
 bentuk sebagaimana pasal (9—11) sesuai dengan tugas dan kewenangannya.
 
-```
-
 Pasal 13
-
-```
 
 Setiap tingkat kepengurusan IPNU wajib menyelenggarakan kaderisasi formal dengan
 ketentuan sebagai berikut:
@@ -10033,18 +6598,10 @@ ketentuan sebagai berikut:
    dilakukan oleh tingkat kepengurusan IPNU di atasnya baik secara kolektif (contoh:
    _LAKUT Korda A_ atau _LAKMUD Korcam A_ ) maupun nonkolektif.
 
-```
-
 BAB VII
 PESERTA
 
-```
-
-```
-
 Pasal 14
-
-```
 
 1. Peserta kaderisasi (pelatihan) adalah semua anggota, kader, calon pengurus dan
    atau pengurus Ikatan Pelajar Nahdlatul Ulama di semua tingkatan organisasi;
@@ -10052,28 +6609,16 @@ Pasal 14
    administratif lain yang harus dipenuhi oleh calon peserta dengan catatan tidak
    menyimpang dari Pedoman Kaderisasi.
 
-```
-
 BAB VIII
 INSTRUKTUR
 
-```
-
-```
-
 Pasal 15
-
-```
 
 Untuk mendukung penyelenggaraan program kaderisasi, tingkat kepengurusan IPNU
 diwajibkan membentuk Tim Instruktur Kaderisasi sesuai dengan Jenjang dan
 Kewenangannya.
 
-```
-
 Pasal 16
-
-```
 
 Tim Instruktur Kaderisasi terdiri dari:
 
@@ -10087,11 +6632,7 @@ Tim Instruktur Kaderisasi terdiri dari:
 4. Dalam keadaan tertentu, dapat dibentuk Tim Instruktur Anak Cabang dengan
    kebijakan PC (Pimpinan Cabang).
 
-```
-
 Pasal 17
-
-```
 
 Instruktur sebagaimana disebutkan dalam Pasal (16), terdiri dari:
 
@@ -10102,11 +6643,7 @@ Instruktur sebagaimana disebutkan dalam Pasal (16), terdiri dari:
    kerjanya tidak terikat dengan masa khidmat kepengurusan;
 4. Kode etik disusun oleh Tim Instruktur Kaderisasi.
 
-```
-
 Pasal 18
-
-```
 
 1. Tim Instruktur Nasional dibentuk dan disahkan oleh PP IPNU;
 2. Tim Instruktur Wilayah dibentuk dan disahkan oleh PW IPNU dan dilaporkan kepada
@@ -10116,11 +6653,7 @@ Pasal 18
 4. Dalam keadaan tertentu Tim Instruktur Anak Cabang dapat dibentuk dan disahkan
    oleh PC IPNU.
 
-```
-
 Pasal 19
-
-```
 
 Persyaratan untuk menjadi Instruktur:
 
@@ -10135,11 +6668,7 @@ Persyaratan untuk menjadi Instruktur:
 4. Instruktur LAKNAS dan LATINNAS adalah kader, pengurus, dan atau tokoh-tokoh
    yang mendapatkan tugas dan mandat khusus dari Tim Instruktur Nasional.
 
-```
-
 Pasal 20
-
-```
 
 1. Jika Tim Instruktur Kaderisasi pada suatu daerah belum terbentuk, maka tugas-
    tugasnya dilaksanakan oleh Tim Instruktur Kaderisasi pada tingkat di atasnya atau
@@ -10151,11 +6680,7 @@ Pasal 20
 
 #### PELAKSANA
 
-```
-
 Pasal 21
-
-```
 
 Kaderisasi formal Ikatan Pelajar Nahdlatul Ulama dilaksanakan dengan ketentuan sebagai
 berikut:
@@ -10173,11 +6698,7 @@ berikut:
 8. Semua pelaksaan kaderisasi di semua tingkatan wajib diberitahukan kepada
    Pimpinan organisasi setingkat di atasnya.
 
-```
-
 Pasal 22
-
-```
 
 Alur administrasi pengajuan pelaksanaan pengkaderan (pelatihan) adalah sebagai berikut:
 
@@ -10209,11 +6730,7 @@ Alur administrasi pengajuan pelaksanaan pengkaderan (pelatihan) adalah sebagai b
    c. Surat Permohonan Instruktur;
    d. _Term of Reference_ (TOR).
 
-```
-
 Pasal 23
-
-```
 
 1. Masa Orientasi Pelajar (MOP) dapat dilaksanakan di Sekolah atau Pesantren untuk
    mengenalkan IPNU kepada komunitas pelajar dan santri;
@@ -10232,18 +6749,10 @@ Pasal 23
    e. Tehnik Belajar yang Baik
    f. Pengenalan Lingkungan Sekolah
 
-```
-
 BAB X
 SERTIFIKASI PENGKADERAN
 
-```
-
-```
-
 Pasal 24
-
-```
 
 1. Sertifikasi kader dimaksudkan sebagai seperangkat aturan yang menjadi pedoman
    sertifikat bagi semua kader IPNU di semua tingkatan seluruh Indonesia dan Luar
@@ -10252,11 +6761,7 @@ Pasal 24
    Pimpinan Pusat nomor: 234/PPP/XIX/7354/XI/19 tentang Sertifikasi Pengkaderan
    Ikatan Pelajar Nahdlatul Ulama.
 
-```
-
 Pasal 25
-
-```
 
 Sertifikat kelulusan kaderisasi diatur sesuai ketentuan sebagai berikut:
 
@@ -10269,11 +6774,7 @@ Sertifikat kelulusan kaderisasi diatur sesuai ketentuan sebagai berikut:
    IPNU.
 7. Desain dan ketentuan teknis lain ditentukan oleh PP IPNU.
 
-```
-
 Pasal 26
-
-```
 
 Bentuk dan ukuran sertifikat pengkaderan memiliki ketentuan sebagai berikut:
 
@@ -10284,20 +6785,12 @@ Bentuk dan ukuran sertifikat pengkaderan memiliki ketentuan sebagai berikut:
    b. LAKMUD : Kop Hijau
    c. LAKUT : Kop Kuning
 
-```
-
 d. LATIN I : Kop Biru
 e. LATIN II : Kop Jingga
 f. LATINNAS : Kop Abu-abu Tua
 g. LAKNAS : Kop Abu-abu Tua
 
-```
-
-```
-
 Pasal 27
-
-```
 
 Komponen isi sertifikat pengkaderan memiliki ketentuan sebagai berikut:
 
@@ -10320,11 +6813,7 @@ Komponen isi sertifikat pengkaderan memiliki ketentuan sebagai berikut:
    d. Tanda tangan penerbit dan atau penyerta penerbit.
 4. Format detail sertifikat dijelaskan dalam Pedoman Kaderisasi.
 
-```
-
 Pasal 28
-
-```
 
 Nomor sertifikat memiliki ketentuan sebagai berikut:
 
@@ -10338,11 +6827,7 @@ Nomor sertifikat memiliki ketentuan sebagai berikut:
    e. Bulan penerbitan (angka romawi);
    f. Tahun penerbitan.
 
-```
-
 Pasal 29
-
-```
 
 1. Kode wilayah dan cabang sebagaimana Pasal (27) Ayat (2) Poin (b) ditentukan oleh
    PP IPNU;
@@ -10354,21 +6839,13 @@ Pasal 29
    d. LT1 untuk LATIN I;
    e. LT2 untuk LATIN II;
 
-```
-
 f. LTN untuk LATINNAS;
 g. LKN untuk LAKNAS;
-
-```
 
 3. Ketentuan Kode Wilayah dan Cabang mengikuti Peraturan Organisasi tentang
    Pengadaan KTA.
 
-```
-
 Pasal 30
-
-```
 
 Mekanisme penerbitan sertifikat pengkaderan adalah sebagai berikut:
 
@@ -10401,38 +6878,22 @@ Mekanisme penerbitan sertifikat pengkaderan adalah sebagai berikut:
    d. Rekapitulasi Nilai Peserta;
    e. Rekapitulasi Laporan RTL Peserta;
 
-```
-
 BAB XI
 KURIKULUM PENGKADERAN
 
-```
-
-```
-
 Pasal 31
-
-```
 
 Pengkaderan (pelatihan) sebagaimana dimaksud Pasal (9) dilaksanakan dengan
 menggabungkan beberapa pendekatan antara lain; andragogi, pedagogi, _full-partisipatory
 training_ , aspek kognitif, aspek afektif, aspek psikomotorik, serta spiritual, rihlah atau
 observasi sosial dengan penyesuaian jenjang pelatihan.
 
-```
-
 Pasal 32
-
-```
 
 1. Kurikulum kaderisasi disusun oleh PP IPNU;
 2. PP IPNU dapat menyempurnakan kurikulum sesuai kebutuhan.
 
-```
-
 Pasal 33
-
-```
 
 1. Materi pengkaderan (pelatihan) terdiri dari:
    a. Penguatan ideologi, visi dan misi organisasi;
@@ -10443,11 +6904,7 @@ Pasal 33
 2. Materi-materi sebagaimana ayat (1) disusun dalam silabus untuk setiap jenjang
    kaderisasi.
 
-```
-
 Pasal 34
-
-```
 
 1. Materi wajib MAKESTA adalah:
    a. Ahlussunnah wal Jamaah I;
@@ -10487,13 +6944,9 @@ Pasal 34
    d. Psikologi Pelatihan I;
    e. Metode dan Media Pelatihan I;
 
-```
-
 f. Manajemen dan Desain Pelatihan I;
 g. Bermain dan Belajar I;
 h. Metodologi Evaluasi Pelatihan I;
-
-```
 
 5. Materi wajib LATIN II adalah:
    a. Sistem Kaderisasi IPNU II;
@@ -10523,12 +6976,8 @@ h. Metodologi Evaluasi Pelatihan I;
 13. Ketentuan lainnya tentang pokok-pokok bahasan materi dan detail pelatihan pada
     setiap klasifikasi pendidikan-pelatihan diatur dalam Pedoman Kaderisasi.
 
-```
-
 BAB XII
 OUTPUT
-
-```
 
 Pasal 35
 Output kaderisasi adalah:
@@ -10542,11 +6991,7 @@ Output kaderisasi adalah:
 
 #### KETENTUAN PENUTUP
 
-```
-
 Pasal 36
-
-```
 
 1. Pedoman teknis penyelenggaraan kaderisasi selengkapnya diatur dalam Pedoman
    Kaderisasi yang merupakan bagian tak terpisahkan dari Sistem Kaderisasi IPNU.
@@ -10554,49 +6999,21 @@ Pasal 36
    oleh Pimpinan Pusat Ikatan Pelajar Nahdlatul Ulama;
 3. Peraturan organisasi ini berlaku sejak tanggal ditetapkan.
 
-```
-
 Ditetapkan di: Pasuruan
 Pada tanggal: 12 Agustus 2023
-
-```
 
 #### KONFERENSI BESAR
 
 #### IKATAN PELAJAR NAHDLATUL ULAMA
 
-```
-
 Pimpinan Sidang Komisi
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Iqbal Hamdan Habibi
 Ketua
 
-```
-
-```
-
 Ttd
-
-```
-
-```
 
 Zainal Muttaqin
 Sekretaris
-
-```
-
-```
-
-```
