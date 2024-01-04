@@ -96,10 +96,31 @@ Pasuruan,Jawa Timur
       - [Pasal 24 - WAKIL-WAKIL BENDAHARA](#pasal-24---wakil-wakil-bendahara)
       - [Pasal 25 - DEPARTEMEN, LEMBAGA DAN BADAN](#pasal-25---departemen-lembaga-dan-badan)
       - [Pasal 26 - KOORDINATOR DAERAH](#pasal-26---koordinator-daerah)
-    - [BAB V - KETENTUAN PENUTUP](#bab-v---ketentuan-penutup)
+    - [BAB VI - KETENTUAN PENUTUP](#bab-vi---ketentuan-penutup)
       - [Pasal 27 - PENUTUP](#pasal-27---penutup)
-
-<!-- tambah diatas sini -->
+  - [MEKANISME ORGANISASI](#mekanisme-organisasi)
+    - [Muqaddimah](#muqaddimah)
+    - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum)
+      - [Pasal 1 - PENGERTIAN](#pasal-1---pengertian)
+    - [BAB II - MAKSUD DAN TUJUAN](#bab-ii---maksud-dan-tujuan)
+      - [Pasal 2 - MAKSUD](#pasal-2---maksud)
+      - [Pasal 3 - TUJUAN](#pasal-3---tujuan)
+    - [BAB III - RUANG LINGKUP](#bab-iii---ruang-lingkup)
+      - [Pasal 4 - CAKUPAN](#pasal-4---cakupan)
+    - [BAB IV - PROSEDUR PEMBENTUKAN ORGANISASI](#bab-iv---prosedur-pembentukan-organisasi)
+      - [Pasal 5 - PEMBENTUKAN PIMPINAN WILAYAH](#pasal-5---pembentukan-pimpinan-wilayah)
+      - [Pasal 6 - PEMBENTUKAN PIMPINAN CABANG](#pasal-6---pembentukan-pimpinan-cabang)
+      - [Pasal 7 - PEMBENTUKAN PIMPINAN CABANG ISTIMEWA](#pasal-7---pembentukan-pimpinan-cabang-istimewa)
+      - [Pasal 8 - PEMBENTUKAN PIMPINAN ANAK CABANG](#pasal-8---pembentukan-pimpinan-anak-cabang)
+      - [Pasal 9 - PEMBENTUKAN PIMPINAN KOMISARIAT](#pasal-9---pembentukan-pimpinan-komisariat)
+      - [Pasal 10 - PEMBENTUKAN PIMPINAN RANTING](#pasal-10---pembentukan-pimpinan-ranting)
+      - [Pasal 11 - TENTANG MASA KHIDMAT](#pasal-11---tentang-masa-khidmat)
+    - [BAB V - TENTANG PENGANGKATAN PENGURUS](#bab-v---tentang-pengangkatan-pengurus)
+      - [Pasal 12 - SEBAB KEKOSONGAN PENGURUS](#pasal-12---sebab-kekosongan-pengurus)
+      - [Pasal 13 - DEMISIONERISASI RESMI](#pasal-13---demisionerisasi-resmi)
+      - [Pasal 14 - DEMISIONERISASI OTOMATIS](#pasal-14---demisionerisasi-otomatis)
+      - [Pasal 15 - PEMBEKUAN KEPENGURUSAN](#pasal-15---pembekuan-kepengurusan)
+      <!-- tambah diatas sini -->
 
 - [DAFTAR ISTILAH](#daftar-istilah)
 
@@ -447,6 +468,8 @@ Sekretaris - Munawar Cholil
 
 ## WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
 
+### Muqaddimah
+
 ```
 Nomor : 02 /Konbes/IPNU/VIII/2023
 
@@ -456,8 +479,6 @@ TENTANG
 WEWENANG, TUGAS POKOK DAN FUNGSI PENGURUS
 
 ```
-
-### Muqaddimah
 
 _Bismillahirrahmanirrahim_
 Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
@@ -889,7 +910,7 @@ Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Caban
 4. Pembagian wilayah dampingan bisa berdasarkan zona geografis yang disepakati dalam
    rapat harian.
 
-### BAB V - KETENTUAN PENUTUP
+### BAB VI - KETENTUAN PENUTUP
 
 #### Pasal 27 - PENUTUP
 
@@ -902,12 +923,223 @@ Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Caban
 Ketua - Aan Andri Andriansyah  
 Sekretaris - Munawar Cholil
 
+## MEKANISME ORGANISASI
+
+### Muqaddimah
+
+```
+Nomor : 03 /Konbes/IPNU/VIII/2023
+
+PENGESAHAN PERATURAN ORGANISASI
+IKATAN PELAJAR NAHDLATUL ULAMA
+TENTANG
+MEKANISME ORGANISASI
+```
+
+_Bismillahirrahmanirrahim_
+
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman
+Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+
+Menimbang :
+
+1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
+2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi, maka diperlukan Peraturan Organisasi tentang Tata Kerja Organisasi
+3. Bahwa untuk melaksanakan maksud tersebut, maka perlu ditetapkan Peraturan Organisasi tentang Tata Kerja Organisasi Ikatan Pelajar Nahdlatul Ulama;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU;
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+
+1. Hasil pembahasan sidang komisi dan masukan-masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+2. Sidang Pleno Konferensi Besar Ikatan Pelajar Nahdlatul Ulama.
+
+Dengan senantiasa memohon petunjuk Allah SWT,
+M E M U T U S K A N
+
+Menetapkan :
+
+1. Mengesahkan Peraturan Organisasi tentang Mekanisme Keorganisasian sebagai pedoman penyelenggaraan organisasi IPNU di semua tingkatan, sebagaimana terlampir;
+2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Komisariat, Pimpinan Ranting serta anggota IPNU untuk mentaati seluruh aturan dalam Peraturan Organisasi IPNU.
+3. Keputusan ini sejak tanggal ditetapkan.
+
+_Wallahul muwafiq ila aqwamith-tharieq_
+
+~ditetapkan di Pasuruan, 12 Agustus 2023~
+
+Ketua - M. GHULAM DHOFIR MANSUR
+Sekretaris - AAN ARDIANSYAH
+Anggota - SULKIFLI AZIZ
+
+### BAB I - KETENTUAN UMUM
+
+#### Pasal 1 - PENGERTIAN
+
+Dalam Peraturan Organisasi tentang Mekanisme Keorganisasian Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud dengan:
+
+1. Prosedur Pembentukan Organisasi adalah tahapan langkah yang harus ditempuh dalam proses pembentukan kepengurusan IPNU, baik di tingkat PW, PC, PCI, PAC, PK, PR maupun.
+2. <span id='restrukturisasi'>**_Restrukturisasi_**</span> adalah pembaruan kepengurusan setelah terjadinya kekosongan kepengurusan.
+3. <span id='kekosongan-jabatan'>**Kekosongan jabatan**</span> adalah kekosongan jabatan ketua umum/ketua atau kekosongan jabatan pengurus selain ketua umum/ketua.
+4. <span id='demisionerisasi-resmi'>**Demisionerisasi Resmi**</span> adalah berakhirnya suatu kepengurusan yang dinyatakan secara resmi di hadapan Kongres/Konferensi/Rapat Anggota.
+5. <span id='demisionerisasi-otomatis'>**Demisionerisasi Otomatis**</span> adalah berakhirnya suatu kepengurusan karena kepengurusan yang bersangkutan telah melewati masa khidmat yang ditetapkan sesuai dengan Surat Pengesahan (SP).
+6. <span id='pembekuan-kepengurusan'>**Pembekuan Kepengurusan**</span> adalah proses penghentian suatu kepengurusan oleh tingkat di atasnya karena sebab-sebab tertentu.
+7. <span id='caretaker'>**Caretaker**</span> adalah pelaksana kepengurusan sementara yang dibentuk untuk mengambil alih kepengurusan karena kepengurusan yang bersangkutan mengalami demisionerisasi otomatis, mengalami pembekuan atau karena pembatalan terhadap ketua hasil konferensi/rapat anggota.
+8. <span id='pemilihan-ulang'>**Pemilihan Ulang**</span> adalah pemilihan ulang ketua akibat terjadinya pembatalan ketua terpiih hasil Konferensi/Rapat Anggota.
+9. Pejabat Ketua Umum/Ketua, selanjutnya disebut <span id='pj'>**Pj.**</span> Ketua Umum/Ketua, adalah pengganti ketua umum/ketua yang ditunjuk melalui rapat pleno untuk mengisi kekosongan jabatan ketua umum/ketua, karena yang bersangkutan berhalangan tetap.
+10. Pejabat Sementara ketua umum/ketua, selanjutnya disebut <span id='pjs'>**Pjs.**</span> Ketua Umum/Ketua, adalah pengganti ketua umum/ketua untuk mengisi kekosongan jabatan ketua umum/ketua, karena yang bersangkutan berhalangan tidak tetap.
+11. <span id='rangkap-jabatan'>**Rangkap jabatan**</span> adalah merangkap dua atau lebih jabatan kepengurusan harian di lingkungan NU atau IPNU di daerah atau tingkat yang berbeda dan atau merangkap jabatan pada kepengurusan harian partai politik, organisasi _underbow_ dan atau jabatan politik lainnya.
+12. <span id='reshuffle'>**_Reshuffle_**</span> adalah penggantian pengurus di tengah berlangsungnya masa khidmat suatu kepengurusan.
+13. <span id='pelantikan'>**Pelantikan**</span> adalah upacara pengambilan ikrar jabatan yang menandai pengesahan suatu kepengurusan untuk menjalankan tugas organisasi.
+14. <span id='upgrading'>**Up-grading**</span> adalah pelatihan yang khusus ditujukan untuk meningkatkan kesiapan dan kemampuan pengurus untuk mengelola organisasi dan melaksanakan program.
+15. <span id='perencanaan-program'>**Perencanaan program**</span> adalah proses merumuskan dan menyusun program kerja, dengan memperhitungkan sumberdaya yang tersedia.
+16. <span id='strategic-planning'>**Strategic Planning**</span> , selanjutnya disebut SP, adalah sebuah metode untuk melakukan perencanaan program strategis dengan mendasarkan pada visi, masalah maupun peluang yang ada.
+17. <span id='uji-kelayakan'>**Uji Kelayakan**</span> Konferensi atau Rapat Anggota adalah mekanisme yang harus ditempuh oleh PW, PCI, PC, PAC, PR, dan PK sebelum menyelenggarakan Konferensi atau Rapat Anggota.
+
+### BAB II - MAKSUD DAN TUJUAN
+
+#### Pasal 2 - MAKSUD
+
+Peraturan Organisasi tentang Mekanisme Keorganisasian ini dimaksudkan sebagai pedoman penyelenggaraan organisasi IPNU di semua tingkat kepengurusan dan berlaku secara
+nasional.
+
+#### Pasal 3 - TUJUAN
+
+Peraturan Organisasi tentang Mekanisme Keorganisasian ini sebagaimana dimaksud dalam Pasal 2 bertujuan untuk:
+
+- Mendukung kinerja organisasi secara umum;
+- Menjamin penyelenggaraan organisasi yang teratur dan manajebel;
+- Mengoptimalkan potensi organisasi.
+
+### BAB III - RUANG LINGKUP
+
+#### Pasal 4 - CAKUPAN
+
+Peraturan Organisasi tentang Mekanisme Keorganisasian ini mencakup beberapa aspek dalam penyelenggaraan organisasi yang meliputi;
+
+- Prosedur pembentukan organisasi
+- Restrukturisasi Kepengurusan
+- Mekanisme Kekosongan Jabatan
+- Pelantikan dan Pembekalan Pengurus
+- Perencanaan Program Kerja
+
+### BAB IV - PROSEDUR PEMBENTUKAN ORGANISASI
+
+#### Pasal 5 - PEMBENTUKAN PIMPINAN WILAYAH
+
+1. Di setiap provinsi dapat dibentuk Pimpinan Wilayah.
+2. Permintaan untuk mendirikan Pimpinan Wilayah disampaikan kepada Pimpinan Pusat dengan disertai keterangan tentang daerah yang bersangkutan dan jumlah cabang yang ada di daerah yang bersangkutan.
+3. Pimpinan Pusat memberikan mandat kepada Pengurus Wilayah NU setempat untuk membentuk kepengurusan Pimpinan Wilayah IPNU.
+4. Dalam keadaan khusus Pimpinan Pusat Ikatan Pelajar Nahdlatul Ulama (PP IPNU) dapat memberikan mandat kepada Pengurus PP IPNU untuk membentuk PW IPNU setempat.
+5. Keadaan khusus seperti yang dimaksud pada ayat (4) adalah sebagai berikut:
+
+   - Pengurus Wilayah NU belum terbentuk akibat pemekaran;
+   - Pengurus Wilayah NU dalam keadaan vakum;
+   - Pengurus Wilayah NU kehilangan hak dan kewenangannya sebagai pengurus NUakibat kadaluarsa atau hal lain sesuai dengan dengan peraturan yang berlaku di NU.
+
+6. Pengurus Wilayah NU, Pengurus Pimpinan Pusat yang mendapat mandat melaporkan pembentukan PW dan memberikan rekomendasi kepada PP IPNU untuk menerbitkan Surat Pengesahan tentang kepengurusan PW IPNU yang bersangkutan.
+7. Setelah mempelajari susunan kepengurusan PW yang bersangkutan, Pimpinan Pusat berkewajiban mengesahkan kepengurusan PW dengan menerbitkan Surat Pengesahan.
+
+#### Pasal 6 - PEMBENTUKAN PIMPINAN CABANG
+
+1. Di setiap kabupaten/kotamadya/kota administratif dapat dibentuk Pimpinan Cabang.
+2. Permintaan untuk mendirikan Pimpinan Cabang disampaikan kepada Pimpinan Pusat dengan disertai keterangan tentang daerah yang bersangkutan dan jumlah anak cabang yang ada di daerah yang bersangkutan.
+3. Pimpinan Pusat memberikan mandat kepada Pimpinan Wilayah IPNU untuk membentuk kepengurusan Pimpinan Cabang IPNU.
+4. Apabila Pimpinan Wilayah IPNU di propinsi yang bersangkutan belum terbentuk, maka pembentukan Pimpinan Cabang bisa dilakukan oleh Pengurus Cabang NU setempat.
+5. Apabila Pimpinan Wilayah IPNU dan Pengurus Cabang NU setempat belum terbentuk atau vakum atau kehilangan hak dan kewenangannya sebagai pengurus sebagaimana yang diatur dalam peraturan IPNU/NU, maka pembentukan Pimpinan Cabang IPNU bisa dilakukan oleh Pengurus Pimpinan Pusat yang mendapat mandat dari PP. IPNU.
+6. Pimpinan Wilayah IPNU atau Pengurus Cabang NU atau Pengurus Pimpinan Pusat yang mendapat mandat melaporkan pembentukan PC. dan memberikan rekomendasi kepada PP. IPNU untuk menerbitkan Surat Pengesahan tentang Kepengurusan PC. IPNU yang bersangkutan.
+7. Setelah mempelajari susunan kepengurusan PC. yang bersangkutan, Pimpinan Pusat berkewajiban mengesahkan kepengurusan PC. dengan menerbitkan Surat Pengesahan.
+
+#### Pasal 7 - PEMBENTUKAN PIMPINAN CABANG ISTIMEWA
+
+1. Di setiap negara dapat dibentuk Pimpinan Cabang Istimewa.
+2. Permintaan untuk mendirikan Pimpinan Cabang Istimewa disampaikan kepada Pimpinan Pusat dengan disertai keterangan tentang jumlah anggota di negara yang bersangkutan.
+3. Pimpinan Pusat memberikan mandat kepada Pengurus Cabang Istimewa NU setempat untuk membentuk kepengurusan Pimpinan Cabang Istimewa IPNU.
+4. Pengurus Cabang Istimewa NU melaporkan pembentukan PCI. IPNU dan memberikan rekomendasi kepada PP. IPNU untuk menerbitkan Surat Pengesahan tentang kepengurusan PCI. IPNU yang bersangkutan.
+5. Setelah mempelajari susunan kepengurusan PCI. yang bersangkutan, Pimpinan Pusat berkewajiban mengesahkan kepengurusan PCI. dengan menerbitkan Surat Pengesahan.
+
+#### Pasal 8 - PEMBENTUKAN PIMPINAN ANAK CABANG
+
+1. Di setiap kecamatan dapat dibentuk Pimpinan Anak Cabang.
+2. Permintaan untuk mendirikan Pimpinan Anak Cabang disampaikan kepada Pimpinan Cabang dengan disertai keterangan tentang daerah yang bersangkutan dan jumlah ranting/komisariat yang ada di daerah yang bersangkutan.
+3. Pimpinan Cabang memberikan mandat kepada Pengurus Majelis Wakil Cabang NU setempat untuk membentuk kepengurusan Pimpinan Anak Cabang IPNU.
+4. Apabila Pengurus Majelis Wakil Cabang NU belum terbentuk atau vakum atau kehilangan hak dan kewenangannya sebagai pengurus NU sebagaimana yang diatur dalam peraturan NU, maka pembentukan Pimpinan Anak Cabang IPNU bisa dilakukan oleh Pengurus Pimpinan Cabang yang mendapat mandat dari PC. IPNU.
+5. Pengurus Majelis Wakil Cabang NU atau Pengurus PC. IPNU yang mendapat mandat melaporkan pembentukan PAC. dan memberikan rekomendasi kepada PC IPNU untuk menerbitkan Surat Pengesahan tentang kepengurusan PAC. IPNU yang bersangkutan.
+6. Setelah mempelajari susunan kepengurusan PAC. yang bersangkutan, Pimpinan Cabang berkewajiban mengesahkan kepengurusan PAC. dengan menerbitkan Surat Pengesahan.
+
+#### Pasal 9 - PEMBENTUKAN PIMPINAN KOMISARIAT
+
+1. Setiap lembaga Pendidikan Perguruan Tinggi, Sekolah, Madrasah atau Pondok Pesantren dapat dibentuk Pimpinan Komisariat.
+2. Permintaan untuk mendirikan Pimpinan Komisariat disampaikan kepada Pimpinan Cabang dengan disertai keterangan tentang lembaga pendidikan yang bersangkutan dan jumlah anggota yang ada di lembaga yang bersangkutan.
+3. Pimpinan Cabang memberikan mandat kepada :
+   - Departemen organisasi Pimpinan Cabang untuk membentuk kepengurusan Pimpinan Komisariat IPNU di Perguruan Tinggi,
+   - Pimpinan Anak Cabang untuk membentuk kepengurusan Pimpinan Komisariat IPNU di Madrasah dan Pondok Pesantren.
+4. Apabila Pimpinan Anak Cabang IPNU di kecamatan yang bersangkutan belum terbentuk, maka pembentukan Pimpinan Komisariat bisa dilakukan oleh pimpinan lembaga pendidikan yang bersangkutan, terutama jika lembaga pendidikan dimaksud berada di bawah naungan Lembaga Pendidikan Ma arif NU, RMI atau lembaga-lembaga NU lainnya.
+5. Departemen Organisasi Pimpinan Cabang IPNU dan Pimpinan Anak Cabang IPNU dan/atau pimpinan lembaga yang bersangkutan melaporkan pembentukan PK dan memberikan rekomendasi kepada PC IPNU untuk menerbitkan Surat Pengesahan tentang kepengurusan PK IPNU yang bersangkutan.
+6. Setelah mempelajari susunan kepengurusan PK yang bersangkutan, Pimpinan Cabang berkewajiban mengesahkan kepengurusan PK dengan menerbitkan Surat Pengesahan.
+
+#### Pasal 10 - PEMBENTUKAN PIMPINAN RANTING
+
+1. Setiap desa/kelurahan dapat dibentuk Pimpinan Ranting.
+2. Permintaan untuk mendirikan Pimpinan Ranting disampaikan kepada Pimpinan Cabang dengan disertai keterangan tentang daerah yang bersangkutan dan jumlah anggota yang ada di daerah yang bersangkutan.
+3. Pimpinan Cabang memberikan mandat kepada Pimpinan Anak Cabang untuk membentuk kepengurusan Pimpinan Ranting IPNU.
+4. Apabila Pimpinan Anak Cabang IPNU di kecamatan yang bersangkutan belum terbentuk, maka pembentukan Pimpinan Ranting bisa dilakukan oleh Pengurus Ranting NU setempat.
+5. Apabila Pimpinan Anak Cabang IPNU dan Pengurus Ranting NU setempat belum terbentuk atau vakum atau kehilangan hak dan kewenangannya sebagai pengurus NU sebagaimana yang diatur dalam peraturan NU, maka pembentukan Pimpinan Ranting IPNU bisa dilakukan oleh Pengurus Pimpinan Cabang IPNU yang mendapat mandat dari PC. IPNU.
+6. Pimpinan Anak Cabang IPNU atau Pengurus Ranting NU atau Pengurus Pimpinan Cabang IPNU yang mendapat mandat melaporkan pembentukan PR. Dan
+7. memberikan rekomendasi kepada PC. IPNU untuk menerbitkan Surat Pengesahan tentang Kepengurusan PR. IPNU yang bersangkutan.
+8. Setelah mempelajari susunan kepengurusan PR. yang bersangkutan, Pimpinan Cabang berkewajiban mengesahkan kepengurusan PR. dengan menerbitkan Surat Pengesahan
+
+#### Pasal 11 - TENTANG MASA KHIDMAT
+
+1. Pengurus yang menduduki jabatan di semua tingkat kepengurusan tidak diperbolehkan menduduki lebih dari 2 (dua) masa khidmah berturut turut pada tingkat kepengurusan yang sama;
+2. Dalam keadaan kusus apabila yang bersangkutan terpilih menjadi ketua umum / ketua pada masa khidmah yang ke 3 (tiga) maka hal tersebut di perbolehkan.
+3. Ketua umum / ketua yang di pilih pada Kongres/ Kongres luar biasa, konferensi/konferensi luar biasa dan rapat anggota/ rapat anggota luar biasa tidak dapat di pilih kembali pada masa khidmah selanjutnya pada tingkat kepengurusan yang sama.
+4. Keadaan khusus sebagaimana ayat (1 dan 2) yaitu apabila dalam semua tingkat kepengurusan ada kekosongan jabatan dan atau kebutuhan yang mendesak, maka dapat menjabat kembali disertai persetujuan pengurus NU pada tingkatan yang bersangkutan, dengan tetap mengacu pada PD-PRT dan atau peraturan organisasi yang berlaku.
+
+### BAB V - RESTRUKTURISASI KEPENGURUSAN
+
+#### Pasal 12 - SEBAB KEKOSONGAN PENGURUS
+
+Kekosongan kepengurusan terjadi karena sebab-sebab berikut:
+
+- Demisionerisasi resmi;
+- Demisionerisasi otomatis;
+- Pembekuan kepengurusan.
+
+#### Pasal 13 - DEMISIONERISASI RESMI
+
+1. Setiap kepengurusan pada dasarnya mengalami demisionerisasi resmi;
+2. Demisionerisasi sebagaimana ayat (1) dinyatakan secara resmi di hadapan Kongres/konferensi/rapat anggota oleh ketua di dampingi oleh semua pengurus yang bersangkutan;
+3. Restrukturisasi kepengurusan akibat demisionerisasi resmi ditempuh melalui prosesdur umum berupa Kongres, konferensi maupun rapat anggota.
+
+#### Pasal 14 - DEMISIONERISASI OTOMATIS
+
+1. Kepengurusan yang telah melewati 3 (tiga) bulan dari masa khidmat yang telah ditetapkan sesuai dengan surat pengesahan (SP), secara otomatis mengalami demisionerisasi.
+2. Waktu berakhirnya masa khidmat sebagaimana ayat (1) merujuk pada masa berlaku Surat Pengesahan.
+3. Tenggang waktu 3 (tiga) bulan seperti yang dimaksud dalam ayat (1), sebelum demisionerisasi otomatis, pengurus hanya bertugas untuk melaksanakan Kongres/konferensi/rapat anggota dan tidak dapat melakukan diluar itu.
+4. Kepengurusan yang telah mengalami demisionerisasi otomatis secara otomatis kehilangan hak dan kewenangannya sebagai pengurus.
+5. Restrukturisasi kepengurusan karena demisionerisasi otomatis ditempuh dengan mekanisme Caretaker, setelah dilakukan tahapan peringatan oleh tingkat yang mengesahkan kepengurusan yang bersangkutan.
+
+#### Pasal 15 - PEMBEKUAN KEPENGURUSAN
+
+1. Kepengurusan pada tingkat PW, PC, PCI, PAC, PK, dan PR dapat dibekukan karena sebab-sebab tertentu.
+2. Sebab pembekuan sebagaimana di maksud pada ayat (1) antara lain adanya pelanggaran terhadap PD-PRT, pembangkangan terhadap keputusan organisasi, dan/atau adanya perilaku organisasi yang bertentangan dengan akhlaq nahdliyah.
+3. Sebab pembekuan sebagaimana dimaksud pada ayat (1) apabila dalam satu masa khidmat tidak melaksanakan kegiatan kaderisasi (formal).
+4. Pembekuan dilakukan melalui Surat Keputusan Pembekuan atau Surat Keputusan Pencabutan oleh tingkat kepengurusan yang menerbitkan pengesahan kepengurusan yang bersangkutan setelah dilakukan investigasi dan peringatan.
+5. Untuk mengatasi kekosongan kepengurusan akibat pembekuan, maka diberlakukan mekanisme _Caretaker_.
+
 <!-- nanti isikan hal baru diatas sini -->
 
 ## DAFTAR ISTILAH
 
-|                 |                   |                     |                 |                   |
-| :-------------: | :---------------: | :-----------------: | :-------------: | :---------------: |
-|    [PP](#pp)    |     [PW](#pw)     |      [PC](#pc)      |   [PCI](#pci)   |    [PAC](#pac)    |
-|    [PK](#pk)    |     [PR](#pr)     |  [Korwil](#korwil)  | [Korda](#korda) | [LAKNAS](#laknas) |
-| [LAKUT](#lakut) | [LAKMUD](#lakmud) | [MAKESTA](#makesta) |
+|                                     |                                           |                                                 |                                                       |                                                   |
+| :---------------------------------: | :---------------------------------------: | :---------------------------------------------: | :---------------------------------------------------: | :-----------------------------------------------: |
+|              [PP](#pp)              |                 [PW](#pw)                 |                    [PC](#pc)                    |                      [PCI](#pci)                      |                    [PAC](#pac)                    |
+|              [PK](#pk)              |                 [PR](#pr)                 |                [Korwil](#korwil)                |                    [Korda](#korda)                    |                 [LAKNAS](#laknas)                 |
+|           [LAKUT](#lakut)           |             [LAKMUD](#lakmud)             |               [MAKESTA](#makesta)               |
+| [Restrukturisasi](#restrukturisasi) | [Kekosongan Jabatan](#kekosongan-jabatan) | [Demisionerisasi Resmi](#demisionerisasi-resmi) | [Demisionerisasi Otomatis](#demisionerisasi-otomatis) | [Pembekuan Kepengurusan](#pembekuan-kepengurusan) |
+|       [Caretaker](#caretaker)       |    [Pemilihan Ulang](#pemilihan-ulang)    |                   [Pj.](#pj)                    |                      [Pjs](#pjs)                      |        [Rangkap Jabatan](#rangkap-jabatan)        |
+|       [Reshuffle](#reshuffle)       |         [Pelantikan](#pelantikan)         |            [Pembekalan](#pembekalan)            |      [Perencanaan Program](#perencanaan-program)      |     [Strategic Planning](#strategic-planning)     |
+|   [Uji Kelayakan](#uji-kelayakan)   |
