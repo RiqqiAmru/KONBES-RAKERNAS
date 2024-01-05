@@ -99,6 +99,7 @@ Pasuruan,Jawa Timur
     - [BAB VI - KETENTUAN PENUTUP](#bab-vi---ketentuan-penutup)
       - [Pasal 27 - PENUTUP](#pasal-27---penutup)
   - [MEKANISME ORGANISASI](#mekanisme-organisasi)
+
     - [Muqaddimah](#muqaddimah)
     - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum)
       - [Pasal 1 - PENGERTIAN](#pasal-1---pengertian)
@@ -120,6 +121,28 @@ Pasuruan,Jawa Timur
       - [Pasal 13 - DEMISIONERISASI RESMI](#pasal-13---demisionerisasi-resmi)
       - [Pasal 14 - DEMISIONERISASI OTOMATIS](#pasal-14---demisionerisasi-otomatis)
       - [Pasal 15 - PEMBEKUAN KEPENGURUSAN](#pasal-15---pembekuan-kepengurusan)
+      - [Pasal 16 - _CARETAKER_](#pasal-16---caretaker)
+      - [Pasal 17 - PEMBATALAN HASIL KONFERENSI/RAPAT ANGGOTA](#pasal-17---pembatalan-hasil-konferensirapat-anggota)
+      - [Pasal 18 - PEMILIHAN ULANG](#pasal-18---pemilihan-ulang)
+      - [Pasal 19 - MUTASI ANGGOTA](#pasal-19---mutasi-anggota)
+    - [BAB VI - MEKANISME PENGISIAN KEKOSONGAN JABATAN](#bab-vi---mekanisme-pengisian-kekosongan-jabatan)
+      - [Pasal 20 - KEKOSONGAN JABATAN KETUA UMUM/KETUA](#pasal-20---kekosongan-jabatan-ketua-umumketua)
+      - [Pasal 21 - PEJABAT KETUA UMUM/KETUA](#pasal-21---pejabat-ketua-umumketua)
+      - [Pasal 22 - PEJABAT SEMENTARA KETUA UMUM/KETUA](#pasal-22---pejabat-sementara-ketua-umumketua)
+      - [Pasal 23 - KEKOSONGAN JABATAN PENGURUS NON-KETUA UMUM/KETUA](#pasal-23---kekosongan-jabatan-pengurus-non-ketua-umumketua)
+      - [Pasal 24 - RANGKAP JABATAN](#pasal-24---rangkap-jabatan)
+      - [Pasal 25 - RESHUFFLE](#pasal-25---reshuffle)
+    - [BAB VII - PELANTIKAN DAN PEMBEKALAN PENGURUS](#bab-vii---pelantikan-dan-pembekalan-pengurus)
+
+      - [Pasal 26 - PELANTIKAN PENGURUS](#pasal-26---pelantikan-pengurus)
+      - [Pasal 27 - TATA CARA PELANTIKAN](#pasal-27---tata-cara-pelantikan)
+      - [Pasal 28 - PENYELENGGARA DAN PESERTA PELANTIKAN](#pasal-28---penyelenggara-dan-peserta-pelantikan)
+      - [Pasal 29 - PENYELENGGARAAN PELANTIKAN](#pasal-29---penyelenggaraan-pelantikan)
+      - [Pasal 30 - MANUAL ACARA PELANTIKAN](#pasal-30---manual-acara-pelantikan)
+      - [Pasal 31 - LAGU KEBANGSAAN DAN MARS IPNU](#pasal-31---lagu-kebangsaan-dan-mars-ipnu)
+      - [Pasal 32 - ACARA INTI PELANTIKAN](#pasal-32---acara-inti-pelantikan)
+      - [Pasal 33 - PROSESI SERAH TERIMA JABATAN, PIDATO SAMBUTAN DAN PEMBACAAN DOA](#pasal-33---prosesi-serah-terima-jabatan-pidato-sambutan-dan-pembacaan-doa)
+
       <!-- tambah diatas sini -->
 
 - [DAFTAR ISTILAH](#daftar-istilah)
@@ -1129,6 +1152,168 @@ Kekosongan kepengurusan terjadi karena sebab-sebab berikut:
 3. Sebab pembekuan sebagaimana dimaksud pada ayat (1) apabila dalam satu masa khidmat tidak melaksanakan kegiatan kaderisasi (formal).
 4. Pembekuan dilakukan melalui Surat Keputusan Pembekuan atau Surat Keputusan Pencabutan oleh tingkat kepengurusan yang menerbitkan pengesahan kepengurusan yang bersangkutan setelah dilakukan investigasi dan peringatan.
 5. Untuk mengatasi kekosongan kepengurusan akibat pembekuan, maka diberlakukan mekanisme _Caretaker_.
+
+#### Pasal 16 - _CARETAKER_
+
+1. Pengurus _Caretaker_ adalah tingkat kepengurusan di atas tingkat yang bersangkutan, yaitu:
+   - _Caretaker_ Pimpinan Wilayah adalah Pimpinan Pusat;
+   - _Caretaker Pimpinan Cabang, Pimpinan Cabang Istimewa adalah Pimpinan Pusat dan Pimpinan Wilayah;_
+   - _Caretaker Pimpinan Anak Cabang dan Pimpinan Komisariat ditingkat perguruan tinggi adalah Pimpinan Cabang;_
+   - _Caretaker Pimpinan Komisariat ditingkat madrasah, sekolah dan pondok pesantren/Pimpinan Ranting_ adalah Pimpinan Cabang dan Pimpinan Anak Cabang.
+2. Struktur Caretaker sebagaimana ayat (1) terdiri dari ketua, Sekretaris, bendahara, dan 2 (dua) orang anggota.
+3. Tugas Caretaker adalah melakukan konsolidasi internal dan menyelenggarakan Konferensi/Rapat Anggota.
+4. Masa tugas Caretaker adalah sampai terpilihnya ketua baru dan tim formatur dengan batas waktu maksimal 3 bulan sejak terbentuknya _Caretaker._
+
+#### Pasal 17 - PEMBATALAN HASIL KONFERENSI/RAPAT ANGGOTA
+
+1. Ketua terpilih hasil Konferensi/Rapat Anggota bisa dibatalkan karena sebab-sebab tertentu.
+2. Sebab pembatalan sebagaimana dimaksud ayat (1) antara lain adanya pelanggaran terhadap PD-PRT, pemalsuan dokumen, kebohongan publik, dan/atau perilaku- perilaku amoral lain dalam proses pemilihannya.
+3. Pembatalan dilakukan oleh tingkat pengurus yang mengeluarkan Surat Pengesahan setelah dilakukan investigasi dan verifikasi berdasarkan laporan.
+4. Untuk mengatasi kekosongan kepengurusan akibat pembatalan tersebut, maka diberlakukan mekanisme _Caretaker_ untuk menyelenggarakan pemilihan ulang ketua.
+
+#### Pasal 18 - PEMILIHAN ULANG
+
+1. Pemilihan ulang dilakukan untuk memilih ketua akibat terjadi pembatalan ketua hasil pemilihan pada Konferensi/Rapat Anggota sebagaimana dimaksud pada Pasal 17.
+2. Pemilihan ulang dilakukan dalam sebuah forum yang diselenggarakan untuk itu, sebagai kelanjutan dari Konferensi/Rapat Anggota.
+3. Pemilihan ulang diselenggarakan oleh pengurus Caretaker dan diikuti oleh peserta Konferensi/Rapat Anggota yang dilaksanakan sebelumnya.
+4. Forum pemilihan ulang juga berwewenang untuk memilih tim formatur.
+5. Tingkat keabsahan ketua dan tim formatur hasil pemilihan ulang sama dengan hasil permusyawaratan Konferensi/rapat anggota.
+
+#### Pasal 19 - MUTASI ANGGOTA
+
+Mutasi anggota adalah perpindahan status keanggotaan dari PW, PCI, PC, PAC, PR, dan PK ke
+pimpinan lain.
+
+1. Dalam keadaan tertentu seorang anggota IPNU dapat memindahkan status keanggotaannya dari satu pimpinan ke pimpinan lain atas persetujuan pimpinan asal
+2. Untuk memperoleh persetujuan dari pimpinan asal maka seorang anggota harus mengajukan permohonan mutasi secara tertulis untuk selanjutnya diberikan surat keterangan
+3. Mutasi anggota hanya dapat dilakukan jika yang bersangkutan pindah studi dan/atau pindah domisili.
+
+### BAB VI - MEKANISME PENGISIAN KEKOSONGAN JABATAN
+
+#### Pasal 20 - KEKOSONGAN JABATAN KETUA UMUM/KETUA
+
+1. Kekosongan jabatan ketua umum (untuk PP) atau ketua (untuk PW, PC, PCI, PAC, PK/PR) hasil Kongres/Konferensi Luar Biasa/Konferensi/Konferensi Luar Biasa/ Rapat Anggota/Rapat Anggota Luar Biasa, terjadi karena yang bersangkutan berhalangan tetap atau berhalangan tidak tetap.
+2. Berhalangan tetap terjadi karena yang bersangkutan meninggal dunia, mengundurkan diri secara suka rela dan beralasan, atau diberhentikan secara tetap karena melanggar PD-PRT dan/atau peraturan organisasi lainnnya, atau didesak untuk mundur oleh separoh lebih satu dari pimpinan setingkat di bawahnya karena yang bersangkutan tidak melaksanakan tugasnya.
+3. Berhalangan tidak tetap terjadi karena sakit tidak permanen, menunaikan ibadah haji, menjalankan tugas belajar atau tugas lainnya ke luar negeri atau luar daerah kerjanya, atau permintaan ijin cuti karena sesuatu hal yang dikabulkan.
+
+#### Pasal 21 - PEJABAT KETUA UMUM/KETUA
+
+1. Pengisian kekosongan jabatan ketua umum/ketua sebagaimana Pasal 21 ayat (2) karena berhalangan tetap, maka mekanismenya dengan penunjukkan Pejabat Ketua Umum/Ketua (Pj. Ketua Umum/Ketua) oleh rapat pleno.
+1. Setiap selesai penunjukkan Pj.Ketua Umum/Ketua, diharuskan mengajukan permohonan pengesahan kembali guna mendapatkan legalisasi.
+1. Pj. Ketua Umum/Ketua bertugas melanjutkan kepemimpinan organisasi sampai berakhirnya masa khidmat kepengurusan tersebut.
+1. Pj. Ketua Umum/Ketua mempertanggungjawabkan kepemimpinannya di hadapan Kongres/Konferensi/Rapat Anggota.
+
+#### Pasal 22 - PEJABAT SEMENTARA KETUA UMUM/KETUA
+
+1. Pengisian kekosongan jabatan ketua umum/ketua sebagaimana Pasal 21 ayat (3) karena berhalangan tidak tetap, maka mekanismenya penunjukan Pejabat Sementara Ketua Umum/Ketua (Pjs. Ketua Umum/Ketua).
+2. Penunjukkan Pjs. Ketua Umum/Ketua sebagaimana ayat (1) dilakukan dengan melimpahan tugas dan wewenang oleh Ketua Umum/Ketua kepada Wakil Ketua Umum/Ketua/Wakil Ketua.
+3. Pjs. Ketua Umum/ Ketua bertugas menjalankan kepemimpinan organisasi sampai berakhirnya halangan tidak tetap dan/atau dicabutnya pelimpahan wewenang.
+4. Penanggung jawab organisasi secara umum tetap berada pada Ketua Umum/Ketua hasil Kongres/Konferensi/Rapat Anggota.
+
+#### Pasal 23 - KEKOSONGAN JABATAN PENGURUS NON-KETUA UMUM/KETUA
+
+1. Kekosongan jabatan pengurus non-Ketua Umum/Ketua terjadi karena pengurus yang bersangkutan meninggal dunia, mengundurkan diri secara suka rela dan beralasan, atau diberhentikan secara tetap karena melanggar PD-PRT dan/atau peraturan organisasi lainnnya.
+2. Kekosongan jabatan sebagai mana di maksud pada ayat (1) tidak terjadi karena yang bersangkutan berhalangan tidak tetap.
+3. Pengisian kekosongan jabatan pengurus dilakukan dengan mekanisme _reshuffle_.
+
+#### Pasal 24 - RANGKAP JABATAN
+
+Rangkap Jabatan yang dimaksud yaitu merangkap dua atau lebih jabatan pada:
+
+- Pengurus Harian dilingkungan Nahdlatul Ulama selevel kepengurusan;
+- Pengurus Harian IPNU didaerah atau tingkat yang berbeda;
+- Rangkap jabatan seperti yang dimaksud pada poin (a) diharuskan memilih salah satu jabatan dalam kurun waktu selambat-lambatnya 1 (satu) bulan;
+- Apabila pemberlakuan poin (c) tidak tercapai, maka jabatannya gugur secara otomatis;
+- Rangkap jabatan seperti yang dimaksud pada poin (b), diharuskan memilih salah satu jabatan dalam kurun waktu selambat-lambatnya 1 (satu) bulan;
+- Apabila pemberlakuan poin (e) tidak tercapai, maka jabatan dibawahnya gugur secara otomatis.
+
+#### Pasal 25 - RESHUFFLE
+
+1. _Reshuffle_ pengurus di laksanakan bila terjadi hal-hal sebagai berikut:
+   - pengurus yang bersangkutan rangkap jabatan;
+   - pengurus yang bersangkutan tidak aktif selama 6 bulan;
+   - pengurus yang bersangkutan tidak menjalankan amanat organisasi yang menjadi tugas dan kewajibannya;
+   - pengurus yang bersangkutan melanggar PD/PRT dan/atau peraturan dan ketentuan organisasi lainnya;
+   - terjadi kekosongan jabatan.
+2. Reshuffle pengurus dilaksanakan melalui rapat harian dan/atau pleno, pada masing-masing tingkat kepengurusan.
+3. Setiap selesai reshuffle, kepengurusan yang bersangkutan diharuskan mengajukan permohonan pengesahan kembali guna mendapatkan legalisasi atas susunan pengurus hasil _reshuffle._
+4. _Masa khidmat kepengurusan hasil reshuffle meneruskan masa khidmat kepengurusan_ yang bersangkutan.
+
+### BAB VII - PELANTIKAN DAN PEMBEKALAN PENGURUS
+
+#### Pasal 26 - PELANTIKAN PENGURUS
+
+Pelantikan pengurus IPNU dilakukan dengan mekanisme sebagai berikut:
+
+- Pelantikan Pimpinan Pusat dilakukan oleh Pengurus Besar Nahdlatul Ulama;
+- Pelantikan Pimpinan Wilayah dilakukan oleh Pimpinan Pusat;
+- Pelantikan Pimpinan Cabang dilakukan oleh Pimpinan Pusat atau Pimpinan Wilayah atas nama Pimpinan Pusat;
+- Pelantikan Pimpinan Cabang Istimewa dilakukan oleh Pimpinan Pusat;
+- Pelantikan Pimpinan Anak Cabang dilakukan oleh Pimpinan Cabang;
+- Pelantikan Pimpinan Komisariat dilembaga Perguruan Tinggi dilakukan oleh Pimpinan Cabang;
+- Pelantikan Pimpinan Komisariat Sekolah/Pesantren dilakukan oleh Pimpinan Cabang
+  atau Pimpinan Anak Cabang atas nama pimpinan Cabang;
+- Pelantikan Pimpinan Ranting dilakukan oleh Pimpinan Cabang atau Pimpinan Anak Cabang atas nama Pimpinan Cabang;
+- Jika pimpinan IPNU masing-masing tingkat organisasi yang berwenang atas prosedur pelantikan berhalangan, maka seluruhnya dapat dilaksanakan oleh Pengurus NU setingkat.
+
+#### Pasal 27 - TATA CARA PELANTIKAN
+
+Tata cara pelantikan pengurus dimaksud pada Pasal bertujuan agar:
+
+- pelaksanaan upacara pelantikan lebih tepat, tertib dan teratur;
+- kepengurusan memiliki legitimasi kuat karena dilantik dengan ketentuan yang mengikat;
+- komitmen pengurus untuk menjalankan tugas dan kewajibannya semakin tinggi karena adanya ikrar pengurus.
+- Pengaturan tata cara pelantikan dalam BAB ini menjadi sebab gugurnya Peraturan Pimpinan Pusat nomor: 222/PPP/XIX/7354/XI/19 tentang Tata Cara Pelantikan Pengurus Ikatan Pelajar Nahdlatul Ulama.
+
+#### Pasal 28 - PENYELENGGARA DAN PESERTA PELANTIKAN
+
+1. Semua kepengurusan yang baru terbentuk pada setiap tingkat wajib menyelenggarakan pelantikan sebagai awal dimulainya suatu masa khidmat.
+2. Pelantikan sebagaimana Pasal 25 diikuti oleh semua anggota kepengurusan.
+3. Pelantikan sebagaimana Pasal 25 dilakukan setelah kepengurusan tersebut mendapat Surat Pengesahan.
+
+#### Pasal 29 - PENYELENGGARAAN PELANTIKAN
+
+1. Upacara pelantikan pada dasarnya diselenggarakan dalam suatu acara formal yang khusus dilakukan untuk itu.
+2. Jika ayat (1) tidak terpenuhi, upacara pelantikan bisa digabung dengan acara lainnya, selama tidak mengurangi kehidmatan upacara.
+
+#### Pasal 30 - MANUAL ACARA PELANTIKAN
+
+Upacara pelantikan pada dasarnya terdiri dari beberapa acara berikut:
+
+- pembukaan;
+- pembacaan ayat suci al-Qur’an dan sholawat nabi;
+- lagu kebangsaan Indonesia Raya, mars IPNU, dan Syubbanul Wathon
+- acara inti pelantikan;
+- serah terima jabatan;
+- pidato sambutan;
+- do’a dan penutup.
+
+#### Pasal 31 - LAGU KEBANGSAAN DAN MARS IPNU
+
+1. Lagu kebangsaan Indonesia Raya dan Mars IPNU sebagaimana dimaksud Pasal 28 poin c dinyanyikan oleh semua peserta dan/atau dinyanyikan oleh kelompok paduan suara dengan dipandu oleh seorang dirigen.
+2. Pada saat lagu kebangsaan Indonesia Raya dan Mars IPNU dinyanyikan, hadiri diminta untuk berdiri.
+
+#### Pasal 32 - ACARA INTI PELANTIKAN
+
+1. Acara inti pelantikan sebagaimana dimaksud pada Pasal 28 poin d, berisi pembacaan surat pengesahan, pengambilan ikrar pengurus, dan penyataan pelantikan.
+2. Seluruh acara inti pelantikan sebagaimana ayat (1) dipimpin oleh pelantik sebagaimana diatur dalam Pasal 25.
+3. Pelantik membacakan surat pengesahan tentang kepengurusan yang akan dilantik beserta susunan pengurus lengkap.
+4. Pelantik selanjutnya memanggil semua pengurus yang menjadi peserta pelatikan untuk maju ke tempat pelantikan.
+5. Proses menuju pembacaan ikrar diringi pembawaan bendera Merah Putih dan bendera IPNU
+6. Peserta pelantikan berbaris menghadap kehadirin dengan ketua berada dibarisan paling kanan.
+7. Pelantik membacakan ikrar pelantikan yang diikuti oleh segenap peserta pelantikan.
+8. Setelah pembacaan ikrar, pelantik selanjutnya mengucapkan pernyataan pelatikan yang berbunyi: ”Dengan ini pimpinan (disebutkan tingkat kepengurusan) Ikatan Pelajar Nahdlatul Ulama (disebutkan nama daerah kerjanya) dinyatakan dilantik dan sah menjadi pengurus”.
+9. Pada saat pengambilan ikrar dan pernyataan pelantikan, semua pengurus berdiri.
+10. Acara pelantikan sebaiknya diakhiri ucapan selamat dengan jabat tangan dari pelantik dan tamu undangan seperlunya.
+
+#### Pasal 33 - PROSESI SERAH TERIMA JABATAN, PIDATO SAMBUTAN DAN PEMBACAAN DOA
+
+1. Serah terima yang dimaksud pada Pasal 28 poin e, dilakukan dengan penyerahan secara simbolik dan/atau dengan penandatangan berita acara serah terima dari pengurus Demisioner kepada pengurus baru.
+2. Penyerahan dan penandatangnan disaksikan oleh pengurus NU setempat, pelantik dan/atau pimpinan di atasnya.
+3. Pidato sambutan sebagaimana dimaksud Pasal 28 poin f adalah sambutan oleh ketua terlantik, pengurus NU setempat, pelantik atau pimpinan di atasnya, serta jika diperlukan pejabat pemerintah pada daerah yang bersangkutan.
+4. Pembacaan do'a sebagaimana dimaksud Pasal 28 poin g, dipimpin oleh seorang kyai dan sebaiknya berisi doa untuk mendukung pengurus yang bersangkutan agar dapat menjalankan tugas organisasi.
+
+# TAMBAH BAB BARU
 
 <!-- nanti isikan hal baru diatas sini -->
 
