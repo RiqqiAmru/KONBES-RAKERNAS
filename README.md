@@ -133,7 +133,6 @@ Pasuruan,Jawa Timur
       - [Pasal 24 - RANGKAP JABATAN](#pasal-24---rangkap-jabatan)
       - [Pasal 25 - RESHUFFLE](#pasal-25---reshuffle)
     - [BAB VII - PELANTIKAN DAN PEMBEKALAN PENGURUS](#bab-vii---pelantikan-dan-pembekalan-pengurus)
-
       - [Pasal 26 - PELANTIKAN PENGURUS](#pasal-26---pelantikan-pengurus)
       - [Pasal 27 - TATA CARA PELANTIKAN](#pasal-27---tata-cara-pelantikan)
       - [Pasal 28 - PENYELENGGARA DAN PESERTA PELANTIKAN](#pasal-28---penyelenggara-dan-peserta-pelantikan)
@@ -142,6 +141,46 @@ Pasuruan,Jawa Timur
       - [Pasal 31 - LAGU KEBANGSAAN DAN MARS IPNU](#pasal-31---lagu-kebangsaan-dan-mars-ipnu)
       - [Pasal 32 - ACARA INTI PELANTIKAN](#pasal-32---acara-inti-pelantikan)
       - [Pasal 33 - PROSESI SERAH TERIMA JABATAN, PIDATO SAMBUTAN DAN PEMBACAAN DOA](#pasal-33---prosesi-serah-terima-jabatan-pidato-sambutan-dan-pembacaan-doa)
+      - [Pasal 34 - IKRAR PENGURUS](#pasal-34---ikrar-pengurus)
+      - [Pasal 35 - PEMBEKALAN PENGURUS](#pasal-35---pembekalan-pengurus)
+    - [BAB VIII - PERENCANAAN PROGRAM KERJA](#bab-viii---perencanaan-program-kerja)
+      - [Pasal 36 - RENCANA PROGRAM](#pasal-36---rencana-program)
+      - [Pasal 37 - STRATEGIC PLANNING](#pasal-37---strategic-planning)
+      - [Pasal 38 - RAPAT KERJA](#pasal-38---rapat-kerja)
+    - [BAB IX - PROSEDUR PELAKSANAAN KONFERENSI / RAPAT ANGGOTA](#bab-ix---prosedur-pelaksanaan-konferensi--rapat-anggota)
+
+      - [Pasal 39 - UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA](#pasal-39---uji-kelayakan-konferensi-atau-rapat-anggota)
+      - [Pasal 40 - MEKANISME UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA](#pasal-40---mekanisme-uji-kelayakan-konferensi-atau-rapat-anggota)
+
+    - [BAB X - KETENTUAN PENUTUP](#bab-x---ketentuan-penutup)
+      - [Pasal 38 - PENUTUP](#pasal-38---penutup)
+
+  - [PERSIDANGAN DAN RAPAT](#persidangan-dan-rapat)
+
+    - [Muqaddimah](#muqaddimah)
+    - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum)
+      - [Pasal 1 - PENGERTIAN](#pasal-1---pengertian)
+    - [BAB II - MAKSUD DAN TUJUAN](#bab-ii---maksud-dan-tujuan)
+      - [Pasal 2 - MAKSUD](#pasal-2---maksud)
+      - [Pasal 3 - TUJUAN](#pasal-3---tujuan)
+    - [BAB III - PERSIDANGAN](#bab-iii---persidangan)
+      - [Pasal 4 - PERSIDANGAN PADA KONGRES, KONFERENSIDAN RAPAT ANGGOTA](#pasal-4---persidangan-pada-kongres-konferensidan-rapat-anggota)
+      - [Pasal 5 - SIDANG PLENO](#pasal-5---sidang-pleno)
+      - [Pasal 6 - SIDANG PLENO GABUNGAN](#pasal-6---sidang-pleno-gabungan)
+      - [Pasal 7 - SIDANG KOMISI](#pasal-7---sidang-komisi)
+    - [BAB IV - RAPAT-RAPAT](#bab-iv---rapat-rapat)
+      - [Pasal 8 - JENIS-JENIS RAPAT](#pasal-8---jenis-jenis-rapat)
+      - [Pasal 9 - RAPAT HARIAN](#pasal-9---rapat-harian)
+      - [Pasal 10 - RAPAT PLENO](#pasal-10---rapat-pleno)
+      - [Pasal 11 - RAPAT PLENO PARIPURNA](#pasal-11---rapat-pleno-paripurna)
+      - [Pasal 12 - RAPAT PLENO GABUNGAN](#pasal-12---rapat-pleno-gabungan)
+      - [Pasal 13 - RAPAT PIMPINAN](#pasal-13---rapat-pimpinan)
+      - [Pasal 14 - RAPAT KOORDINASI BIDANG](#pasal-14---rapat-koordinasi-bidang)
+      - [Pasal 15 - RAPAT PANITIA](#pasal-15---rapat-panitia)
+      - [Pasal 16 - KEABSAHAN KEPUTUSAN RAPAT](#pasal-16---keabsahan-keputusan-rapat)
+    - [BAB V - KETENTUAN PENUTUP](#bab-v---ketentuan-penutup)
+
+      - [Pasal 17 - PENUTUP](#pasal-17---penutup)
 
       <!-- tambah diatas sini -->
 
@@ -1312,6 +1351,481 @@ Upacara pelantikan pada dasarnya terdiri dari beberapa acara berikut:
 2. Penyerahan dan penandatangnan disaksikan oleh pengurus NU setempat, pelantik dan/atau pimpinan di atasnya.
 3. Pidato sambutan sebagaimana dimaksud Pasal 28 poin f adalah sambutan oleh ketua terlantik, pengurus NU setempat, pelantik atau pimpinan di atasnya, serta jika diperlukan pejabat pemerintah pada daerah yang bersangkutan.
 4. Pembacaan do'a sebagaimana dimaksud Pasal 28 poin g, dipimpin oleh seorang kyai dan sebaiknya berisi doa untuk mendukung pengurus yang bersangkutan agar dapat menjalankan tugas organisasi.
+
+#### Pasal 34 - IKRAR PENGURUS
+
+1. Pada setiap pelantikan, pengurus yang dilantik harus membaca ikrar pengurus.
+2. Ikrar sebagaimana ayat (1) berbunyi:
+
+```
+Bismillahirahmanirrahim Asyhadu an laa ilaaha illa Allah,
+Wa asyhadu anna Muhammadan rasulullah. Rodlitu billahi robbaa wabil Islaami diinaa, Wabi Muhammadi nabiyyan warosuulaa.
+
+Kami sebagai Pengurus (sebutkan tingkatan kepengurusan) Ikatan Pelajar Nahdlatul Ulama ............... (sebutkan nama daerah kerjanya) dengan sadar dan penuh tanggungjawab dengan ini menyatakan :
+
+Satu , menjunjung tinggi martabat dan nama baik agama Islam serta berusaha mewujudkan terlaksananya ajaran Islam yang berpaham ahlussunnah wal jama'ah An-Nahdliah di tengah-tengah masyarakat.
+Dua , siap mempertahankan dan mengamalkan Pancasila.
+Tiga , siap menyumbangkan tenaga dan pikiran untuk mewujudkan masyarakat adil dan makmur yang diridloi Allah SWT.
+Empat , akan melaksanakan tugas dan kewajiban sebagai pengurus untuk kepentingan organisasi dan masyarakat secara keseluruhan.
+Lima , taat dan patuh kepada Peraturan Dasar dan Peraturan Rumah Tangga Ikatan Pelajar Nahdlatul Ulama.
+_La haula wala quwwata illa billahil aliyil adzim_
+```
+
+3. Pembacaan ikrar sebagaimana ayat (2) dipandu oleh pelantik dan diikuti oleh calon pengurus yang akan dilantik.
+
+#### Pasal 35 - PEMBEKALAN PENGURUS
+
+1. Kepengurusan baru pada semua tingkatan diwajibkan mengadakan pembekalan pengurus berupa orientasi dan/atau up-grading.
+2. Orientasi Pengurus adalah upaya penyamakan persepsi dan wawasan setiap personil pengurus terhadap persoalan, kebutuhan dan agenda-agenda organisasi.
+3. Up-grading adalah upaya untuk meningkatkan kesiapan dan kemampuan setiap personil pengurus agar bisa melaksanakan tugas sesuai dengan dengan posisi dan jabatannya.
+4. Orientasi pengurus dan up-grading difasilitasi oleh fasilitator yang berpengalaman dalam organisasi dan gerakan sosial.
+5. Orientasi pengurus dan up-grading bisa diisi dengan agenda tambahan berupa ceramah dan kegiatan _outbond._
+
+### BAB VIII - PERENCANAAN PROGRAM KERJA
+
+#### Pasal 36 - RENCANA PROGRAM
+
+1. Setiap tingkat kepengurusan diharuskan menyusun rencana program kerja.
+2. Rencana program kerja sebagaimana ayat (1) terdiri dari:
+   - Rencana Program Jangka Pendek, yaitu setengah tahunan untuk PR/PK, satu tahunan untuk PAC, PCI, PC, PW dan PP;
+   - Rencana Program Jangka Menengah, yaitu rencana program satu masa khidmat sesuai dengan masing-masing tingkat kepengurusan.
+3. Rencana Program Jangka Pendek, selanjutnya disebut RPJP, disusun melalui rapat pleno di masing-masing tingkat kepengurusan dengan menjabarkan program jangka menengah.
+4. Rencana Program Jangka Menengah, selanjutnya disebut RPJM, disusun melalui rapat kerja di masing-masing tingkatan dengan menjabarkan hasil permusyawaratan pada masing-masing tingkat.
+5. Rencana Program Jangka Panjang, selanjutnya disebut RPJPG, adalah program berkelanjutan disusun melalui rapat kerja dimasing-masing tingkatan dengan menjabarkan hasil permusyawaratan pada masing-masing tingkat.
+6. Untuk mendukung penyusunan RPJM dan RPJPG sebagaimana ayat (2) dan (3), dilakukan strategic planning (SP) atau perencanaan strategis.
+7. Untuk mencapai tujuan organisasi secara nasional, maka semua penyusunan program harus merujuk pada GBPPP hasil kongres.
+
+#### Pasal 37 - STRATEGIC PLANNING
+
+1. _Strategic planning_ (SP) sebagaimana Pasal 170 ayat (4) dilakukan untuk mewujudkan perencanaan program kerja yang tepat sasaran, terencana, terukur, integral dan strategis.
+2. _Strategic planning_ (SP) sebagaimana ayat (1) dilaksanakan sebelum pelaksanaan rapat kerja di setiap tingkat kepengurusan (Rakernas/Rakerwil/Rakercab/Rakerancab/Rapat Kerja Ranting, dan Rapat Kerja Komisariat).
+3. _Strategic planning_ (SP) setidaknya bisa dilakukan dengan tahapan sebagai berikut:
+   - Analisis SWOT dan _stakeholder_ ;
+   - Penerjemahan visi dan misi ketua umum/ketua terpilih;
+   - Penerjemahan visi dan misi IPNU secara nasional;
+   - Identifikasi dan klasifikasi masalah;
+   - Perumusan langkah-langkah penyelesaian masalah;
+   - Perumusan program;
+   - Penentuan kegiatan.
+   - Hasil _strategic planning_ (SP) selanjutnya dirumuskan menjadi bahan rapat kerja di masing-masing tingkat kepengurusan.
+
+#### Pasal 38 - RAPAT KERJA
+
+1. Rapat kerja diselenggarakan oleh masing-masing tingkat kepengurusan sebagaimana diatur dalam Paraturan Dasar dan Peraturan Rumah Tangga.
+2. Rapat kerja diselenggarakan untuk menerjemahkan keputusan permusyawaratan yang lebih tinggi (Kongres/Konperensi/Rapat Anggota), menjabarkan hasil _strategic planning_ (SP), dan menyerap aspirasi kepengurusan satu tingkat di bawahnya.
+3. Hasil-hasil rapat kerja tersebut selanjutnya dirumuskan oleh kepengurusan yang bersangkutan menjadi Rencana Program Jangka Menengah (RPJM).
+
+### BAB IX - PROSEDUR PELAKSANAAN KONFERENSI / RAPAT ANGGOTA
+
+#### Pasal 39 - UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA
+
+1. PW, PCI, PC, PAC, PR dan PK yang akan melaksanakan Konferensi / Rapat Anggota, wajib mengikuti Uji Kelayakan Konferensi / Rapat Anggota sebagai syarat persetujuan menyelenggarakan Konferensi / Rapat Anggota, dengan ketentuan sebagai berikut:
+   - Pimpinan Wilayah diuji oleh Pimpinan Pusat;
+   - Pimpinan Cabang Istimewa diuji oleh Pimpinan Pusat;
+   - Pimpinan Cabang diuji oleh Pimpinan Pusat dan/atau Pimpinan Wilayah;
+   - Pimpinan Anak Cabang diuji oleh Pimpinan Cabang;
+   - Pimpinan Komisariat ditingkat Perguruan Tinggi diuji oleh Pimpinan Cabang;
+   - Pimpinan Ranting diuji oleh Pimpinan Cabang dan/atau Pimpinan Anak Cabang;
+   - Pimpinan Komisariat ditingkat sekolah, madrasah, dan pondok pesantren diuji olehPimpinan Cabang dan/atau Pimpinan Anak Cabang.
+
+#### Pasal 40 - MEKANISME UJI KELAYAKAN KONFERENSI ATAU RAPAT ANGGOTA
+
+1. PW, PCI, PC, PAC, PR dan PK mengajukan Surat Permohonan Uji Kelayakan Konferensi atau Rapat Anggota kepada Pimpinan yang menguji, maksimal 3 minggu sebelum pelaksanaan Konferensi / Rapat Anggota;
+2. Uji Kelayakan Konferensi atau Rapat Anggota maksimal dilaksanakan satu minggu setelah surat permohonan diterima;
+3. Dalam Uji Kelayakan Konferensi atau Rapat Anggota, PW, PCI, PC, PAC, PR dan PK berkewajiban menyiapkan berkas-berkas sebagai berikut :
+   - Draft Materi Persidangan Konferensi / Rapat Anggota (Tata Tertib Konferensi / Rapat Anggota, Komisi-Komisi, Tata Tertib Pemilihan Ketua dan Tim Formatur)
+   - Laporan Pertanggungjawaban Pengurus
+   - Konsideran Persidangan, Berita Acara Pemilihan Ketua dan Tim Formatur
+   - Daftar Peserta Konferensi / Rapat Anggota yang terverifikasi
+   - Hasil Konferensi / Rapat Anggota Periode Sebelumnya
+   - Hasil Rapat Kerja
+   - _Term of Reference_ Konferensi / Rapat Anggota
+4. PW, PCI, PC, PAC, PR dan PK yang lolos Uji Kelayakan Konferensi / Rapat Anggota akan menerima Berita Acara Persetujuan Penyelenggaraan Konferensi / Rapat Anggota
+5. Apabila ayat 4 telah terpenuhi, selanjutnya PW, PCI, PC, PAC, PR dan PK mengirimkan Surat Undangan dan Surat Permohonan Pimpinan Sidang Konferensi / Rapat Anggota kepada Pimpinan setingkat diatasnya.
+6. PW, PCI, PC, PAC, PR dan PK yang tidak lolos uji kelayakan akan menerima berita acara perbaikan dari pimpinan setingkat di atasnya.
+7. masa perbaikan berkas uji kelayakan maksimal harus diselesaikan dalam tempo waktu 1 (satu) minggu.
+8. Apabila PW, PCI, PC, PAC tidak dapat memenuhi ketentuan dari ayat 7 maka kenferensi ditunda hingga persyaratkan dilengkapi.
+9. Apabila PR dan PK tidak dapat memenuhi ketentuan dalam ayat 7 maka Rapat Anggota tetap diselenggarakan dengan mendapatkan pendampingan khusus dari pimpinan yang menguji sebagaimana diatur dalam Pasal 39
+
+### BAB X - KETENTUAN PENUTUP
+
+#### Pasal 38 - PENUTUP
+
+1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
+2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Mekanisme Keorganisasian ini, akan diatur dalam Peraturan Pimpinan Pusat.
+3. Agar setiap pengurus dan anggota IPNU mengetahui dan memahami Peraturan Organisasi tentang Mekanisme Keorganisasian ini, maka setiap tingkat kepengurusan diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
+
+~Pasuruan, 12 Agustus 2023~
+
+Ketua - AAN ANDRI ARDIYANSAH
+Sekretaris - MUNAWAR CHOLIL
+
+## PERSIDANGAN DAN RAPAT
+
+### Muqaddimah
+
+```
+
+Nomor : 04/Konbes/IPNU/VIII/2023
+
+PENGESAHAN PERATURAN ORGANISASI
+IKATAN PELAJAR NAHDLATUL ULAMA
+TENTANG
+PERSIDANGAN DAN RAPAT
+
+```
+
+_Bismillahirrahmanirrahim_
+
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di TamanBudaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+
+Menimbang :
+
+1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
+2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi, maka diperlukan Peraturan Organisasi tentang Persidangan dan Rapat
+3. Bahwa untuk melaksanakan maksud tersebut, maka perlu ditetapkan Peraturan Organisasi tentang Persidangan dan Rapat
+   Ikatan Pelajar Nahdlatul Ulama;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU;
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+
+1. Hasil pembahasan sidang komisi dan masukan-masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+2. Sidang Pleno Konferensi Besar Ikatan Pelajar Nahdlatul Ulama.
+
+Dengan senantiasa memohon petunjuk Allah SWT,
+
+M E M U T U S K A N
+
+Menetapkan :
+
+1. Mengesahkan Peraturan Organisasi tentang Persidangan dan Rapat sebagai pedoman penyelenggaraan organisasi IPNU di
+   semua tingkatan, sebagaimana terlampir;
+2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak
+   Cabang, Pimpinan Komisariat, Pimpinan Ranting serta anggota IPNU untuk mentaati seluruh aturan dalam Peraturan Organisasi IPNU tentang Persidangan dan Rapat IPNU.
+3. Keputusan ini sejak tanggal ditetapkan.
+
+_Wallahul muwafiq ila aqwamith-tharieq_
+
+~Pasuruan, 12 Agustus 2023~
+
+Ketua - M. GHULAM DHOFIR MANSUR
+Sekretaris - AAN ANDRI ARDIYANSAH
+Anggota - SULKIFLI AZIZ
+
+### BAB I - KETENTUAN UMUM
+
+#### Pasal 1 - PENGERTIAN
+
+Dalam Peraturan Organisasi tentang Persidangan dan Rapat Ikatan Pelajar Nahdlatul Ulamaini yang dimaksud dengan:
+
+1. Persidangan adalah persidangan pada Kongres, Konferensi Wilayah, Konferensi Cabang, Konferensi Anak Cabang dan Rapat Anggota.
+2. Rapat adalah rapat yang diselenggarakan oleh kepengurusan IPNU di semua tingkatan.
+
+### BAB II - MAKSUD DAN TUJUAN
+
+#### Pasal 2 - MAKSUD
+
+Peraturan Organisasi tentang Persidangan dan Rapat ini dimaksudkan sebagai pedomanpenyelenggaraan organisasi IPNU di semua tingkat kepengurusan dan berlaku secaranasional.
+
+#### Pasal 3 - TUJUAN
+
+Peraturan Organisasi tentang Persidangan dan Rapat ini sebagaimana dimaksud dalam Pasal2 bertujuan untuk:
+
+- mendukung kinerja organisasi secara umum;
+- menjamin penyelenggaraan sidang dan rapat yang teratur dan tertib;
+- mengoptimalkan potensi organisasi.
+
+### BAB III - PERSIDANGAN
+
+#### Pasal 4 - PERSIDANGAN PADA KONGRES, KONFERENSIDAN RAPAT ANGGOTA
+
+1. Persidangan pada Kongres, Konferensi Wilayah, Konferensi Cabang, Konferensi Anak Cabang dan Rapat Anggota pada intinya terdiri dari sidang pleno, sidang pleno gabungan dan sidang komisi.
+2. Pelaksanaan sidang pleno, sidang pleno gabungan dan sidang komisi sebagaimana dimaksud ayat (1) dipimpin oleh satu orang ketua sidang, satu orang Sekretaris dan satu orang anggota.
+3. Pimpinan sidang sebagaimana ayat (2) khusus pimpinan sidang pleno tentang Laporan Pertanggungjawaban (Lpj), Tata Tertib Pemihan Ketua dan Pemilihan Ketua di pimpin oleh Pimpinan IPNU satu tingkat diatasnya.
+4. Apabila Pimpinan sidang di atas sebagaimana dimaksud ayat (3) tidak tercapai, maka diganti oleh pimpinan IPNU diatasnya lagi dan untuk kongres maka diganti oleh Panitia Pengarah.
+
+#### Pasal 5 - SIDANG PLENO
+
+1. Sidang pleno diikuti oleh semua peserta Kongres/ Konferensi Wilayah/ Konferensi Cabang/ Konferensi Anak Cabang/Rapat Anggota dan bersifat pengambilan suatu keputusan atau untuk penyampaian pengarahan.
+2. Sidang-sidang pleno terdiri dari :
+   - sidang pleno pembahasan tata tertib
+   - sidang pleno pembahasan dan penetapan hasil komisi
+   - sidang pleno tentang laporan pertanggung jawaban pengurus
+   - sidang pleno pemilihan ketua umum/ketua dan tim formatur.
+
+#### Pasal 6 - SIDANG PLENO GABUNGAN
+
+1. Sidang pleno gabungan merupakan sidang gabungan antara peserta IPNU dan IPPNU (bila acara dilaksanakan secara bersamaan).
+2. Sidang pleno gabungan sebagaimana dimaksud pada ayat (1) bisa dilaksanakan sesuai dengan kebutuhan dan kebijakan bersama.
+3. Sidang pleno gabungan bisa dilaksanakan dengan agenda sebagaimana agenda sidang pleno pada atau forum yang diadakan untuk seminar atau diskusi.
+
+#### Pasal 7 - SIDANG KOMISI
+
+1. Sidang komisi diikuti oleh sebagian peserta Kongres/Konferensi/Rapat Anggota yang dilaksanakan untuk membahas hal-hal yang bersifat khusus.
+2. Sidang-sidang komisi sebagaimana dimaksud pada ayat (1) setidaknya terdiri dari sidang komisi program kerja, sidang komisi keorganisasian, dan sidang komisi rekomendasi.
+3. Pada Kongres/Konferensi/Rapat Anggota dapat diadakan sidang-sidang lain sesuai dengan kebutuhan.
+
+### BAB IV - RAPAT-RAPAT
+
+#### Pasal 8 - JENIS-JENIS RAPAT
+
+Rapat-rapat rutin IPNU terdiri dari:
+
+- Rapat Harian;
+- Rapat Pleno;
+- Rapat Pleno Paripurna;
+- Rapat Pleno Gabungan;
+- Rapat Pimpinan;
+- Rapat Koordinasi Bidang;
+- Rapat Panitia
+
+#### Pasal 9 - RAPAT HARIAN
+
+1. Rapat harian diikuti oleh pengurus harian.
+2. Rapat harian sebagaimana ayat (1) membahas:
+   - hal-hal yang bersifat rutin;
+   - hal-hal yang bersifat penting dan mendesak;
+   - persiapan materi rapat pleno, rapat pleno paripurna, rapat pimpinan atau rapat pleno gabung.
+
+#### Pasal 10 - RAPAT PLENO
+
+1. Rapat pleno diikuti oleh semua pengurus harian, departemen, lembaga dan badan.
+2. Rapat pleno sebagaimana ayat (1) membahas:
+   - hal-hal yang bersifat penting dan menyangkut semua unsur organisasi;
+   - hal-hal yang bersifat konsultatif dan koordinatif;
+   - laporan pelaksanaan program kerja antar- departemen, lembaga dan badan kepada ketua umum/ketua;
+   - evaluasi kepengurusan dan/atau penyelenggaraan organisasi secara menyeluruh;
+   - laporan keuangan.
+
+#### Pasal 11 - RAPAT PLENO PARIPURNA
+
+1. Rapat pleno paripurna dihadiri oleh semua anggota kepengurusan (harian, departemen, lembaga, tim pelaksana jika ada dan dewan pembina).
+2. Rapat pleno paripurna sebagaimana ayat (1) membahas:
+   - hal-hal yang bersifat penting dan krusial;
+   - sumbang saran dan pendapat dari dewan pembina.
+
+#### Pasal 12 - RAPAT PLENO GABUNGAN
+
+1. Rapat pleno gabungan diselenggarakan bersama organ-organ lain di lingkungan Nahdlatul Ulama yang setingkat.
+2. Rapat gabungan sebagaimana ayat (1) membahas:
+   - program/kegiatan yang dilaksanakn bersama;
+   - sinergi program kerja;
+   - hal-hal krusial yang harus dibahas bersama.
+
+#### Pasal 13 - RAPAT PIMPINAN
+
+1. Rapat pimpinan terdiri dari:
+   - Rapat Pimpinan Nasional, disingkat Rapimnas, diselenggarakan oleh Pimpinan Pusat dan diikuti oleh Ketua PW dan atau yang mewakili pengurus PW;
+   - Rapat Pimpinan Wilayah, disingkat Rapimwil, diselenggarakan oleh Pimpinan Wilayah dan diikuti oleh Ketua PC dan atau yang mewakili pengurus PC;
+   - Rapat Pimpinan Cabang, disingkat Rapimcab, diselenggarakan oleh Pimpinan Cabang dan diikuti oleh Ketua PAC dan atau yang mewakili pengurus PAC serta Ketua PK ditingkat Perguruan Tinggi dan atau yang mewakili pengurus PK ditingkat Perguruan Tinggi
+   - Rapat Pimpinan Anak Cabang, disingkat Rapimancab, diselenggarakan oleh Pimpinan Anak Cabang dan diikuti oleh Ketua PR dan atau yang mewakili pengurus PR serta Ketua PK ditingkat sekolah, madrasah, dan pesantren dan atau yang mewakili pengurus PK ditingkat sekolah, madrasah, dan pesantren
+2. Rapat pimpinan diikuti oleh pimpinan yang setingkat di bawahnya.
+3. Rapat pimpinan sebagaimana ayat (1) membahas:
+   - hal-hal prinsip organisasi sebagai usulan/rekomendasi pada tingkat kepengurusan yang lebih tinggi;
+   - berlakunya aturan baru di tubuh IPNU;
+   - hal-hal khusus yang harus disikapi bersama.
+
+#### Pasal 14 - RAPAT KOORDINASI BIDANG
+
+1. Rapat koordinasi bidang diikuti oleh wakil ketua bidang, sekretaris atau bendahara pada kepengurusan setingkat di bawah.
+2. Rapat koordinasi bidang sebagaimana ayat (1) membahas:
+   - _progress report_ dan evaluasi pelaksanaan program bidang yang bersangkutan;
+   - rencana pelaksanaan program pada bidang yang bersangkutan;
+   - berlakunya aturan baru dalam bidang yang bersangkutan.
+3. Rapat koordinasi bidang terdiri dari:
+   - Rapat Koordinasi Nasional, disingkat Rakornas, diselenggarakan oleh PP;
+   - Rapat Koordinasi Wilayah, disingkat Rakorwil, diselenggarakan oleh PW;
+   - Rapat Koordinasi Cabang, disingkat Rakorcab, diselenggarakan oleh PC;\
+   - Rapat Koordinasi Anak Cabang, disingkat Rakorancab, diselenggarakan oleh PAC.
+
+#### Pasal 15 - RAPAT PANITIA
+
+1. Rapat panitia diselenggarakan oleh panitia pelaksana dan/atau panitia khusus (pansus), sesuai dengan dengan penugasan yang diberikan oleh pimpinan.
+2. Rapat panitia sebagaimana ayat (1) membahas berbagai hal teknis penyelenggaraan suatu kegiatan.
+
+#### Pasal 16 - KEABSAHAN KEPUTUSAN RAPAT
+
+1. Pengambilan keputusan para seluruh rapat dinyatakan absah apabila memenuhi quorum.
+2. Qourum sebagaimana ayat (1) terpenuhi jika rapat yang bersangkutan dihadiri minimal 2/3 dari jumlah anggota pada tingkat kepengurusan yang bersangkutan.
+3. Apabila tidak memenuhi quorum, maka rapat-rapat dapat ditunda sampai batas waktu
+
+### BAB V - KETENTUAN PENUTUP
+
+#### Pasal 17 - PENUTUP
+
+1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
+2. Hal-hal yang belum diatur dalam Peraturan Organisasi tentang Persidangan dan Rapat ini, akan diatur dalam Peraturan Pimpinan Pusat.
+3. Agar setiap pengurus dan anggota IPNU mengetahui dan memahami Peraturan Organisasi tentang Persidangan dan Rapat ini, maka setiap tingkat kepengurusan diwajibkan mensosialisasikan Keputusan Konferensi Besar ini.
+
+~Pasuruan, 12 Agustus 2023~
+
+Ketua - AAN ANDRI ARDIYANSAH
+Sekretaris - MUNAWAR CHOLIL
+
+## TATA ATURAN ORGANISASI
+
+```
+
+Nomor : 05/Konbes/IPNU/VIII/2023
+
+PENGESAHAN PERATURAN ORGANISASI
+IKATAN PELAJAR NAHDLATUL ULAMA
+TENTANG
+TATA ATURAN ORGANISASI
+
+```
+
+_Bismillahirrahmanirrahim_
+
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di TamanBudaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+
+Menimbang :
+
+1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
+2. Bahwa untuk menjamin keteraturan penyelenggaraan organisasi, maka diperlukan Peraturan Organisasi tentang Tata Aturan
+   Organisasi
+3. Bahwa untuk melaksanakan maksud tersebut, maka perlu ditetapkan Peraturan Organisasi tentang Tata Aturan Organisasi Ikatan Pelajar Nahdlatul Ulama;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU;
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+
+1. Hasil pembahasan sidang komisi dan masukan-masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+2. Sidang Pleno Konferensi Besar Ikatan Pelajar Nahdlatul Ulama.
+
+Dengan senantiasa memohon petunjuk Allah SWT,
+M E M U T U S K A N
+
+Menetapkan :
+
+1. Mengesahkan Peraturan Organisasi tentang Tata Aturan Organisasi sebagai pedoman penyelenggaraan organisasi IPNU
+   di semua tingkatan, sebagaimana terlampir;
+2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak
+   Cabang, Pimpinan Komisariat, Pimpinan Ranting serta anggota IPNU untuk mentaati seluruh aturan dalam Peraturan Organisasi IPNU tentang Tata Aturan Organisasi IPNU.
+3. Keputusan ini sejak tanggal ditetapkan.
+
+_Wallahul muwafiq ila aqwamith-tharieq_
+
+~ Pasuruan, 12 Agustus 2023 ~
+
+Ketua - M. GHULAM DHOFIR MANSUR
+Sekretaris - AAN ANDRI ARDIYANSAH
+Anggota - SULKIFLI AZIZ
+
+### BAB I - KETENTUAN UMUM
+
+#### Pasal 1 - PENGERTIAN
+
+Dalam Peraturan Organisasi tentang Tata Kerja Organisasi Ikatan Pelajar Nahdlatul Ulama ini yang dimaksud dengan:
+
+1. Tata aturan adalah urutan peraturan atau berbagai ketentuan organisasi yang diterbitkan oleh IPNU.
+2. Peraturan adalah ketentuan konstitusional IPNU yang menjadi landasan pelaksanaan organisasi dan mempunyai kekuatan hukum ke dalam.
+3. Keputusan adalah ketentuan organisasi yang berisi hal-hal yang bersifat penetapan dan memiliki kekuatan hukum.
+4. Instruksi adalah perintah untuk menjalankan hasil-hasil keputusan/rapat atau kebijakan tertentu dari tingkat kepengurusan IPNU yang lebih tinggi kepada tingkat kepengurusan di bawahnya.
+5. Siaran adalah penjelasan tertulis sebagai pernyataan sikap resmi organisasi atas sesuatu hal atau peristiwa tertentu.
+
+### BAB II - MAKSUD DAN TUJUAN
+
+#### Pasal 2 - MAKSUD
+
+Peraturan Organisasi Tata Aturan Organisasi ini dimaksudkan sebagai pedomanpenyelenggaraan organisasi IPNU di semua tingkat kepengurusan dan berlaku secaranasional.
+
+#### Pasal 3 - TUJUAN
+
+Peraturan Organisasi tentang Tata Aturan ini sebagaimana dimaksud dalam Pasal 2 bertujuan untuk:
+
+- mendukung kinerja organisasi secara umum;
+- menjamin tertib dan taatnya aturan;
+- mengoptimalkan potensi organisasi.
+
+### BAB III - PERATURAN
+
+#### Pasal 4 - PENGERTIAN DAN KEDUDUKAN HUKUM
+
+1. Peraturan menjadi landasan pelaksanaan organisasi dan mempunyai kekuatan hukum ke dalam.
+2. Peraturan mengikat sebagai aturan hukum yang wajib ditaati oleh seluruh pimpinan dan anggota IPNU.
+3. Peraturan organisasi IPNU ditetapkan melalui permusyawaratan yang legal sesuai dengan dengan tingkatannya masing-masing
+
+#### Pasal 5 - TATA URUTAN PERATURAN
+
+1. Tata urutan peraturan merupakan pedoman dalam pembuatan aturan-aturan di bawahnya.
+2. Tata urutan peraturan IPNU adalah sebagai berikut:
+   - Peraturan Dasar dan Peraturan Rumah Tangga;
+   - Peraturan Organisasi;
+   - Peraturan Pimpinan Pusat;
+   - Peraturan Pimpinan Wilayah;
+   - Peraturan Pimpinan Cabang/ Peraturan Pimpinan Cabang Istimewa;
+   - Peraturan Pimpinan Anak Cabang;
+   - Peraturan Pimpinan Ranting/ Peraturan Pimpinan Komisariat.
+
+#### Pasal 6 - PERATURAN DASAR DAN PERATURAN RUMAH TANGGA
+
+1. Peraturan Dasar dan Peraturan Rumah, selanjutnya disingkat PD-PRT, memuat ketentuan organisasi yang bersifat mendasar.
+2. PD-PRT berkedudukan hukum sebagai dasar organisasi dan peraturan tertinggi di tingkat nasional dan wajib ditaati oleh semua pimpinan dan anggota IPNU di seluruh Indonesia.
+3. PD-PRT menjadi pedoman bagi penyusunan aturan-aturan di bawahnya.
+4. PD-PRT diputuskan dan ditetapkan oleh Kongres.
+
+#### Pasal 7 - PERATURAN ORGANISASI
+
+1. Peraturan Organisasi, selanjutnya disingkat PO, memuat aturan organisasi yang bersifat operasional dan merupakan penjabaran PD-PRT.
+2. PO berkedudukan hukum sebagai peraturan tertinggi organisasi setingkat di bawah PD-PRT dan wajib ditaati oleh semua pengurus dan anggota IPNU secara nasional.
+3. PO diputuskan dan ditetapkan melalui Konferensi Besar (Konbes).
+
+#### Pasal 8 - PERATURAN PIMPINAN PUSAT
+
+1. Peraturan Pimpinan Pusat, selanjutnya disingkat PPP, ditetapkan oleh Pimpinan Pusat yang memuat ketentuan-ketentuan organisasi yang bersifat nasional dan belum diaturdalam PD-PRT dan/atau PO.
+2. PPP berkedudukan hukum setingkat di bawah PO dan wajib ditaati oleh semua pimpinan dan anggota IPNU di seluruh Indonesia.
+3. PPP diputuskan dan ditetapkan melalui rapat pleno PP.
+
+#### Pasal 9 - PERATURAN PIMPINAN WILAYAH
+
+1. Peraturan Pimpinan Wilayah, selanjutnya disingkat PPW, ditetapkan oleh Pimpinan Wilayah yang memuat ketentuan-ketentuan organisasi yang bersifat regional dan belum diatur dalam PD-PRT, PO atau PPP.
+2. PPW berkedudukan hukum setingkat di bawah PPP dan wajib ditaati oleh pimpinan dan anggota IPNU di wilayah yang bersangkutan.
+3. PPW diputuskan dan ditetapkan melalui rapat pleno PW.
+
+#### Pasal 10 - PERATURAN PIMPINAN CABANG
+
+1. Peraturan Pimpinan Cabang, selanjutnya disingkat PPC, ditetapkan oleh Pimpinan Cabang yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan belum diatur dalam PD-PRT, PO, PPP atau PPW.
+2. PPC berkedudukan hukum setingkat di bawah PPW dan wajib ditaati oleh pimpinan dan anggota IPNU di daerah yang bersangkutan.
+3. PPC diputuskan dan ditetapkan melaui rapat pleno PC
+
+#### Pasal 11 - PERATURAN PIMPINAN CABANG ISTIMEWA
+
+1. Peraturan Pimpinan Cabang Istimewa, selanjutnya disingkat PPCI, ditetapkan oleh Pimpinan Cabang Istimewa yang memuat ketentuan-ketentuan organisasi yang bersifat regional dan belum diatur dalam PD-PRT, PO, atau PPP.
+2. PPCI berkedudukan hukum setingkat di bawah PPP dan wajib ditaati oleh pimpinan dan anggota IPNU di negara yang bersangkutan.
+
+#### Pasal 12 - PERATURAN PIMPINAN ANAK CABANG
+
+1. Peraturan Pimpinan Anak Cabang, selanjutnya disingkat PPAC, ditetapkan oleh Pimpinan Anak Cabang yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan belum diatur dalam PD-PRT, PO, PPP, PPW atau PPC.
+2. PPAC berkedudukan hukum setingkat di bawah PPC dan wajib ditaati oleh pimpinan dan anggota IPNU di kecamatan yang bersangkutan.
+3. PPAC diputuskan dan ditetapkan melalui rapat pleno PAC.
+
+#### Pasal 13 - PERATURAN PIMPINAN RANTING
+
+1. Peraturan Pimpinan Ranting, selanjutnya disingkat PPR, ditetapkan oleh Pimpinan Ranting yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan belum diatur dalam PD-PRT, PO, PPP, PPW, PPC atau PPAC.
+2. PPR berkedudukan hukum setingkat di bawah PPAC dan wajib ditaati oleh pimpinan dan anggota IPNU di desa/kelurahan/ kawasan yang bersangkutan.
+3. PPR diputuskan dan ditetapkan melalui rapat pleno PR.
+
+#### Pasal 14 - PERATURAN PIMPINAN KOMISARIAT
+
+1. Peraturan Pimpinan Komisariat, selanjutnya disingkat PPK, ditetapkan oleh Pimpinan Komisariat yang memuat ketentuan-ketentuan organisasi yang bersifat lokal dan belum diatur dalam PD-PRT, PO, PPP, PPW, PPC atau PPAC.
+2. PPK berkedudukan hukum setingkat di bawah PPAC dan wajib ditaati oleh pimpinan dan anggota IPNU secara lokal di lembaga pendidikan yang bersangkutan.
+3. PPK diputuskan dan ditetapkan melalui rapat pleno PK.
+
+### BAB IV - KEPUTUSAN
+
+#### Pasal 15 - KEDUDUKAN HUKUM DAN FUNGSI
+
+1. Keputusan mengikat sebagai aturan hukum yang wajib ditaati oleh seluruh pimpinan dan anggota IPNU.
+2. Keputusan dapat dipergunakan untuk mengesahkan keberadaan kepengurusan setingkat di bawahnya.
+3. Bentuk surat keputusan diatur dalam Pedoman Administrasi.
 
 # TAMBAH BAB BARU
 
