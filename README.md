@@ -262,7 +262,6 @@ Pasuruan,Jawa Timur
     - [BAB VIII - KETENTUAN PENUTUP](#bab-viii---ketentuan-penutup)
       - [Pasal 21 - Penutup](#pasal-21---penutup)
   - [AKREDITASI ORGANISASI](#akreditasi-organisasi)
-
     - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum)
       - [Pasal 1 - Pengertian](#pasal-1---pengertian)
     - [BAB II - TUJUAN DAN FUNGSI](#bab-ii---tujuan-dan-fungsi)
@@ -286,6 +285,125 @@ Pasuruan,Jawa Timur
     - [BAB VIII - BORANG AKREDITASI](#bab-viii---borang-akreditasi)
       - [Pasal 15](#pasal-15)
     - [BAB IX - HAK PENGURUS](#bab-ix---hak-pengurus)
+      - [Pasal - 16](#pasal-16)
+    - [BAB X - ORGANISASI PELAKSANA](#bab-x---organisasi-pelaksana)
+      - [Pasal - 17](#pasal-17)
+      - [Pasal - 18](#pasal-18)
+      - [Pasal - 19](#pasal-19)
+      - [Pasal - 20](#pasal-20)
+      - [Pasal - 21](#pasal-21)
+      - [Pasal - 22](#pasal-22)
+      - [Pasal - 23](#pasal-23)
+      - [Pasal - 24](#pasal-24)
+      - [Pasal - 25](#pasal-25)
+      - [Pasal - 26](#pasal-26)
+      - [Pasal - 27](#pasal-27)
+    - [BAB XI - HASIL AKREDITASI](#bab-xi---hasil-akreditasi)
+      - [Pasal - 28](#pasal-28)
+      - [Pasal - 29](#pasal-29)
+    - [BAB XII - TATA CARA AKREDITASI](#bab-xii---tata-cara-akreditasi)
+      - [Pasal - 30](#pasal-30)
+    - [Bagian Kesatu - Akreditasi Pimpinan Wilayah dan Pimpinan Cabang Istimewa](#bagian-kesatu---akreditasi-pimpinan-wilayah-dan-pimpinan-cabang-istimewa)
+      - [Pasal - 31](#pasal-31)
+      - [Pasal - 32](#pasal-32)
+    - [Bagian Kedua - Akreditasi Pimpinan Cabang](#bagian-kedua---akreditasi-pimpinan-cabang)
+      - [Pasal - 33](#pasal-33)
+      - [Pasal - 34](#pasal-34)
+      - [Pasal - 35](#pasal-35)
+    - [Bagian Ketiga - Akreditasi Pimpinan Anak Cabang](#bagian-ketiga---akreditasi-pimpinan-anak-cabang)
+      - [Pasal - 36](#pasal-36)
+      - [Pasal - 37](#pasal-37)
+    - [Bagian Keempat - Akreditasi Pimpinan Ranting dan Pimpinan Komisariat](#bagian-keempat---akreditasi-pimpinan-ranting-dan-pimpinan-komisariat)
+      - [Pasal - 38](#pasal-38)
+      - [Pasal - 39](#pasal-39)
+      - [Pasal - 40](#pasal-40)
+    - [BAB XIII - KETENTUAN PENUTUP](#bab-xiii---ketentuan-penutup)
+      - [Pasal - 41](#pasal-41)
+  - [KLASTERISASI ORGANISASI](#klasterisasi-organisasi)
+    - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum)
+      - [Pasal 1 - Pengertian](#pasal-1---pengertian)
+    - [BAB II - TUJUAN DAN FUNGSI](#bab-ii---tujuan-dan-fungsi)
+      - [Pasal 2](#pasal-2)
+      - [Pasal 3](#pasal-3)
+    - [BAB III - CAKUPAN PEMBAGIAN KLUSTER ORGANISASI](#bab-iii---cakupan-pembagian-kluster-organisasi)
+      - [Pasal 4](#pasal-4)
+    - [BAB IV - KOMPONEN PEMBAGIAN KLUSTER](#bab-iv---komponen-pembagian-kluster)
+      - [Pasal 5](#pasal-5)
+    - [Bagian Kesatu - Parameter Penetapan Kluster Pimpinan Wilayah](#bagian-kesatu---parameter-penetapan-kluster-pimpinan-wilayah)
+      - [Pasal 6](#pasal-6)
+      - [Pasal 7](#pasal-7)
+    - [Bagian Kedua - Parameter Penetapan Kluster Pimpinan Cabang Istimewa](#bagian-kedua---parameter-penetapan-kluster-pimpinan-cabang-istimewa)
+      - [Pasal 8](#pasal-8)
+      - [Pasal 9](#pasal-9)
+    - [Bagian Ketiga - Parameter Penetapan Kluster Pimpinan Cabang](#bagian-ketiga---parameter-penetapan-kluster-pimpinan-cabang)
+      - [Pasal 10](#pasal-10)
+      - [Pasal 11](#pasal-11)
+    - [Bagian Keempat - Parameter Penetapan Kluster Pimpinan Anak Cabang](#bagian-keempat---parameter-penetapan-kluster-pimpinan-anak-cabang)
+      - [Pasal 12](#pasal-12)
+      - [Pasal 13](#pasal-13)
+    - [Bagian Kelima - Parameter Penetapan Kluster Pimpinan Komisariat di Perguruan Tinggi](#bagian-kelima---parameter-penetapan-kluster-pimpinan-komisariat-di-perguruan-tinggi)
+      - [Pasal 14](#pasal-14)
+      - [Pasal 15](#pasal-15)
+    - [Bagian Keenam - Parameter Penetapan Kluster Pimpinan Ranting](#bagian-keenam---parameter-penetapan-kluster-pimpinan-ranting)
+      - [Pasal 17](#pasal-17)
+      - [Pasal 18](#pasal-18)
+    - [Bagian Ketujuh - Parameter Penetapan Kluster Pimpinan Komisariat](#bagian-ketujuh---parameter-penetapan-kluster-pimpinan-komisariat)
+      - [Pasal 19](#pasal-19)
+      - [Pasal 20](#pasal-20)
+    - [BAB V - TATA CARA PENETAPAN KLUSTER](#bab-v---tata-cara-penetapan-kluster)
+      - [Pasal 21](#pasal-21)
+    - [Bagian Kesatu - Penetapan Kluster Pimpinan Wilayah](#bagian-kesatu---penetapan-kluster-pimpinan-wilayah)
+      - [Pasal 22](#pasal-22)
+    - [Bagian Kedua - Penetapan Kluster Pimpinan Cabang Istimewa](#bagian-kedua---penetapan-kluster-pimpinan-cabang-istimewa)
+      - [Pasal 23](#pasal-23)
+    - [Bagian Ketiga - Penetapan Kluster Pimpinan Cabang](#bagian-ketiga---penetapan-kluster-pimpinan-cabang)
+      - [Pasal 24](#pasal-24)
+    - [Bagian Keempat - Penetapan Kluster Pimpinan Anak Cabang](#bagian-keempat---penetapan-kluster-pimpinan-anak-cabang)
+      - [Pasal 25](#pasal-25)
+    - [Bagian Kelima - Penetapan Kluster Pimpinan Komisariat di Perguruan Tinggi](#bagian-kelima---penetapan-kluster-pimpinan-komisariat-di-perguruan-tinggi)
+      - [Pasal 26](#pasal-26)
+    - [Bagian Keenam - Penetapan Kluster Pimpinan Ranting](#bagian-keenam---penetapan-kluster-pimpinan-ranting)
+      - [Pasal 27](#pasal-27)
+    - [Bagian Ketujuh - Penetapan Kluster Pimpinan Komisariat](#bagian-ketujuh---penetapan-kluster-pimpinan-komisariat)
+      - [Pasal 28](#pasal-28)
+    - [BAB VI - KETENTUAN PENUTUP](#bab-vi---ketentuan-penutup)
+      - [Pasal 29](#pasal-29)
+  - [DATABASE ORGANISASI](#database-organisasi)
+
+    - [BAB I - KETENTUAN UMUM](#bab-i---ketentuan-umum-1)
+      - [Pasal 1 - Pengertian](#pasal-1---pengertian-1)
+    - [BAB II - TUJUAN DAN FUNGSI](#bab-ii---tujuan-dan-fungsi-1)
+      - [Pasal 2](#pasal-2)
+      - [Pasal 3](#pasal-3)
+      - [Pasal 4 - Prinsip-Prinsip Database Organisasi IPNU](#pasal-4---prinsip-prinsip-database-organisasi-ipnu)
+    - [BAB III - RUANG LINGKUP](#bab-iii---ruang-lingkup)
+      - [Pasal 5 - Cakupan](#pasal-5---cakupan)
+    - [BAB IV - KELEMBAGAAN](#bab-iv---kelembagaan)
+      - [Pasal 6 - Tim Kerja Database](#pasal-6---tim-kerja-database)
+      - [Pasal 7 - Tim Database Nasional](#pasal-7---tim-database-nasional)
+      - [Pasal 8 - Tim Database Wilayah](#pasal-8---tim-database-wilayah)
+      - [Pasal 9 - Tim Database Cabang Istimewa](#pasal-9---tim-database-cabang-istimewa)
+      - [Pasal 10 - Tim Database Cabang](#pasal-10---tim-database-cabang)
+      - [Pasal 11 - Tim Database Anak Cabang](#pasal-11---tim-database-anak-cabang)
+      - [Pasal 12 - Tim Database Komisariat di Perguruan Tinggi](#pasal-12---tim-database-komisariat-di-perguruan-tinggi)
+      - [Pasal 13 - Tim Database Komisariat](#pasal-13---tim-database-komisariat)
+      - [Pasal 14 - Tim Database Ranting](#pasal-14---tim-database-ranting)
+    - [BAB V - JENIS-JENIS DATA](#bab-v---jenis-jenis-data)
+      - [Pasal 15 - Data Pengurus](#pasal-15---data-pengurus)
+      - [Pasal 16 - Data Potensi Organisasi](#pasal-16---data-potensi-organisasi)
+      - [Pasal 17 - Data Statistik Organisasi](#pasal-17---data-statistik-organisasi)
+      - [Pasal 18 - Data Anggota](#pasal-18---data-anggota)
+      - [Pasal 19 - Data Potensi Kader](#pasal-19---data-potensi-kader)
+    - [BAB VI - ALUR PENYUSUNAN](#bab-vi---alur-penyusunan)
+      - [Pasal 20 - Alur Distribusi Admin Tim Database](#pasal-20---alur-distribusi-admin-tim-database)
+      - [Pasal 21 - Alur Pengumpulan Data](#pasal-21---alur-pengumpulan-data)
+    - [BAB VII - PENGELOLAAN, AKSES DAN PENDAYAGUNAAN](#bab-vii---pengelolaan-akses-dan-pendayagunaan)
+      - [Pasal 22 - Pengelolaan Umum](#pasal-22---pengelolaan-umum)
+      - [Pasal 23 - Pengelolaan Database Nasional](#pasal-23---pengelolaan-database-nasional)
+      - [Pasal 24 - Akses](#pasal-24---akses)
+      - [Pasal 25 - Pendayagunaan](#pasal-25---pendayagunaan)
+    - [BAB VIII - KETENTUAN PENUTUP](#bab-viii---ketentuan-penutup)
+      - [Pasal 26 - Penutup](#pasal-26---penutup)
 
   - [BARU](#)
 
@@ -2792,6 +2910,949 @@ Komponen penilaian akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama didasark
    - Foto dan dokumentasi kegiatan.
 
 ### BAB IX - HAK PENGURUS
+
+#### Pasal 16
+
+1. PW dan PCI memiliki hak untuk mengajukan permohonan akreditasi ulang kepada PP.
+2. PC memiliki hak untuk mengajukan permohonan akreditasi ulang kepada PP melalui PW.
+3. PAC memiliki hak untuk mengajukan permohonan akreditasi ulang kepada PC.
+4. PK di Perguruan Tinggi memiliki hak untuk mengajukan permohonan akreditasi ulang kepada PC.
+5. PR dan PK Madrasah dan Pondok Pesantren memiliki hak untuk mengajukan permohonan akreditasi ulang kepada PC melalui PAC.
+
+### BAB X - ORGANISASI PELAKSANA
+
+#### Pasal 17
+
+1. Akreditasi organisasi Ikatan Pelajar Nahdlatul Ulama dilakukan oleh PP dan dilaksanakan oleh Bidang Akreditasi dan Pengawasan Internal.
+2. Dalam melaksanakan akreditasi organisasi, Bidang Akreditasi dan Pengawasan Internal berkoordinasi dengan Koordinator Wilayah PP dan PW.
+
+#### Pasal 18
+
+1. Akreditasi organisasi terhadap PW dan PCI dilaksanakan oleh PP setiap 3 (tiga) tahun sekali.
+2. Akreditasi organisasi terhadap PC dilaksanakan oleh PP (melalui PW) setiap 3 (tiga) tahun sekali.
+3. Akreditasi organisasi terhadap PAC dilaksanakan oleh PC setiap 2 (dua) tahun sekali.
+4. PK di Perguruan Tinggi dilaksanakan oleh PC setiap 2 (dua) tahun sekali.
+5. Akreditasi organisasi terhadap PR dan PK Madrasah dan Pondok Pesantren dilaksanakan oleh PC (melalui PAC) setiap 2 (dua) tahun sekali
+
+#### Pasal 19
+
+1. PP menetapkan Tim Assesor Pusat.
+2. Tim Assesor Pusat bersifat sementara dan dapat dibentuk setiap waktu.
+3. Tim Assesor Pusat sekurang-kurangnya terdiri dari Koordinator Wilayah dan dua orang Pengurus PP.
+
+#### Pasal 20
+
+1. PW menetapkan Tim Assesor Wilayah.
+2. Tim Assesor Wilayah bersifat membantu Tim Assesor Pusat dan dapat dibentuk setiap waktu.
+3. Tim Assesor Wilayah sekurang-kurangnya terdiri dari Koordinator Wilayah tingkat PW dan dua orang Pengurus PW.
+
+#### Pasal 21
+
+1. PC menetapkan Tim Assesor Cabang.
+2. Tim Assesor Cabang bersifat sementara dan dapat dibentuk setiap waktu.
+3. Tim Assesor Cabang sekurang-kurangnya terdiri dari Koordinator Wilayah tingkat PC dan dua orang Pengurus PC.
+
+#### Pasal 22
+
+1. PAC menetapkan Tim Assesor Anak Cabang.
+2. Tim Assesor Anak Cabang bersifat membantu Tim Assesor Cabang dan dapat dibentuk setiap waktu.
+3. Tim Assesor Anak Cabang sekurang-kurangnya terdiri dari Koordinator Wilayah tingkat PAC dan dua orang Pengurus PAC.
+
+#### Pasal 23
+
+1. Tim Assesor Pusat bertugas melakukan evaluasi dan penilaian mutu organisasi PW, PCI dan PC.
+2. Tim Assesor Pusat berwenang memberikan rekomendasi hasil akhir dari proses akreditasi organisasi kepada PP.
+
+#### Pasal 24
+
+3. Tim Assesor Wilayah bertugas membantu Tim Assesor Pusat melakukan evaluasi dan penilaian mutu organisasi PC.
+4. Tim Assesor Wilayah berwenang memberikan rekomendasi hasil akhir dari proses akreditasi organisasi kepada Tim Assesor Pusat.
+
+#### Pasal 25
+
+1. Tim Assesor Cabang bertugas melakukan evaluasi dan penilaian mutu organisasi PAC, PK dan PR.
+2. Tim Assesor Wilayah berwenang memberikan rekomendasi hasil akhir dari proses akreditasi organisasi kepada PC.
+
+#### Pasal 26
+
+1. Tim Assesor Anak Cabang bertugas membantu Tim Assesor Cabang melakukan evaluasi dan penilaian mutu organisasi PK Madrasah dan Pondok Pesantren dan PR.
+2. Tim Assesor Anak Cabang berwenang memberikan rekomendasi hasil akhir dari proses akreditasi organisasi kepada Tim Assesor Cabang.
+
+#### Pasal 27
+
+1. PP dengan mempertimbangkan rekomendasi Tim Assesor Pusat berwenang memberikan Surat Keputusan hasil akreditasi organisasi terhadap PW, PCI dan PC.
+2. PC dengan mempertimbangkan rekomendasi Tim Assesor Cabang berwenang memberikan Surat Keputusan hasil akreditasi organisasi terhadap PAC, PK, PR.
+
+### BAB XI - HASIL AKREDITASI
+
+#### Pasal 28
+
+Hasil akreditasi organisasi ditetapkan dengan standar kualitas sebagai berikut:
+
+- Hasil Akreditasi A : Mendapat nilai 80- 100
+- Hasil Akreditasi B : Mendapat nilai 60- 79
+- Hasil Akreditasi C : Mendapat nilai 40 - 59
+- Hasil Akreditasi D : Mendapat nilai 0- 39
+
+#### Pasal 29
+
+1. PW, PCI, PC, PAC, PR dan PK yang memperoleh status akreditasi A diberikan Reward kelas 1 pada Kongres, Konferensi Wilayah, Konferensi Cabang, dan Konferensi Anak Cabang.
+2. PW, PCI, PC, PAC, PR dan PK yang memperoleh status akreditasi B diberikan Reward kelas 2 pada Konferensi Wilayah, Konferensi Cabang, dan Konferensi Anak Cabang.
+3. PW, PCI, PC, PAC, PR dan PK yang memperoleh status akreditasi C tidak mendapat Reward pada Konferensi Wilayah, Konferensi Cabang, dan Konferensi Anak Cabang.
+4. PW, PCI, PC, PAC, PR dan PK yang memperoleh status akreditasi D diberikan sanksi berupa penahanan Surat Pengesahan.
+
+### BAB XII - TATA CARA AKREDITASI
+
+#### Pasal 30
+
+1. Pimpinan Pusat menetapkan jadwal akreditasi terhadap Pimpinan Wilayah dan Pimpinan Cabang Istimewa.
+2. Pimpinan Pusat melalui Pimpinan Wilayah menetapkan jadwal akreditasi terhadap Pimpinan Cabang.
+3. Pimpinan Cabang menetapkan jadwal akreditasi terhadap Pimpinan Anak Cabang dan Pimpinan Komisariat di Perguruan Tinggi.
+4. Pimpinan Cabang melalui Pimpinan Anak Cabang menetapkan jadwal akreditasi terhadap Pimpinan Ranting dan Pimpinan Komisariat Madrasah dan Pondok
+   Pesantren.
+
+### Bagian Kesatu - Akreditasi Pimpinan Wilayah dan Pimpinan Cabang Istimewa
+
+#### Pasal 31
+
+1. PW. dan PCI. mengajukan permohonan akreditasi kepada PP
+2. Pengajuan permohonan akreditasi disertai dengan boring akreditasi.
+
+#### Pasal 32
+
+1. PP. melalui Bidang Akreditasi dan Pengawasan Internal menerima permohonan akreditasi dari PW dan PCI.
+2. PP membentuk Tim Assesor Pusat untuk melakukan akreditasi terhadap PW. dan PCI.
+3. Tim Assesor Pusat melakukan akreditasi organisasi terhadap PW. berdasarkan borang akreditasi dan fakta di lapangan.
+4. Tim Assesor Pusat menyampaikan rekomendasi hasil akreditasi terhadap PW. dan PCI. kepada PP.
+5. PP. menerbitkan Surat Keputusan hasil akreditasi selambatlambatnya 2 (dua) bulan sejak permohonan akreditasi diterima.
+
+### Bagian Kedua - Akreditasi Pimpinan Cabang
+
+#### Pasal 33
+
+1. PC mengajukan permohonan akreditasi kepada PP melalui PW.
+2. Pengajuan permohonan akreditasi disertai dengan borang akreditasi.
+
+#### Pasal 34
+
+Pengajuan akreditasi PC. kepada PP. dapat dilaksanakan secara kolektif dengan dikoordinasikan oleh PW. terkait.
+
+#### Pasal 35
+
+1. PP. melalui Bidang Akreditasi dan Pengawasan Internal menerima permohonan akreditasi dari PC. melalui PW. terkait.
+2. PP. membentuk Tim Assesor Pusat untuk melakukan akreditasi terhadap PC.
+3. PW. membentuk Tim Assesor Wilayah untuk membantu kinerja Tim Assesor Pusat.
+4. Tim Assesor Pusat dibantu Tim Assesor Wilayah melakukan akreditasi organisasi terhadap PC berdasarkan borang akreditasi dan fakta di lapangan.
+5. Tim Assesor Pusat menyampaikan rekomendasi hasil akreditasi terhadap PC. kepada PP.
+6. PP. menerbitkan Surat Keputusan hasil akreditasi selambat lambatnya 2 (dua) bulan sejak permohonan akreditasi diterima.
+
+### Bagian Ketiga - Akreditasi Pimpinan Anak Cabang
+
+#### Pasal 36
+
+1. PAC mengajukan permohonan akreditasi kepada PC.
+2. Pengajuan permohonan akreditasi disertai dengan boring akreditasi.
+
+#### Pasal 37
+
+1. PC menerima permohonan akreditasi dari PAC.
+2. PC membentuk Tim Assesor Cabang untuk melakukan akreditasi terhadap PAC dan.
+3. Tim Assesor Cabang melakukan akreditasi organisasi terhadap PAC dan PK di Perguruan Tinggi berdasarkan borang akreditasi dan fakta di lapangan.
+4. Tim Assesor Cabang menyampaikan rekomendasi hasil akreditasi terhadap PAC dan PK di Perguruan Tinggi kepada PC.
+5. PC menerbitkan Surat Keputusan hasil akreditasi selambat lambatnya2 (dua) bulan sejak permohonan akreditasi diterima.
+
+### Bagian Keempat - Akreditasi Pimpinan Ranting dan Pimpinan Komisariat
+
+#### Pasal 38
+
+1. PR dan PK Madrasah dan Pondok Pesantren mengajukan permohonan akreditasi kepada PC melalui PAC.
+2. Pengajuan permohonan akreditasi disertai dengan borang akreditasi.
+
+#### Pasal 39
+
+Pengajuan akreditasi PR dan PK Madrasah dan Pondok Pesantren kepada PC dapat dilaksanakan secara kolektif dengan dikoordinasikan oleh PAC terkait.
+
+#### Pasal 40
+
+1. PC menerima permohonan akreditasi dari PR dan PK Madrasah dan Pondok Pesantren melalui PAC terkait.
+2. PC membentuk Tim Assesor Cabang untuk melakukan akreditasi terhadap PR dan PK Madrasah dan Pondok Pesantren.
+3. PAC membentuk Tim Assesor Anak Cabang untuk membantu kinerja Tim Assesor Cabang.
+4. Tim Assesor Cabang melakukan akreditasi organisasi terhadap PR dan PK Madrasah dan Pondok Pesantren berdasarkan borang akreditasi dan fakta di lapangan.
+5. Tim Assesor Cabang menyampaikan rekomendasi hasil akreditasiterhadap PR dan PK Madrasah dan Pondok Pesantren kepada PC.
+6. PC menerbitkan Surat Keputusan hasil akreditasi selambatlambatnya2 (dua) bulan sejak permohonan akreditasi diterima.
+
+### BAB XIII - KETENTUAN PENUTUP
+
+#### Pasal 41
+
+1. Segala sesuatu yang belum diatur dalam Peraturan organisasi ini akan diputuskan kemudian oleh Pimpinan Pusat.
+2. Peraturan Organisasi ini berlaku mulai tanggal ditetapkan dan apabila terdapat kekeliruan akan diadakan perbaikan sebagaimana mestinya.
+3. Untuk pelaksanaan Peraturan Organisasi ini diberlakukan masa persiapan bagi segenap kepengurusan IPNU selama 6 bulan.
+4. Agar setiap pengurus IPNU di semua tingksatan mengetahui dan memahami Peraturan Organisasi ini, maka setiap tingkat kepengurusan IPNU diwajibkan
+   menyosialisasikan hasil rakernas ini.
+
+~ Pasuruan, 12 Agustus 2023~
+
+Ketua - AAN ANDRI ARDIYANSAH
+Sekretaris - MUNAWAR CHOLIL
+
+## KLASTERISASI ORGANISASI
+
+### Muqaddimah
+
+```
+Nomor : 08 /Konbes/IPNU/VIII/2023
+
+PENGESAHAN PERATURAN ORGANISASI
+IKATAN PELAJAR NAHDLATUL ULAMA
+TENTANG
+KLASTERISASI ORGANISASI IPNU
+```
+
+_Bismillahirrahmanirrahim_
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di TamanBudaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+
+Menimbang :
+
+1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukan penyelenggaraan organisasi yang teratur;
+2. Bahwa untuk Memperoleh gambaran secara proporsional tentang kinerja organisasi maka di perlukan Peraturan Organisasi tentang Tata Cara Penetapan Kluster Kepengurusan Organisasi;
+3. Bahwa untuk melaksanakan maksud tersebut, maka perlu ditetapkan Peraturan Organisasi Ikatan Pelajar Nahdlatul Ulama Tentang Tata Cara Penetapan Kluster Kepengurusan Organisasi;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU;
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+Hasil pembahasan sidang komisi organisasi dan masukan- masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+
+Maka dengan senantiasa memohon taufiq, hidayah dan ridlo Allah SWT,
+M E M U T U S K A N
+
+Menetapkan :
+
+1. Mengesahkan Peraturan Organisasi Tentang Tata Cara Penetapan Kluster Kepengurusan Organisasi sebagai Pedoman untuk menetapkan kluster kepengurusan;
+2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Ranting dan Pimpinan Komisariat serta anggota IPNU untuk mentaati seluruh aturan dalam Peraturan Organisasi ini.
+3. Keputusan ini sejak tanggal ditetapkan.
+
+_Wallahul muwafiq ila aqwamith-tharieq_
+
+~ Pasuruan, 12 Agustus 2023~
+
+Ketua - M. GHULAM DHOFIR MANSUR
+Sekretaris - AAN ANDRI ARDIYANSAH
+Anggota - SULKIFLI AZIZ
+
+### BAB I - KETENTUAN UMUM
+
+#### Pasal 1 - Pengertian
+
+Dalam Peraturan Organisasi ini yang dimaksud dengan :
+
+1. Kluster adalah pengelompokan Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Komisariat, Pimpinan Ranting
+   berdasarkan kriteria tertentu yang ditetapkan oleh Peraturan Organisasi.
+
+### BAB II - TUJUAN DAN FUNGSI
+
+#### Pasal 2
+
+Penetapan kluster organisasi Ikatan Pelajar Nahdlatul Ulama, bertujuan untuk:
+
+- Menentukan tingkat kelayakan organisasi dalam menyelenggarakan kegiatannya;
+- Memperoleh gambaran secara proporsional tentang kinerja organisasi.
+
+#### Pasal 3
+
+Penetapan kluster organisasi Ikatan Pelajar Nahdlatul Ulama berfungsi untuk :
+
+- Mengetahui kelayakan dan kinerja organisasi dengan mengacu pada indikator-indikator yang telah ditentukan secara proporsional ;
+- Mempertanggungjawabkan kegiatan organisasi sesuai dengan visi dan misi IkatanPelajar Nahdlatul Ulama ;
+- Meningkatkan kualitas atau kinerja organisasi.
+
+### BAB III - CAKUPAN PEMBAGIAN KLUSTER ORGANISASI
+
+#### Pasal 4
+
+Pembagian kluster organisasi Ikatan Pelajar Nahdlatul Ulama dilaksanakan mencakup PW,PCI, PC, PAC, PR dan PK.
+
+### BAB IV - KOMPONEN PEMBAGIAN KLUSTER
+
+#### Pasal 5
+
+1. Komponen pembagian kluster organisasi Ikatan Pelajar Nahdlatul Ulama didasarkan kepada kondisi masing-masing daerah dimana PW, PCI, PC, PAC, PR dan PK meliputi:
+   - Jumlah penduduk muslim.
+   - Jumlah Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU
+   - Dukungan stakeholder dan majlis alumni
+   - Kondisi geografis
+2. Penetapan kluster organisasi Ikatan Pelajar Nahdlatul Ulama berdasarkan penilaian akumulatif terhadap bobot indikator seluruh paramater.
+
+### Bagian Kesatu - Parameter Penetapan Kluster Pimpinan Wilayah
+
+#### Pasal 6
+
+1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
+   - Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Propinsi ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Penduduk muslim berjumlah 20%-59% dari seluruh jumlah penduduk Propinsi ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Penduduk muslim berjumlah 0%-19% dari seluruh jumlah penduduk Propinsi ditetapkan dengan bobot nilai 5 (lima)
+2. Parameter jumlah pesantren dan lembaga pendidikan NU dengan ketentuan sebagai
+   berikut:
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah lebih dari 1.000 (seribu) di Propinsi terkait ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah 500-1.000 di Propinsi terkait ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah kurang dari 500 (lima ratus) di Propinsi terkait ditetapkan dengan bobot nilai 5 (lima).
+3. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagai berikut:
+   - Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 5 (lima)
+4. Parameter kondisi geografis dengan ketentuan sebagai berikut:
+   - Kondisi geografis dengan akses mudah ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 5 (lima)
+
+#### Pasal 7
+
+Penetapan kluster PW berdasarkan akumulasi bobot nilai empat parameter tersebutdengan ketentuan sebagai berikut:
+
+- PW dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
+- PW dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
+- PW dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
+
+### Bagian Kedua - Parameter Penetapan Kluster Pimpinan Cabang Istimewa
+
+#### Pasal 8
+
+1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
+
+   - Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Negara ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Penduduk muslim berjumlah 20%-59% dari seluruh jumlah penduduk Negara ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Penduduk muslim berjumlah 0%-19% dari seluruh jumlah penduduk Negara ditetapkan dengan bobot nilai 5 (lima)
+
+2. Parameter jumlah lembaga pendidikan dan kampus yang berafeliasi dengan NU
+   memiliki ketentuan sebagai berikut:
+   - lembaga pendidikan dan kampus yang berafeliasi dengan NU berjumlah lebih dari 50 (lima puluh) di Negara terkait ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - lembaga pendidikan dan kampus yang berafeliasi dengan NU berjumlah 20- 50 di Negara terkait ditetapkan dengan bobot nilai 10 (sepuluh)
+   - lembaga pendidikan dan kampus yang berafeliasi dengan NU berjumlah kurang dari 20 (dua puluh) di negara terkait ditetapkan dengan bobot nilai 5 (lima)
+3. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagai berikut:
+   - Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 5 (lima)
+4. Parameter kondisi geografis dengan ketentuan sebagai berikut:
+   - Kondisi geografis dengan akses mudah ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 5 (lima)
+
+#### Pasal 9
+
+Penetapan kluster PCI berdasarkan akumulasi bobot nilai empat parameter tersebutdengan ketentuan sebagai berikut:
+
+- PCI dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
+- PCI dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
+- PCI dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
+
+### Bagian Ketiga - Parameter Penetapan Kluster Pimpinan Cabang
+
+#### Pasal 10
+
+1. Paramater jumlah penduduk muslim dengan ketentuan sebagaiberikut:
+   - Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Kabupaten/Kota/Wilayah Kerja ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Penduduk muslim berjumlah 20%-59% dari seluruh jumlah penduduk Kabupaten/Kota/Wilayah Kerja ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Penduduk muslim berjumlah 0%-19% dari seluruh jumlah penduduk Kabupaten/Wilayah Kerja ditetapkan dengan bobot nilai 5 (lima)
+2. Parameter jumlah pesantren dan lembaga pendidikan NU dengan ketentuan sebagai
+   berikut:
+
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah lebihdari 100 (seratus) di kabupaten/kota/Wilayah Kerja terkait ditetapkandengan bobot nilai 25 (dua puluh lima)
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah 25 - 50 dikabupaten/kota/Wilayah Kerja terkait ditetapkan dengan bobot nilai 10(sepuluh)
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah kurangdari 25 (dua puluh lima) di kabupaten/kota/Wilayah Kerja terkait ditetapkan denganbobot nilai 5 (lima)
+
+3. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagaiberikut:
+   - Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai25 (dua puluh lima)
+   - Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobotnilai 10 (sepuluh)
+   - Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobotnilai 5 (lima)
+4. Parameter kondisi geografis dengan ketentuan sebagai berikut:
+   - Kondisi geografis dengan akses mudah ditetapkan denganbobot nilai 25 (dua puluh lima)
+   - Kondisi geografis dengan akses sedang ditetapkan denganbobot nilai 10 (sepuluh)
+   - Kondisi geografis dengan akses sulit ditetapkan denganbobot nilai 5 (lima)
+
+#### Pasal 11
+
+Penetapan kluster PC berdasarkan akumulasi bobot nilai empat parameter tersebut dengan ketentuan sebagai berikut:
+
+- PC dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
+- PC dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
+- PC dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
+
+### Bagian Keempat - Parameter Penetapan Kluster Pimpinan Anak Cabang
+
+#### Pasal 12
+
+1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
+   - Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Kecamatan ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Penduduk muslim berjumlah 20%-59% dari seluruh jumlah penduduk Kecamatan ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Penduduk muslim berjumlah 0%-19% dari seluruh jumlah penduduk Kecamatan ditetapkan dengan bobot nilai 5 (lima)
+2. Parameter jumlah pesantren dan lembaga pendidikan NU dengan ketentuan sebagai berikut:
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah lebih dari 25 (dua puluh lima) di Kecamatan terkait ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah 75 - 25 di Kecamatan terkait ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Sekolah, Madrasah, Pesantren dan Perguruan Tinggi NU berjumlah kurang dari 7 (tujuh) di Kecamatan terkait ditetapkan dengan bobot nilai 5 (lima)
+3. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagai berikut:
+
+- Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai 25 (dua puluh lima)
+- Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobot nilai 10(sepuluh)
+- Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 5(lima)
+
+4. Parameter kondisi geografis dengan ketentuan sebagai berikut:
+   - Kondisi geografis dengan akses mudah ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 5 (lima)
+
+#### Pasal 13
+
+Penetapan kluster PAC berdasarkan akumulasi bobot nilai empat parameter tersebut
+dengan ketentuan sebagai berikut:
+
+- PAC dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
+- PAC dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
+- PAC dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
+
+### Bagian Kelima - Parameter Penetapan Kluster Pimpinan Komisariat di Perguruan Tinggi
+
+#### Pasal 14
+
+1. Paramater jumlah Mahasiswa dengan ketentuan sebagai berikut:
+   - Jumlah Mahasiswa di Perguruan Tinggi lebih dari 3.000 (tiga ribu) ditetapkan dengan bobot nilai 35 (tiga puluh lima)
+   - Jumlah Mahasiswa di Perguruan sejumlah 1.000-3.000 ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Jumlah Mahasiswa di Perguruan kurang dari 1.000 (seribu) ditetapkan dengan bobot nilai 10 (sepuluh)
+2. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagai berikut:
+   - Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai 35 (tiga puluh lima)
+   - Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 10 (sepuluh)
+3. Parameter kondisi geografis dengan ketentuan sebagai berikut:
+   - Kondisi geografis dengan akses mudah ditetapkan dengan bobot nilai 30 (tiga puluh)
+   - Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 20 (dua puluh)
+   - Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 10 (sepuluh)
+
+#### Pasal 15
+
+Penetapan kluster PKPT berdasarkan akumulasi bobot nilai empat parameter tersebutdengan ketentuan sebagai berikut:
+
+- PR dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
+- PR dengan nilai akumulasi 45 - 75 ditetapkan masuk kluster 2 (dua)
+- PR dengan nilai akumulasi 30 - 40 ditetapkan masuk kluster 3 (tiga)
+
+### Bagian Keenam - Parameter Penetapan Kluster Pimpinan Ranting
+
+#### Pasal 17
+
+1. Paramater jumlah penduduk muslim dengan ketentuan sebagai berikut:
+   - Penduduk muslim berjumlah 60%-100% dari seluruh jumlah penduduk Desa/Kelurahan ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Penduduk muslim berjumlah 20%-59% dari seluruh jumlah penduduk Desa/Kelurahan ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Penduduk muslim berjumlah 0%-19% dari seluruh jumlah penduduk Desa/Kelurahan ditetapkan dengan bobot nilai 5 (lima)
+2. Parameter jumlah pesantren dan lembaga pendidikan NU dengan ketentuan sebagai berikut:
+   - Sekolah, Madrasah dan Pesantren NU berjumlah lebih dari 3 (lima) di Desa/Kelurahan terkait ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Sekolah, Madrasah dan PesantrenNU berjumlah 2 - 3 di Desa/Kelurahan terkait ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Sekolah, Madrasah dan Pesantren NU berjumlah kurang dari 2 (dua) di Desa/Kelurahan terkait ditetapkan dengan bobot nilai 5 (lima)
+3. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagai berikut:
+   - Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 5 (lima).
+4. Parameter kondisi geografis dengan ketentuan sebagai berikut:
+   - Kondisi geografis dengan akses mudah ditetapkan dengan bobot nilai 20 (dua puluh)
+   - Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 10 (sepuluh)
+   - Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 5 (lima)
+
+#### Pasal 18
+
+Penetapan kluster PR berdasarkan akumulasi bobot nilai empat parameter tersebutdengan ketentuan sebagai berikut:
+
+- PR dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
+- PR dengan nilai akumulasi 40 - 75 ditetapkan masuk kluster 2 (dua)
+- PR dengan nilai akumulasi 20 - 35 ditetapkan masuk kluster 3 (tiga)
+
+### Bagian Ketujuh - Parameter Penetapan Kluster Pimpinan Komisariat
+
+#### Pasal 19
+
+1. Paramater jumlah Siswa/Mahasiswa/Santri dengan ketentuan sebagai berikut:
+
+   - Jumlah Siswa/Mahasiswa/Santri di Madrasah, Sekolah, Pesantren dan Perguruan Tinggi NU lebih dari 3.000 (tiga ribu) ditetapkan dengan bobot nilai 35 (tiga puluh lima).
+   - Jumlah Siswa/Mahasiswa/Santri di Madrasah, Sekolah, Pesantren dan Perguruan Tinggi NU sejumlah 1.000-3.000 ditetapkan dengan bobot nilai 25 (dua puluh lima).
+   - Jumlah Siswa/Mahasiswa/Santri di Madrasah, Sekolah, Pesantren dan Perguruan Tinggi NU kurang dari 1.000 (seribu) ditetapkan dengan bobot nilai 10 (sepuluh).
+
+2. Parameter dukungan stakeholder dan majlis alumni dengan ketentuan sebagai berikut:
+   - Dukungan stakeholder dan majlis alumni kuat ditetapkan dengan bobot nilai 35 (tiga puluh lima).
+   - Dukungan stakeholder dan majlis alumni sedang ditetapkan dengan bobot nilai 25 (dua puluh lima)
+   - Dukungan stakeholder dan majlis alumni lemah ditetapkan dengan bobot nilai 10 (sepuluh).
+3. Parameter kondisi geografis dengan ketentuan sebagai berikut:
+   - Kondisi geografis dengan akses mudah ditetapkan dengan bobot nilai 30 (tiga puluh).
+   - Kondisi geografis dengan akses sedang ditetapkan dengan bobot nilai 20 (dua puluh).
+   - Kondisi geografis dengan akses sulit ditetapkan dengan bobot nilai 10 (sepuluh).
+
+#### Pasal 20
+
+Penetapan kluster PK berdasarkan akumulasi bobot nilai empat parameter tersebut dengan ketentuan sebagai berikut:
+
+- PR dengan nilai akumulasi 80 - 100 ditetapkan masuk kluster 1 (satu)
+- PR dengan nilai akumulasi 45 - 75 ditetapkan masuk kluster 2 (dua)
+- PR dengan nilai akumulasi 30 - 40 ditetapkan masuk kluster 3 (tiga)
+
+### BAB V - TATA CARA PENETAPAN KLUSTER
+
+#### Pasal 21
+
+1. Kluster PW. ditetapkan oleh PP.
+2. Kluster PCI. ditetapkan oleh PP.
+3. Kluster PC. ditetapkan oleh PP.
+4. Kluster PAC. ditetapkan oleh PC.
+5. Kluster PR. ditetapkan oleh PC.
+6. Kluster PK. ditetapkan oleh PC.
+
+### Bagian Kesatu - Penetapan Kluster Pimpinan Wilayah
+
+#### Pasal 22
+
+1. Penetapan kluster PW. diajukan oleh PW. terkait kepada PP.
+2. Pengajuan penetapan kluster PW. disertai dengan data pendukung secara tertulis meliputi empat parameter sebagaimana Pasal 6.
+3. PP. menerima dan melakukan verifikasi terhadap pengajuan penetapan kluster tersebut.
+4. Dalam hal syarat pengajuan penetapan kluster belum lengkap, PP. mengembalikan pengajuan tersebut kepada PW.
+5. Dalam hal syarat pengajuan penetapan kluster telah lengkap, PP. menyelenggarakan Rapat Harian penetapan kluster PW.
+6. PP mengeluarkan Surat Keputusan Penetapan Kluster PW.
+
+### Bagian Kedua - Penetapan Kluster Pimpinan Cabang Istimewa
+
+#### Pasal 23
+
+1. Penetapan kluster PCI. diajukan oleh PCI. terkait kepada PP.
+2. Pengajuan penetapan kluster PCI disertai dengan data pendukung secara tertulis meliputi empat parameter sebagaimana Pasal 8.
+3. PP menerima dan melakukan verifikasi terhadap pengajuan penetapan kluster tersebut.
+4. Dalam hal syarat pengajuan penetapan kluster belum lengkap, PP mengembalikan pengajuan tersebut kepada PCI.
+5. Dalam hal syarat pengajuan penetapan kluster telah lengkap, PP menyelenggarakan Rapat Harian penetapan kluster PCI.
+6. PP mengeluarkan Surat Keputusan Penetapan Kluster PCI.
+
+### Bagian Ketiga - Penetapan Kluster Pimpinan Cabang
+
+#### Pasal 24
+
+1. Penetapan kluster PC. diajukan oleh PW. terkait kepada PP.
+2. Pengajuan penetapan kluster PC. disertai dengan data pendukung secara tertulis meliputi empat parameter sebagaimana Pasal 10.
+3. Pengajuan penetapan kluster PC. dilaksanakan secara kolektif.
+4. PP. menerima dan melakukan verifikasi terhadap pengajuan penetapan kluster tersebut.
+5. Dalam hal syarat pengajuan penetapan kluster belum lengkap, PP. mengembalikan pengajuan tersebut kepada PW.
+6. Dalam hal syarat pengajuan penetapan kluster telah lengkap, PP. menyelenggarakan Rapat Harian penetapan kluster PC.
+7. PP mengeluarkan Surat Keputusan Penetapan Kluster PC.
+
+### Bagian Keempat - Penetapan Kluster Pimpinan Anak Cabang
+
+#### Pasal 25
+
+1. Penetapan kluster PAC. diajukan oleh PAC. terkait kepada PC.
+2. Pengajuan penetapan kluster PAC. disertai dengan data pendukung secara tertulis meliputi empat parameter sebagaimana Pasal 12.
+3. PC menerima dan melakukan verifikasi terhadap pengajuan penetapan kluster tersebut.
+4. Dalam hal syarat pengajuan penetapan kluster belum lengkap, PC mengembalikan pengajuan tersebut kepada PAC.
+5. Dalam hal syarat pengajuan penetapan kluster telah lengkap, PC. menyelenggarakan Rapat Harian penetapan kluster PAC.
+6. PC mengeluarkan Surat Keputusan Penetapan Kluster PAC.
+
+### Bagian Kelima - Penetapan Kluster Pimpinan Komisariat di Perguruan Tinggi
+
+#### Pasal 26
+
+1. Penetapan kluster PK di Perguruan Tinggi. diajukan oleh PK terkait kepada PC.
+2. Pengajuan penetapan kluster PK di Perguruan Tinggi disertai dengan data pendukung secara tertulis meliputi empat parameter sebagaimana Pasal 14.
+3. PC menerima dan melakukan verifikasi terhadap pengajuan penetapan kluster tersebut.
+4. Dalam hal syarat pengajuan penetapan kluster belum lengkap, PC mengembalikan pengajuan tersebut kepada PK.
+5. Dalam hal syarat pengajuan penetapan kluster telah lengkap, PC. menyelenggarakan Rapat Harian penetapan kluster PK.
+6. PC. mengeluarkan Surat Keputusan Penetapan Kluster PK.
+
+### Bagian Keenam - Penetapan Kluster Pimpinan Ranting
+
+#### Pasal 27
+
+1. Penetapan kluster PR. diajukan oleh PAC. terkait kepada PC.
+2. Pengajuan penetapan kluster PR. disertai dengan data pendukung secara tertulis meliputi empat parameter sebagaimana Pasal 16.
+3. Pengajuan penetapan kluster PR. dilaksanakan secara kolektif.
+4. PC. menerima dan melakukan verifikasi terhadap pengajuan penetapan kluster tersebut.
+5. Dalam hal syarat pengajuan penetapan kluster belum lengkap, PC. mengembalikan pengajuan tersebut kepada PAC.
+6. Dalam hal syarat pengajuan penetapan kluster telah lengkap, PC. menyelenggarakan Rapat Harian penetapan kluster PR.
+7. PC. mengeluarkan Surat Keputusan Penetapan Kluster PR.
+
+### Bagian Ketujuh - Penetapan Kluster Pimpinan Komisariat
+
+#### Pasal 28
+
+1. Penetapan kluster PK. diajukan oleh PAC. terkait kepada PC.
+2. Pengajuan penetapan kluster PK disertai dengan data pendukung secara tertulis meliputi empat parameter sebagaimana Pasal 18.
+3. Pengajuan penetapan kluster PK. dilaksanakan secara kolektif.
+4. PC. menerima dan melakukan verifikasi terhadap pengajuan penetapan kluster tersebut.
+5. Dalam hal syarat pengajuan penetapan kluster belum lengkap, PC. mengembalikan pengajuan tersebut kepada PAC.
+6. Dalam hal syarat pengajuan penetapan kluster telah lengkap, PC menyelenggarakan Rapat Harian penetapan kluster PK.
+7. PC mengeluarkan Surat Keputusan Penetapan Kluster PK.
+
+### BAB VI - KETENTUAN PENUTUP
+
+#### Pasal 29
+
+1. Segala sesuatu yang belum diatur dalam Peraturan organisasi iniakan diputuskan kemudian oleh Pimpinan Pusat.
+2. Peraturan Organisasi ini berlaku mulai tanggal ditetapkan danapabila terdapat kekeliruan akan diadakan perbaikansebagaimana mestinya.
+3. Untuk pelaksanaan Peraturan Organisasi ini diberlakukan masa persiapan bagi segenap kepengurusan IPNU selama 6 bulan.
+4. Agar setiap pengurus IPNU mengetahui dan memahamiPeraturan Organisasi ini, maka setiap tingkat kepengurusan IPNU diwajibkan menyosialisasikan Hasil Rakernas ini.
+
+~ Pasuruan, 12 Agustus 2023~
+
+Ketua - AAN ANDRI ARDIYANSAH
+Sekretaris - MUNAWAR CHOLIL
+
+## DATABASE ORGANISASI
+
+### Muqaddimah
+
+```
+Nomor : 09 /Konbes/IPNU/VIII/2023
+
+PENGESAHAN PERATURAN ORGANISASI
+IKATAN PELAJAR NAHDLATUL ULAMA
+TENTANG
+DATABASE ORGANISASI IPNU
+```
+
+_Bismillahirrahmanirrahim_
+
+Konferensi Besar Ikatan Pelajar Nahdlatul Ulama tanggal 11 – 13 Agustus 2023 di Taman Budaya Candra Wilwatikta Pasuruan Jawa Timur, setelah :
+
+Menimbang :
+
+1. Bahwa kelembagaan organisasi yang kuat mutlak memerlukandatabase yang lengkap dan valid;
+2. Bahwa untuk menjamin adanya data base yang lengkap dan valid, diperlukan pedoman panyusunan _database_ ;
+3. Bahwa untuk melaksanakan maksud tersebut, maka perlu ditetapkan Peraturan Pimpinan Pusat tentang Pedoman penyusunan _Database_ IPNU;
+
+Mengingat :
+
+1. Peraturan Dasar (PD) IPNU;
+2. Peraturan Rumah Tangga (PRT) IPNU
+
+Memperhatikan :
+Hasil pembahasan sidang komisi organisasi dan masukan- masukan peserta Konferensi Besar Ikatan Pelajar Nahdlatul Ulama;
+
+Maka dengan senantiasa memohon taufiq, hidayah dan ridlo Allah SWT,
+M E M U T U S K A N
+
+Menetapkan :
+
+1. Mengesahkan Peraturan Organisasi Tentang Database Organisasi sebagai Pedoman untuk melakukan pemetaan dan pendataan organisasi;
+2. Memerintahkan kepada Pimpinan Pusat, Pimpinan Wilayah, Pimpinan Cabang, Pimpinan Cabang Istimewa, Pimpinan Anak Cabang, Pimpinan Ranting dan Pimpinan Komisariat serta anggota IPNU untuk mentaati seluruh aturan dalam Peraturan Organisasi ini.
+3. Keputusan ini sejak tanggal ditetapkan.
+
+_Wallahul muwafiq ila aqwamith-tharieq_
+
+~Pasuruan, 12 Agustus 2023~
+
+Ketua - M. GHULAM DHOFIR MANSUR
+Sekretaris - AAN ANDRI ARDIYANSAH
+Anggota - SULKIFLI AZIZ
+
+### BAB I - KETENTUAN UMUM
+
+#### Pasal 1 - Pengertian
+
+1. _Database_ adalah kumpulan data organisasi yang tersimpan dan diorganisasikan sehingga data tersebut bisa diambil atau dicari dengan mudah dan efisien.
+2. Tim kerja _database_ adalah tim pelaksana seluruh tahapan pada penyusunan dan pengelolaan _database_ yang terdiri dari tim _database_ nasional, tim _database_ wilayah, tim _database_ cabang, tim _database_ anak cabang, tim _database_ ranting, dan tim _database_ komisariat.
+3. Sistem pengelolaan dan pengolahan data adalah seperangkat metode, pendekatan dan tata cara teknis pengolahan dan pengelolaan data.
+4. Alur formulir adalah alur distribusi formulir dari Pimpinan Pusat hingga Pimpinan Ranting dan Pimpinan Komisariat.
+5. Alur data adalah alur perjalanan data yang dibutuhkan dalam penyusunan _database_ mulai dari Pimpinan Ranting/Pimpinan Komisariat hingga Pimpinan Pusat.
+6. Sistem akses sistem yang digunakan untuk mengakses data base secara mudah, dan efisien.
+7. Data pengurus adalah data yang berisi informasi dan identitas lengkap pengurus IPNU di semua tingkat kepengurusan.
+8. Data potensi organisasi adalah data yang menampilkan visualisasi potensi organisasi yang dimiliki pada suatu tingkat kepengurusan.
+9. Data statistik organisasi adalah data yang memuat data-data penting organisasi yang setingkat dibawahnya.
+10. Data anggota adalah data yang memuat informasi tentang semua anggota IPNU pada semua tingkat kepengurusan.
+11. Data potensi kader adalah data yang memuat potensi kader IPNU pada suatu tingkat kepengurusan secara menyeluruh.
+12. Data alumni adalah data yang memuat informasi tentang alumni IPNU pada semua tingkat kepengurusan.
+13. Data aset organisasi adalah data yang memuat informasi tentang aset organisasi secara lengkap.
+14. Data administrasi organisasi adalah data yang memuat perangkat dan peralatan administrasi yang dimiliki olehsuatu tingkat kepengurusan IPNU.
+15. Data stakeholder organisasi adalah data yang memuat infomasi tentang para pemangku kepentingan dan jaringan yang dimiliki oleh IPNU di setiap tingkat kepengurusan.
+
+### BAB II - MAKSUD DAN TUJUAN
+
+#### Pasal 2 - Maksud
+
+Pedoman Penyusunan _Database_ dimaksudkan sebagai pedoman bagi semua pengurus IPNU di semua tingkatan untuk menyusun, mengorganisir dan mengelola _database_ organisasisecara teratur, integral, valid dan berdaya guna.
+
+#### Pasal 3 - Tujuan
+
+Pedoman Penyusunan _Database_ sebagaimana dimaksud dalam Pasal 2 bertujuan untuk:
+
+- mendukung kinerja organisasi secara umum;
+- menjamin penyediaan data yang lengkap, tepat, valid dan dapat dipertanggungjawabkan;
+- mengoptimalkan potensi organisasi.
+
+#### Pasal 4 - Prinsip-Prinsip Database Organisasi IPNU
+
+Pengelolahan database IPNU berdasarkan :
+
+1. Prinsip keterbukaan, database IPNU dapat diakses secara terbuka
+2. Prinsip Profesionalitas, database IPNU dikelola secara profesional dan prosedural
+3. Prinsip Keamanan, databse IPNU harus dijamin keamanannya
+4. Prinsip Kemanfaatan, database IPNU dikelola untuk kemanfaatan dan kemaslahatan
+
+### BAB III - RUANG LINGKUP
+
+#### Pasal 5 - Cakupan
+
+1. Pedoman Penyusunan _Database_ mencakup sistem pengorganisasian dan pengelolaan seluruh data yang tercakup dalam _database_ organisasi
+2. _Database_ organisasi sebagaimana yang dimaksud pada ayat (1) meliputi:
+   - Data pengurus;
+   - Data potensi organisasi;
+   - Data statistik organisasi;
+   - Data anggota;
+   - Data potensi kader;
+   - Data aset organisasi;
+   - Data administrasi organisasi;
+   - Data alumni;
+   - Data stakeholder organisasi.
+
+### BAB IV - KELEMBAGAAN
+
+#### Pasal 6 - Tim Kerja Database
+
+1. Setiap tingkat kepengurusan IPNU membentukan tim kerja _database_.
+2. Tim kerja _database_ terdiri dari tim _database_ nasional, tim _database_ wilayah, tim _database_ cabang istimewa, tim _database_ cabang, tim _database_ anak cabang, tim _database_ ranting, dan tim _database_ komisariat.
+3. Tim Kerja Data base disahkan dengan SK oleh masing-masing tingkat kepengurusan.
+4. Tim Kerja _Database_ bertanggung jawab kepada Ketua Umum atau Ketua pada tingkat yang bersangkutan.
+5. Tim Kerja Data base menjalankan tugasnya secara berkesinambungan.
+6. Masa kerja Tim Kerja _Database_ mengikuti masa khidmat kepengurusan yang bersangkutan.
+7. Setiap kepengurusan baru berhak memperbarui tim _database_ sesuai dengan kebutuhan.
+
+#### Pasal 7 - Tim Database Nasional
+
+1. Tim _Database_ Nasional dibentuk oleh Pimpinan Pusat dan disahkan dengan SK PP IPNU.
+2. Tim _Database_ Nasional beranggotakan 9 orang dengan komposisi 40% berbasis keilmuan sosial dan 60% berbasis ketrampilan teknologi informasi
+3. Tim _Database_ Nasional bertugas:
+   - Menyiapkan perangkat aturan teknis penyusunan _database_ nasional;
+   - Menyelenggarakan pelatihan untuk meningkatkan kapasitas dan kinerja tim _database_ wilayah;
+   - Membuat dan mensosialisasikan _database_ dalam Bentuk digital kepada Pimpinan Wilayah dan Pimpinan Cabang;
+   - Memonitoring distribusi formulir ke semua PW dan PC;
+   - Mengkoordinir Tim _Database_ Wilayah dalam keseluruhan pelaksanaan penyusunan dan pengelolaan _database_ ;
+   - Menyiapkan sofware pengumpulan, pengelolaan dan akses _database_ ;
+   - Menyiapkan dan menyusun data PP yang diperlukan dalam penyusunan _database_ ;
+   - Mengorganisir _database_ yang dikumpulkan dari tim _database_ wilayah dan tim _database_ cabang menjadi _database_ nasional;
+   - Mengelola _database_ nasional dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Nasional bertanggung jawab kepada Ketua Umum PP IPNU.
+
+#### Pasal 8 - Tim Database Wilayah
+
+1. Tim _Database_ Wilayah dibentukoleh Pimpinan Wilayah dandisahkan dengan SK PW IPNU.
+2. Tim _Database_ Wilayah beranggotakan minimal 7 orang dengan komposisi 40% berbasis keilmuan sosial dan 60% berbasis ketrampilan teknologi informasi.
+3. Tim _Database_ Wilayahbertugas:
+   - Menyelenggarakan pelatihan untuk meningkatkan kapasitas dan kinerja tim _database_ cabang;
+   - Mengkoordinir tim _database_ cabang dalam penyusunan dan pengumpulan _database_ ;
+   - Menyiapkan dan menyusun data PW yang diperlukan dalam penyusunan _database_ dengan mengisi formulir yang telah disediakan;
+   - Mengumpulkan dan mengorganisir data-data dari Pimpinan Cabang pada wilayah kerja yang bersangkutan;
+   - Mengirimkan data-data secara digital kepada Pimpinan Pusat dengan cara _upload_ melalui _software_ yang telah disiapkan;
+   - Mengelola _database_ wilayah dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Wilayah bertanggung jawab kepada Ketua PW IPNU.
+
+#### Pasal 9 - Tim Database Cabang Istimewa
+
+1. Tim _Database_ Cabang Istimewah dibentuk oleh Pimpinan Cabang Istimewah dan disahkan dengan SK PW IPNU.
+2. Tim _Database_ Cabang Istimewa beranggotakan minimal 5 orang dengan komposisi 40% berbasis keilmuan sosial dan 60% berbasis ketrampilan teknologi informasi.
+3. Tim _Database_ Wilayah bertugas:
+   - Melakukan pendataan terhadap aspek-aspek yang diperlukan dalam penyusunan _database_ ;
+   - Menyusun data-data tersebut dengan mengisi form online yang telah disediakan;
+   - Melaporkan proses penginputan kepada Pimpinan Pusat.
+   - Mengelola _database_ cabang istimewa dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Cabang Istimewa bertanggungjawab kepada Ketua PCI IPNU.
+
+#### Pasal 10 - Tim Database Cabang
+
+1. Tim _Database_ Cabang dibentuk oleh Pimpinan Cabang dan disahkan dengan SK PC IPNU.
+2. Tim _Database_ Cabang beranggotakan minimal 5 orang dengan komposisi 40% berbasis keilmuan sosial dan 60% berbasis ketrampilan teknologi informasi.
+3. Tim _Database_ Wilayah bertugas:
+   - Menyelenggarakan pelatihan untuk meningkatkan kapasitas dan kinerja tim _database_ anak cabang;
+   - Mensosialisasikan aplikasi (software) dan bembagikan kode akses admin kepada semua PAC, PR dan PK.
+   - Memonitoring distribusi kode akses Admin ke semua PAC, PR dan PK;
+   - Mengkoordinir tim _database_ anak cabang dalam penyusunan dan penginputan _database_ ;
+   - Menyiapkan dan menginput data PC yang diperlukan dalam penyusunan _database_ dengan mengisi formulir yang telah disediakan;
+   - Mengoreksi data-data dari PAC dan PKPT pada wilayah kerja yang bersangkutan;
+   - Melaporkan proses penginputan kepada Pimpinan Wilayah;
+   - Mengelola _database_ cabang dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Cabang bertanggung jawab kepada Ketua PC IPNU.
+
+#### Pasal 11 - Tim Database Anak Cabang
+
+1. Tim _Database_ Anak Cabang dibentuk oleh Pimpinan Anak Cabang dan disahkan dengan SK PAC IPNU.
+2. Tim _Database_ Anak Cabang beranggotakan minimal 3 orang.
+3. Tim _Database_ Anak Cabang bertugas:
+   - Menyelenggarakan pelatihan untuk meningkatkan kapasitas dan kinerja tim _database_ anak cabang;
+   - Mensosialisasikan aplikasi (software) dan bembagikan kode akses admin kepada semua PR dan PK.
+   - Memonitoring distribusi kode akses Admin ke semua PR dan PK;
+   - Mengkoordinir tim database PR dan PK dalam penyusunan dan penginputan database ;
+   - Menyiapkan dan menginput data PAC yang diperlukan dalam penyusunan database dengan mengisi formulir yang telah disediakan;
+   - Mengoreksi data-data dari PR dan PK pada wilayah kerja yang bersangkutan;
+   - Melaporkan proses penginputan kepada Pimpinan Cabang;
+   - Mengelola database cabang dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Anak Cabang bertanggungjawab kepada Ketua PAC IPNU.
+
+#### Pasal 12 - Tim Database Komisariat di Perguruan Tinggi
+
+1. Tim _Database_ Komisariat Perguruan Tinggi dibentuk oleh Pimpinan Komisariat di Perguruan Tinggi dan jika perlu disahkan dengan SK PK IPNU.
+2. Tim _Database_ Komisariat di Perguruan Tinggi beranggotakan minimal 2 orang.
+3. Tim _Database_ Komisariat di Perguruan Tinggi bertugas:
+   - Melakukan pendataan terhadap aspek-aspek yang diperlukan dalam penyusunan _database_ ;
+   - Menyusun data-data tersebut dengan mengisi form online yang telah disediakan;
+   - Melaporkan proses penginputan kepada Pimpinan Cabang.
+   - Mengelola _database_ komisariat dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Komisariat di Perguruan Tinggi bertanggung jawab kepada Ketua PK IPNU di Perguruan Tinggi.
+
+#### Pasal 13 - Tim Database Komisariat
+
+1. Tim _Database_ Komisariat dibentuk oleh Pimpinan Komisariat dan jika perlu disahkan dengan SK PK IPNU.
+2. Tim _Database_ Komisariat beranggotakan minimal 2 orang.
+3. Tim _Database_ Komisariatbertugas:
+   - Melakukan pendataan terhadap aspek-aspek yang diperlukan dalam penyusunan _database_ ;
+   - Menyusun data-data tersebut dengan mengisi form online yang telah disediakan;
+   - Melaporkan proses penginputan kepada Pimpinan Anak Cabang.
+   - Mengelola _database_ komisariat dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Komisariat bertanggung jawab kepada Ketua PK IPNU.
+
+#### Pasal 14 - Tim Database Ranting
+
+1. Tim _Database_ Ranting dibentuk oleh Pimpinan Ranting dan jika perlu disahkan dengan SK PR IPNU.
+2. Tim _Database_ Ranting beranggotakan minimal 2 orang.
+3. Tim _Database_ Ranting bertugas:
+   - Melakukan pendataan terhadap aspek-aspek yang diperlukan dalam penyusunan _database_ ;
+   - Menyusundata-data tersebutdengan mengisiform online yang telah disediakan;
+   - Melaporkan proses penginputan kepada Pimpinan Anak Cabang.
+   - Mengelola database komisariat dan mendayagunakannya untuk mendukung penyelenggaraan organisasi.
+4. Tim _Database_ Ranting bertanggung jawab kepada Ketua PR IPNU.
+
+### BAB V - JENIS-JENIS DATA
+
+#### Pasal 15 - Data Pengurus
+
+1. Data pengurus dibuat dalam bentuk kolom sebagai berikut:
+   - Nomor urut;
+   - Nomor induk;
+   - Nama pengurus;
+   - Tempat/tanggal lahir;
+   - Pendidikan terakhir;
+   - Jabatan;
+   - Alamat/tempat tinggal;
+   - Tahun mulai masuk IPNU;
+   - Nomor kontak;
+   - Keterangan.
+2. Pada bagian atas daftar susunan pengurus, dicantumkan juga nomor surat pengesahan yang merupakan ketetapan tingkat kepengurusan yang lebih atas, tanggal Kongres/konferensi/rapat anggota dan masa khidmat kepengurusan yang sedang berjalan.
+
+#### Pasal 16 - Data Potensi Organisasi
+
+1. Data potensi organisasi dibuat dalam bentuk tabel yang memuat kolom-kolom, sebagai berikut:
+   - Nomor urut;
+   - Nomor/huruf kode wilayah kerja;
+   - Nama daerah (yang berada satu tingkat dibawahnya);
+   - Jumlah daerah (yang berada dua tingkat dibawahnya);
+   - Jumlah daerah (yang berada tiga tingkat tingkat di bawahnya);
+   - Jumlah tingkatan organisasi yang berada duatingkat dibawahnya;
+   - Jumlah anggota;
+   - Jumlah kader;
+   - Jumlah alumni;
+   - Keterangan.
+2. Data potensi organisasi Pimpinan Ranting dan Pimpinan Komisariat dibuat dengan lebih sederhana, dengan mengurangi kolom nama daerah dan jumlah daerah kerja.
+
+#### Pasal 17 - Data Statistik Organisasi
+
+1. Data statistik organisasi memuat kolom-kolom, sebagai berikut:
+   - Nomor urut;
+   - Nama daerah yang berada satu tingkat di bawahnya;
+   - Alamat sekretariat daerah yang berada satu tingkat dibawahnya;
+   - Nomor surat pengesahan dari struktur kepengurusan yang setingkat diatasnya;
+   - Tanggal konferensi/rapat anggota;
+   - Nama ketua, Sekretaris dan bendahara organisasi yang berada satu tingkat di bawahnya;
+   - Keterangan.
+2. Data statistik hanya diperlukan pada tingkat PP, PW, PC dan PAC.
+
+#### Pasal 18 - Data Anggota
+
+Buku daftar anggota dibuat dalam bentuk tabel yang memuat kolom-kolom sebagai berikut:
+
+- Nomor urut;
+- Nomor induk anggota;
+- Nama lengkap anggota;
+- Tempat dan tanggallahir;
+- Pendidikan terakhir;
+- Alamat/tempat tinggal; jenjang pelatihan yang pernahdiikuti;
+- Tanggal masuk;
+- Tanggal keluar;
+- Keterangan: misal kapan diberi tanda anggota.
+
+#### Pasal 19 - Data Potensi Kader
+
+Data Potensi Kader dibuat dalam Bentuk table yang memuat kolom-kolom sebagai berikut:
+
+- Nomor urut;
+- Nama daerah yang berada satu tingkat di bawahnya;
+- Jumlah alumni Latihan Kader Utama;
+- Jumlah alumni Latihan Kader Muda;
+- Jumlah kader instruktur (instruktur pelatihan);
+- Jumlah alumni pelatihan profesi;
+- Keterangan.
+
+### BAB VI - ALUR PENYUSUNAN
+
+#### Pasal 20 - Alur Distribusi Admin Tim Database
+
+1. Pimpinan Pusat mensosialisasikan aturan dan tatacara penggunaan aplikasi (software) dibutuhkan dalam penyusunan _database_ nasional.
+2. Pimpinan Pusat membagikan kode akses Admin kepada semua Pimpinan Wilayah, Pimpinan Cabang Istimewa dan Pimpinan Cabang melalui Pimpinan Wilayah.
+3. Pimpinan Wilayah berkewajiban mensosialisasikan aplikasi (software) serta membagikan kode akses Admin kepada semua Pimpinan Cabang pada wilayah
+   kerjanya.
+4. Pimpinan Cabang berkewajiban mensosialisasikan aplikasi (software) serta membagikan kode akses Admin kepada seluruh Pimpinan Anak Cabang, dan Pimpinan Ranting, Pimpinan Komisariat melalui Pimpinan Anak Cabang pada wilayah kerjanya.
+5. Pimpinan Cabang berkewajiban memantau proses pendistribusian kode Admin dari Pimpinan Anak Cabang kepada Pimpinan Ranting dan Pimpinan Komisariat pada wilayah.
+6. Pimpinan Anak Cabang berkewajiban mensosialisasikan aplikasi (software) serta membagikan kode akses Admin kepada semua Pimpinan Ranting dan Pimpinan Komisariat pada wilayah kerjanya.
+7. Pimpinan Cabang Istimewah, Pimpinan Ranting dan Pimpinan Komisariat menerima aplikasi (software) serta kode akses Admin untuk selanjutnya mengisinya.
+
+#### Pasal 21 - Alur Pengumpulan Data
+
+8. Pimpinan Ranting dan Komisariat mengisi form digital yang telah disediakan dalam Aplikasi (software) dan melaporkan kepada Pimpinan Cabang melalui Pimpinan Anak Cabang.
+9. Pimpinan Cabang Istimewah form digital yang telah disediakan dalam Aplikasi (software) dan melaporkan kepada Pimpinan Pusat.
+10. Pimpinan Anak Cabang menerima data melalui admin kemudian melaporkan kepada Pimpinan Cabang
+11. Pimpinan Cabang menerima data melalui admin kemudian melaporkan kepada Pimpinan Wilayah
+12. Pimpinan Wilayah menerima data melalui admin kemudian melaporkan kepada Pimpinan Pusat
+13. Pimpinan Pusat mengumpulkan dan mengorganisir data yang telah di-up-load untuk selanjutnya diolah menjadi _database_ nasional.
+
+### BAB VII - PENGELOLAAN, AKSES DAN PENDAYAGUNAAN
+
+#### Pasal 22 - Pengelolaan Umum
+
+1. Setiap tingkat kepengurusan harus mengelola _database_ pada daerah kerja yang bersangkutan.
+2. Pengelolaan sebagaimana ayat (1) dilakukan oleh tim _database_ pada setiap tingkat kepengurusan masing-masing.
+
+#### Pasal 23 - Pengelolaan Database Nasional
+
+1. Pengelolaan _Database_ Nasional dilakukan secara profesional oleh Tim _Database_ Nasional.
+2. Pengelolaan sebagaimana ayat (1) dilakukan menggunakan sistem information technology (IT).
+3. Sistem IT sebagaimana dimaksud dalam ayat (2) dibuat menggunakan software (perangkat lunak) online yang terpusat pada satu server sehingga bisa diakses secara nasional.
+
+#### Pasal 24 - Akses
+
+1. Pada dasarnya _database_ harus bisa diakses oleh semua anggota dan pengurus IPNU serta pihak lain yang berkepentingan.
+2. Untuk Kerahasiaan data dan menjaga kepentingan organisasi, data dibagi menjadi dua jenis, yaitu:
+3. data publik;
+4. data internal organisasi.
+5. Data publik adalah data-data yang boleh diakses oleh pihak eksternal dan masyarakat umum.
+6. Data internal organisasi adalah data-data yang secara khusus diperuntukkan hanya untuk kepentingan kader dan pengurus organisasi.
+7. Pemilahan data seb### BAB IX - HAK PENGURUS
+
+#### Pasal 25 - Pendayagunaan
+
+1. _Database_ harus didayagunakan sepenuhnya untuk kepentingan organisasi.
+2. Pendayagunaan sebagaimana ayat (1) disesuaikan dengan kebutuhan tingkat kepengurusan yang bersangkutan.
+3. Untuk menjamin pendayagunaan sebagaimana ayat (1), maka tim kerja _database_ harus menyediakan perangkat akses yang mudah dan memadai.
+
+### BAB XIII - KETENTUAN PENUTUP
+
+#### Pasal 26 - Penutup
+
+1. Peraturan Organisasi ini berlaku sejak tanggal ditetapkan.
+2. Agar setiap pengurus dan anggota IPNU mengetahui dan memahami Pedoman Penyusunan _Database_ , maka setiap tingkat kepengurusan IPNU diwajibkan
+   menyosialisasikan Peraturan organisasi ini.
+
+~ Pasuruan, 12 Agustus 2023~
+
+Ketua - AAN ANDRI ARDIYANSAH
+Sekretaris - MUNAWAR CHOLIL
 
 # TAMBAH BAB BARU
 
